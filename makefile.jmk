@@ -11,7 +11,7 @@ pkgs = "map" "set" "sp" "eqn";
 srcs = (glob (patsubst "", "src/%/*.java", pkgs));
 docs = (glob "*.html") (glob "*.xml");
 
-javaflags = "-O" "-sourcepath" "src" "-d" "." "-target" "1.1";
+javaflags = "-O" "-sourcepath" "src" "-d" ".";
 
 jar: srcs; {
   exec "javac" javaflags ?;
