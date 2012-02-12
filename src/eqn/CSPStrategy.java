@@ -67,6 +67,7 @@ public final class CSPStrategy implements Strategy
 				for(int j = 0; j < m.columns(); j++)
 				{
 					constraints[i][j].calculate(m);
+					constraints[i][j].simplify();
 					int cellVal = m.look(i, j);//Look at a cell
 					if(cellVal == m.MARKED)
 						constraints[i][j].cellType = CSPCell.type.MINE;
@@ -78,6 +79,10 @@ public final class CSPStrategy implements Strategy
 						y = j;
 					}
 				}
+
+
+			//Use constraints to try to find a clear cell
+			CSPFindBestChoice(m);
 
 			//No known clear space. Pick a random cell
 			if( x == 0 && y == 0)
@@ -92,5 +97,10 @@ public final class CSPStrategy implements Strategy
 			constraints[x][y].setValue(m.probe(x, y++));
 			//System.out.println(x + " " + y);
 		}
+	}
+
+	public int CSPFindBestChoice(Map m)
+	{
+		return 0;
 	}
 }
