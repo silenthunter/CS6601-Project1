@@ -27,6 +27,7 @@ public class CSPCell
 
 	public void setValue(int val)
 	{
+		if(value != 0) return;
 		if(val == 0)
 		{
 			for(CSPCell cell : neighbours)
@@ -49,6 +50,7 @@ public class CSPCell
 
 	public void calculate(Map m)
 	{
+		if(m.look(row, col) == m.UNPROBED || m.look(row, col) == m.MARKED) return;
 		neighbourChanged = false;
 		int count = 0;
 
@@ -72,8 +74,18 @@ public class CSPCell
 			neighbours.remove(cell);
 				
 
+		//No mines left unaccounted for. Only clear spaces remain
+		if(value == 0)
+		{
+			for(CSPCell cell : neighbours)
+				if(cell.cellType == type.UNKNOWN)
+				{
+					cell.changed();
+					cell.cellType = type.CLEAR;
+				}
+		}
 		//The unknown values are mines
-		if(count == value && value != 0)
+		else if(count == value)
 		{
 			for(CSPCell cell : neighbours)
 				if(cell.cellType == type.UNKNOWN)
