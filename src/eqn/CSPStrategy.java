@@ -18,7 +18,7 @@ public final class CSPStrategy implements Strategy
 		//Initialize
 		for(int i = 0; i < m.rows(); i++)
 			for(int j = 0; j < m.columns(); j++)
-				constraints[i][j] = new CSPCell();
+				constraints[i][j] = new CSPCell(i, j);
 
 		//Link all of the cell constraints
 		for(int i = 0; i < m.rows(); i++)
@@ -66,6 +66,7 @@ public final class CSPStrategy implements Strategy
 			for(int i = 0; i < m.rows(); i++)
 				for(int j = 0; j < m.columns(); j++)
 				{
+					constraints[i][j].calculate(m);
 					int cellVal = m.look(i, j);//Look at a cell
 					if(cellVal == m.MARKED)
 						constraints[i][j].cellType = CSPCell.type.MINE;
@@ -85,7 +86,7 @@ public final class CSPStrategy implements Strategy
 				y = rand.nextInt(m.columns());
 				//System.out.println("Guessing!");
 			}
-			else
+			//else
 				//System.out.println("Not Guessing!");
 
 			constraints[x][y].setValue(m.probe(x, y++));
