@@ -9,22 +9,59 @@ public final class CSPStrategy implements Strategy
 {
 
 	public CSPCell[][] constraints;
-	int x = 0, y = 0;
 	public void play(Map m)
 	{
 		Random rand = new Random();
 		boolean first = true;
 		constraints = new CSPCell[m.rows()][m.columns()];
 
+		//Initialize
+		for(int i = 0; i < m.rows(); i++)
+			for(int j = 0; j < m.columns(); j++)
+				constraints[i][j] = new CSPCell();
+
+		//Link all of the cell constraints
+		for(int i = 0; i < m.rows(); i++)
+			for(int j = 0; j < m.columns(); j++)
+			{
+				boolean L = false, R = false, D = false, U = false;
+				if(i > 0)//up
+					U = true;
+				if(j > 0)//left
+					L = true;
+				if(i < m.rows() - 1)//down
+					D = true;
+				if(j < m.columns() - 1)//right
+					R = true;
+
+				if(U)//up
+					constraints[i][j].neighbours.add(constraints[i - 1][j]);
+				if(L)//left
+					constraints[i][j].neighbours.add(constraints[i][j - 1]);
+				if(D)//down
+					constraints[i][j].neighbours.add(constraints[i + 1][j]);
+				if(R)//right
+					constraints[i][j].neighbours.add(constraints[i][j + 1]);
+				if(U && R)
+					constraints[i][j].neighbours.add(constraints[i - 1][j + 1]);
+				if(U && L)
+					constraints[i][j].neighbours.add(constraints[i - 1][j - 1]);
+				if(D && L)
+					constraints[i][j].neighbours.add(constraints[i + 1][j - 1]);
+				if(D && R)
+					constraints[i][j].neighbours.add(constraints[i + 1][j + 1]);
+			}
+
 		while(!m.done())
 		{
 			if(first)
 			{
 				first = false;
-				m.probe(0,0);
+				constraints[0][0].setValue(m.probe(0, 0));
 				continue;
 			}
 
+			int x = 0, y = 0;
 			//Start building constraints for this state
 			for(int i = 0; i < m.rows(); i++)
 				for(int j = 0; j < m.columns(); j++)
@@ -32,15 +69,27 @@ public final class CSPStrategy implements Strategy
 					int cellVal = m.look(i, j);//Look at a cell
 					if(cellVal == m.MARKED)
 						constraints[i][j].cellType = CSPCell.type.MINE;
+
+					//A cell that hasn't been probed but constraints show to be clear
+					if(cellVal == m.UNPROBED && constraints[i][j].cellType == CSPCell.type.CLEAR)
+					{
+						x = i;
+						y = j;
+					}
 				}
 
-			m.probe(x, y++);
-			//System.out.println(x + " " + y);
-			if(y >= m.rows())
+			//No known clear space. Pick a random cell
+			if( x == 0 && y == 0)
 			{
-				x++;
-				y = 0;
+				x = rand.nextInt(m.rows());
+				y = rand.nextInt(m.columns());
+				//System.out.println("Guessing!");
 			}
+			else
+				//System.out.println("Not Guessing!");
+
+			constraints[x][y].setValue(m.probe(x, y++));
+			//System.out.println(x + " " + y);
 		}
 	}
 }

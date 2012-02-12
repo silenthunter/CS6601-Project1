@@ -7,12 +7,24 @@ public class CSPCell
 
 	int row;
 	int col;
-	ArrayList<CSPCell> neighbours = new ArrayList<CSPCell>();
+	public ArrayList<CSPCell> neighbours = new ArrayList<CSPCell>();
 	int value = 0;
 	public type cellType = type.UNKNOWN;
 
 	public int getValue()
 	{
 		return value;
+	}
+
+	public void setValue(int val)
+	{
+		if(val == 0)
+		{
+			for(CSPCell cell : neighbours)
+				cell.cellType = type.CLEAR;
+			cellType = type.CLEAR;
+		}
+		else
+			value = val;
 	}
 }
