@@ -74,7 +74,7 @@ public final class CSPStrategy implements Strategy
 				for(int j = 0; j < m.rows(); j++)
 				{
 					constraints[i][j].calculate(m);
-					//constraints[i][j].simplify();
+					constraints[i][j].simplify(m);
 					int cellVal = m.look(i, j);//Look at a cell
 
 					//A cell that hasn't been probed but constraints show to be clear

@@ -48,6 +48,8 @@ public class CSPCell
 		neighbourChanged = false;
 		int count = 0;
 
+		synchronized(m)
+		{
 		ArrayList<CSPCell> clearCells = new ArrayList<CSPCell>();
 		for(CSPCell cell : neighbours)
 		{
@@ -62,6 +64,7 @@ public class CSPCell
 				//count++;
 			}
 		}
+
 
 		//Don't have constraints between already cleared cells
 		for(CSPCell cell : clearCells)
@@ -89,13 +92,18 @@ public class CSPCell
 					m.mark(cell.row, cell.col);
 				}
 		}
+		}
 
 	}
 
-	public void simplify()
+	public void simplify(Map m)
 	{
 		if(value == -1) return;
 		//See if the neighbors contain subsets that we can simplify
+
+		synchronized(m)
+		{
+		ArrayList<CSPCell> clearCells = new ArrayList<CSPCell>();
 		for(CSPCell cell : neighbours)
 		{
 			if(cell.getValue() == -1) continue;
@@ -105,6 +113,7 @@ public class CSPCell
 			boolean isSubset = true;
 			for(CSPCell val : cell.neighbours)
 			{
+				if(val.cellType == type.CLEAR) continue;
 				if(!neighbours.contains(val))
 				{
 					isSubset = false;
@@ -114,10 +123,13 @@ public class CSPCell
 
 			if(isSubset)
 			{
-				System.out.printf("Simplified!");
-				for(CSPCell val : cell.neighbours) neighbours.remove(val);
+				//System.out.printf("Simplified!");
+				for(CSPCell val : cell.neighbours) clearCells.add(val);
 				value -= cell.getValue();
 			}
+		}
+		for(CSPCell cell : clearCells)
+			neighbours.remove(cell);
 		}
 	}
 
