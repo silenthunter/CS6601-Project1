@@ -133,15 +133,35 @@ public class CSPCell
 		}
 	}
 
+	public boolean hasRevealedNeighbours()
+	{
+		boolean edge = false;
+
+		for(CSPCell cell : neighbours)
+		{
+			if(cell.cellType == type.CLEAR && cell.value != -1)
+			{
+				edge = true;
+				break;
+			}
+		}
+
+		return edge;
+
+	}
+
 	public sat isSatisfied()
 	{
+		if(value == -1) return sat.YES;
 		int count = 0;
+		int Ucount = 0;
 		for(CSPCell cell : neighbours)
 		{
 			if(cell.cellType == type.MINE) count++;
+			if(cell.cellType == type.UNKNOWN) Ucount++;
 		}
-		if(count == value) return sat.YES;
-		if(count > value) return sat.INVALID;
+		if(count == value && Ucount == 0) return sat.YES;
+		if(count > value || (Ucount + count < value)) return sat.INVALID;
 		return sat.NO;
 	}
 }

@@ -11,6 +11,7 @@ public final class CSPStrategy implements Strategy
 
 	public CSPCell[][] constraints;
 	int[][] solutionSum;
+	int totalSln;
 	public void play(Map m)
 	{
 
@@ -91,7 +92,24 @@ public final class CSPStrategy implements Strategy
 
 
 			//Use constraints to try to find a clear cell
-			CSPFindBestChoice(m);
+			if( x == 0 && y == 0)
+			{
+				CSPFindBestChoice(m);
+
+				int maxVal = 0;
+				for(int i = 0; i < m.columns(); i++)
+					for(int j = 0; j  < m.rows(); j++)
+					{
+						if(constraints[i][j].cellType == CSPCell.type.UNKNOWN &&
+							solutionSum[i][j] > maxVal)
+						{
+							maxVal = solutionSum[i][j];
+							x = i;
+							y = j;
+						}
+					}
+				System.out.println(maxVal + " / " + totalSln);
+			}
 
 			//No known clear space. Pick a random cell
 			if( x == 0 && y == 0)
@@ -110,11 +128,27 @@ public final class CSPStrategy implements Strategy
 
 	public void CSPFindBestChoice(Map m)
 	{
-		CSPRecurse(0,0,m);
+		int count = 0;
+		//Reset the solutionSum table
+		for(int i = 0; i < m.columns(); i++)
+			for(int j = 0; j  < m.rows(); j++)
+			{
+				solutionSum[i][j] = 0;
+				if(constraints[i][j].cellType == CSPCell.type.UNKNOWN && 
+					constraints[i][j].hasRevealedNeighbours())
+				{
+					count++;
+				}
+			}
+		totalSln = 0;
+		System.out.println("Computing for: " + count);
+
+		CSPRecurse(0,0,m,0);
 	}
 
-	private void CSPRecurse(int row, int col, Map m)
+	private void CSPRecurse(int row, int col, Map m, int d)
 	{
+		//System.out.println(d + " " + row + ":" + col);
 		boolean done = true;
 		for(int i = 0; i < m.columns(); i++)
 			for(int j = 0; j  < m.rows(); j++)
@@ -128,24 +162,36 @@ public final class CSPStrategy implements Strategy
 				}
 			}
 
-		if(done) return;//TODO: Make this a solution state
-
+		if(done)
+		{
+			//System.out.println("Solution found");
+			for(int i = 0; i < m.columns(); i++)
+				for(int j = 0; j  < m.rows(); j++)
+				{
+					if(constraints[i][j].cellType == CSPCell.type.CLEAR)
+						solutionSum[i][j]++;
+				}
+			totalSln++;
+			return;
+		}
+		
 		if(++col >= m.columns())
 		{
 			col -= m.columns();
-			row++;
+			if(++row >= m.rows()) return;//Reached the end of the board
 		}
 
-		for(int i = 0; i < m.columns(); i++)
-			for(int j = 0; j  < m.rows(); j++)
-			{
-				//Only looking for unknown values!
-				if(constraints[i][j].cellType != CSPCell.type.UNKNOWN) continue;
+		if(constraints[col][row].cellType == CSPCell.type.UNKNOWN && 
+			constraints[col][row].hasRevealedNeighbours())
+		{
+			
+			constraints[col][row].cellType = CSPCell.type.CLEAR;
+			CSPRecurse(row, col, m, d + 1);
+			constraints[col][row].cellType = CSPCell.type.MINE;
+			CSPRecurse(row, col, m, d + 1);
+			constraints[col][row].cellType = CSPCell.type.UNKNOWN;
+		}
+		else CSPRecurse(row, col, m, d + 1);
 
-				CSPRecurse(row, col, m);
-				constraints[i][j].cellType = CSPCell.type.MINE;
-				CSPRecurse(row, col, m);
-				constraints[i][j].cellType = CSPCell.type.UNKNOWN;
-			}
 	}
 }
