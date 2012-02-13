@@ -56,6 +56,11 @@ public final class CSPStrategy implements Strategy
 
 		while(!m.done())
 		{
+			if(m.mines_minus_marks() < 0)
+			{
+				System.out.println("Bad marks!");
+				return;
+			}
 			if(first)
 			{
 				first = false;

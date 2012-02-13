@@ -53,8 +53,8 @@ public class CSPCell
 		{
 			if(cell.cellType == type.UNKNOWN)
 				count++;
-			if(cell.cellType == type.CLEAR)
-				clearCells.add(cell);
+			/*if(cell.cellType == type.CLEAR)
+				clearCells.add(cell);*/
 			if(cell.cellType == type.MINE)//No need to keep mines around
 			{
 				clearCells.add(cell);
@@ -94,11 +94,13 @@ public class CSPCell
 
 	public void simplify()
 	{
+		if(value == -1) return;
 		//See if the neighbors contain subsets that we can simplify
 		for(CSPCell cell : neighbours)
 		{
+			if(cell.getValue() == -1) continue;
 			//No need to check if the other cell has more constraints
-			if(cell.neighbours.size() >= cell.neighbours.size()) continue;
+			//if(cell.neighbours.size() >= cell.neighbours.size()) continue;
 
 			boolean isSubset = true;
 			for(CSPCell val : cell.neighbours)
