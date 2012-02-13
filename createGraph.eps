@@ -1,0 +1,9 @@
+#!/bin/sh
+gnuplot << EOF
+set term jpeg
+set output "$3_$2_plot.jpg"
+set title "$2 using $3"
+set xlabel "Games"
+set ylabel "Moves"
+plot "$1" using 1 title "Losing Move"
+EOF

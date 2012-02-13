@@ -16,6 +16,7 @@ public final class CSPStrategy implements Strategy
 	{
 
 		//System.out.println("New game");
+		int moves = 0;
 		Random rand = new Random();
 		boolean first = true;
 		constraints = new CSPCell[m.columns()][m.rows()];
@@ -108,7 +109,7 @@ public final class CSPStrategy implements Strategy
 							y = j;
 						}
 					}
-				System.out.println(maxVal + " / " + totalSln);
+				//System.out.println(maxVal + " / " + totalSln);
 			}
 
 			//No known clear space. Pick a random cell
@@ -121,9 +122,11 @@ public final class CSPStrategy implements Strategy
 			//else
 				//System.out.println("Not Guessing!");
 
+			if(constraints[x][y].getValue() == -1) moves++;
 			constraints[x][y].setValue(m.probe(x, y));
 			//System.out.println(x + " " + y);
 		}
+		if(!m.won())System.out.println("Game ended at move: " + moves);
 	}
 
 	public void CSPFindBestChoice(Map m)
@@ -141,7 +144,7 @@ public final class CSPStrategy implements Strategy
 				}
 			}
 		totalSln = 0;
-		System.out.println("Computing for: " + count);
+		//System.out.println("Computing for: " + count);
 
 		CSPRecurse(0,0,m,0);
 	}
