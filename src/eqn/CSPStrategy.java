@@ -12,28 +12,28 @@ public final class CSPStrategy implements Strategy
 	public void play(Map m)
 	{
 
-		System.out.println("New game");
+		//System.out.println("New game");
 		Random rand = new Random();
 		boolean first = true;
-		constraints = new CSPCell[m.rows()][m.columns()];
+		constraints = new CSPCell[m.columns()][m.rows()];
 
 		//Initialize
-		for(int i = 0; i < m.rows(); i++)
-			for(int j = 0; j < m.columns(); j++)
+		for(int i = 0; i < m.columns(); i++)
+			for(int j = 0; j < m.rows(); j++)
 				constraints[i][j] = new CSPCell(i, j);
 
 		//Link all of the cell constraints
-		for(int i = 0; i < m.rows(); i++)
-			for(int j = 0; j < m.columns(); j++)
+		for(int i = 0; i < m.columns(); i++)
+			for(int j = 0; j < m.rows(); j++)
 			{
 				boolean L = false, R = false, D = false, U = false;
 				if(i > 0)//up
 					U = true;
 				if(j > 0)//left
 					L = true;
-				if(i < m.rows() - 1)//down
+				if(i < m.columns() - 1)//down
 					D = true;
-				if(j < m.columns() - 1)//right
+				if(j < m.rows() - 1)//right
 					R = true;
 
 				if(U)//up
@@ -65,8 +65,8 @@ public final class CSPStrategy implements Strategy
 
 			int x = 0, y = 0;
 			//Start building constraints for this state
-			for(int i = 0; i < m.rows(); i++)
-				for(int j = 0; j < m.columns(); j++)
+			for(int i = 0; i < m.columns(); i++)
+				for(int j = 0; j < m.rows(); j++)
 				{
 					constraints[i][j].calculate(m);
 					//constraints[i][j].simplify();
@@ -88,9 +88,9 @@ public final class CSPStrategy implements Strategy
 			//No known clear space. Pick a random cell
 			if( x == 0 && y == 0)
 			{
-				x = rand.nextInt(m.rows());
-				y = rand.nextInt(m.columns());
-				System.out.println("Guessing!");
+				x = rand.nextInt(m.columns());
+				y = rand.nextInt(m.rows());
+				//System.out.println("Guessing!");
 			}
 			//else
 				//System.out.println("Not Guessing!");
