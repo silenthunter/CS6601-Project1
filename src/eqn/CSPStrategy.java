@@ -3,12 +3,14 @@ package eqn;
 import map.*;
 import set.*;
 import java.util.Random;
+import java.util.Stack;
 import eqn.CSPCell;
 
 public final class CSPStrategy implements Strategy
 {
 
 	public CSPCell[][] constraints;
+	int[][] solutionSum;
 	public void play(Map m)
 	{
 
@@ -16,6 +18,7 @@ public final class CSPStrategy implements Strategy
 		Random rand = new Random();
 		boolean first = true;
 		constraints = new CSPCell[m.columns()][m.rows()];
+		solutionSum = new int[m.columns()][m.rows()];
 
 		//Initialize
 		for(int i = 0; i < m.columns(); i++)
@@ -105,8 +108,44 @@ public final class CSPStrategy implements Strategy
 		}
 	}
 
-	public int CSPFindBestChoice(Map m)
+	public void CSPFindBestChoice(Map m)
 	{
-		return 0;
+		CSPRecurse(0,0,m);
+	}
+
+	private void CSPRecurse(int row, int col, Map m)
+	{
+		boolean done = true;
+		for(int i = 0; i < m.columns(); i++)
+			for(int j = 0; j  < m.rows(); j++)
+			{
+				CSPCell.sat satis = constraints[i][j].isSatisfied();
+				if(satis != CSPCell.sat.YES)
+				{
+					if(satis == CSPCell.sat.INVALID) return;//This cannot be a solution
+					done = false;
+					break;
+				}
+			}
+
+		if(done) return;//TODO: Make this a solution state
+
+		if(++col >= m.columns())
+		{
+			col -= m.columns();
+			row++;
+		}
+
+		for(int i = 0; i < m.columns(); i++)
+			for(int j = 0; j  < m.rows(); j++)
+			{
+				//Only looking for unknown values!
+				if(constraints[i][j].cellType != CSPCell.type.UNKNOWN) continue;
+
+				CSPRecurse(row, col, m);
+				constraints[i][j].cellType = CSPCell.type.MINE;
+				CSPRecurse(row, col, m);
+				constraints[i][j].cellType = CSPCell.type.UNKNOWN;
+			}
 	}
 }
