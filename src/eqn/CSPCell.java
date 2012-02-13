@@ -10,7 +10,7 @@ public class CSPCell
 	public int row;
 	public int col;
 	public ArrayList<CSPCell> neighbours = new ArrayList<CSPCell>();
-	int value = 0;
+	int value = -1;
 	public type cellType = type.UNKNOWN;
 	public boolean neighbourChanged = false;
 
@@ -27,15 +27,9 @@ public class CSPCell
 
 	public void setValue(int val)
 	{
-		if(value != 0) return;
-		if(val == 0)
-		{
-			for(CSPCell cell : neighbours)
-				cell.cellType = type.CLEAR;
-			cellType = type.CLEAR;
-		}
-		else
-			value = val;
+		if(value != -1) return;
+		value = val;
+		cellType = type.CLEAR;
 			
 		//Mark neighbours to be updated
 		changed();
@@ -50,7 +44,7 @@ public class CSPCell
 
 	public void calculate(Map m)
 	{
-		if(m.look(row, col) == m.UNPROBED || m.look(row, col) == m.MARKED) return;
+		if(value == -1) return;
 		neighbourChanged = false;
 		int count = 0;
 

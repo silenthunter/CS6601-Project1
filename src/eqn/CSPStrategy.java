@@ -11,6 +11,8 @@ public final class CSPStrategy implements Strategy
 	public CSPCell[][] constraints;
 	public void play(Map m)
 	{
+
+		System.out.println("New game");
 		Random rand = new Random();
 		boolean first = true;
 		constraints = new CSPCell[m.rows()][m.columns()];
@@ -67,16 +69,15 @@ public final class CSPStrategy implements Strategy
 				for(int j = 0; j < m.columns(); j++)
 				{
 					constraints[i][j].calculate(m);
-					constraints[i][j].simplify();
+					//constraints[i][j].simplify();
 					int cellVal = m.look(i, j);//Look at a cell
-					if(cellVal == m.MARKED)
-						constraints[i][j].cellType = CSPCell.type.MINE;
 
 					//A cell that hasn't been probed but constraints show to be clear
 					if(cellVal == m.UNPROBED && constraints[i][j].cellType == CSPCell.type.CLEAR)
 					{
 						x = i;
 						y = j;
+						break;
 					}
 				}
 
@@ -89,12 +90,12 @@ public final class CSPStrategy implements Strategy
 			{
 				x = rand.nextInt(m.rows());
 				y = rand.nextInt(m.columns());
-				//System.out.println("Guessing!");
+				System.out.println("Guessing!");
 			}
 			//else
 				//System.out.println("Not Guessing!");
 
-			constraints[x][y].setValue(m.probe(x, y++));
+			constraints[x][y].setValue(m.probe(x, y));
 			//System.out.println(x + " " + y);
 		}
 	}
