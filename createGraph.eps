@@ -1,9 +1,12 @@
 #!/bin/sh
 gnuplot << EOF
 set term jpeg
-set output "$3_$2_plot.jpg"
-set title "$2 using $3"
+set output "$4_plot.jpg"
+set title "$4 Game Loses"
 set xlabel "Games"
 set ylabel "Moves"
-plot "$1" using 1 title "Losing Move"
+set key outside
+plot "$1" using 1 title "CSP", "$2" using 1 title "Eqn" lt 3
+set output "$4_plot_SP.jpg"
+plot "$3" using 1 title "SP"
 EOF

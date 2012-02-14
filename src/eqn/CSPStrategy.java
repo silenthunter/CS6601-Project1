@@ -126,7 +126,6 @@ public final class CSPStrategy implements Strategy
 			constraints[x][y].setValue(m.probe(x, y));
 			//System.out.println(x + " " + y);
 		}
-		if(!m.won())System.out.println("Game ended at move: " + moves);
 	}
 
 	public void CSPFindBestChoice(Map m)
@@ -144,7 +143,8 @@ public final class CSPStrategy implements Strategy
 				}
 			}
 		totalSln = 0;
-		//System.out.println("Computing for: " + count);
+		if(count > 40) return;//Not optimized for this many
+		System.out.println("Computing for: " + count);
 
 		CSPRecurse(0,0,m,0);
 	}

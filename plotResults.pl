@@ -1,10 +1,10 @@
 use strict;
 
-
-open(FILE, ">graphData");
+open(INPUT, $ARGV[0]);
+open(FILE, ">$ARGV[0]_cleaned");
 my $strat = "";
 my $difficulty = "";
-while(<>)
+while(<INPUT>)
 {
 	my $line = $_;
 	chomp $line;
@@ -20,4 +20,3 @@ while(<>)
 	}
 }
 close(FILE);
-system("./createGraph.eps graphData $strat $difficulty");

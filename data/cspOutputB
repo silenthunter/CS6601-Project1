@@ -1,0 +1,4133 @@
+Playing 1000 beginner games using strategy eqn.CSPStrategy
+Game ended at move: 1
+0 wins in 1 tries -- 0%.
+Computing for: 3
+Game ended at move: 2
+0 wins in 2 tries -- 0%, with 1 standard tries -- 0%.
+Computing for: 3
+Game ended at move: 2
+0 wins in 3 tries -- 0%, with 2 standard tries -- 0%.
+Computing for: 17
+Computing for: 20
+Computing for: 19
+1 wins in 4 tries -- 25%, with 3 standard tries -- 33%.
+Computing for: 3
+Game ended at move: 2
+1 wins in 5 tries -- 20%, with 4 standard tries -- 25%.
+Computing for: 3
+Game ended at move: 2
+1 wins in 6 tries -- 17%, with 5 standard tries -- 20%.
+Computing for: 3
+Game ended at move: 2
+1 wins in 7 tries -- 14%, with 6 standard tries -- 17%.
+Computing for: 11
+Computing for: 13
+Computing for: 16
+Computing for: 16
+Computing for: 10
+Computing for: 13
+Computing for: 12
+Computing for: 7
+Computing for: 3
+Game ended at move: 52
+1 wins in 8 tries -- 13%, with 7 standard tries -- 14%.
+Computing for: 11
+Computing for: 10
+Computing for: 4
+Computing for: 3
+Computing for: 1
+2 wins in 9 tries -- 22%, with 8 standard tries -- 25%.
+Computing for: 3
+Game ended at move: 2
+2 wins in 10 tries -- 20%, with 9 standard tries -- 22%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Computing for: 6
+Computing for: 9
+Computing for: 14
+3 wins in 11 tries -- 27%, with 10 standard tries -- 30%.
+Computing for: 3
+Game ended at move: 2
+3 wins in 12 tries -- 25%, with 11 standard tries -- 27%.
+Computing for: 3
+Game ended at move: 2
+3 wins in 13 tries -- 23%, with 12 standard tries -- 25%.
+4 wins in 14 tries -- 29%, with 13 standard tries -- 31%.
+Computing for: 3
+Game ended at move: 2
+4 wins in 15 tries -- 27%, with 14 standard tries -- 29%.
+Computing for: 3
+Game ended at move: 2
+4 wins in 16 tries -- 25%, with 15 standard tries -- 27%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Computing for: 6
+5 wins in 17 tries -- 29%, with 16 standard tries -- 31%.
+Game ended at move: 1
+5 wins in 18 tries -- 28%, with 16 standard tries -- 31%.
+Computing for: 7
+Computing for: 9
+Computing for: 13
+Computing for: 15
+Computing for: 16
+Computing for: 16
+Computing for: 16
+Computing for: 10
+Computing for: 12
+Game ended at move: 45
+5 wins in 19 tries -- 26%, with 17 standard tries -- 29%.
+Computing for: 9
+Computing for: 11
+Computing for: 10
+Computing for: 6
+6 wins in 20 tries -- 30%, with 18 standard tries -- 33%.
+7 wins in 21 tries -- 33%, with 19 standard tries -- 37%.
+Computing for: 9
+8 wins in 22 tries -- 36%, with 20 standard tries -- 40%.
+Computing for: 3
+9 wins in 23 tries -- 39%, with 21 standard tries -- 43%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+10 wins in 24 tries -- 42%, with 22 standard tries -- 45%.
+Computing for: 9
+Computing for: 11
+Computing for: 10
+Computing for: 12
+Computing for: 3
+11 wins in 25 tries -- 44%, with 23 standard tries -- 48%.
+Computing for: 3
+Game ended at move: 2
+11 wins in 26 tries -- 42%, with 24 standard tries -- 46%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+Computing for: 11
+Computing for: 6
+Computing for: 5
+Game ended at move: 49
+11 wins in 27 tries -- 41%, with 25 standard tries -- 44%.
+Computing for: 3
+Game ended at move: 52
+11 wins in 28 tries -- 39%, with 26 standard tries -- 42%.
+Computing for: 9
+Computing for: 11
+Computing for: 15
+12 wins in 29 tries -- 41%, with 27 standard tries -- 44%.
+13 wins in 30 tries -- 43%, with 28 standard tries -- 46%.
+Game ended at move: 1
+13 wins in 31 tries -- 42%, with 28 standard tries -- 46%.
+Computing for: 3
+Game ended at move: 2
+13 wins in 32 tries -- 41%, with 29 standard tries -- 45%.
+Computing for: 3
+Game ended at move: 2
+13 wins in 33 tries -- 39%, with 30 standard tries -- 43%.
+Computing for: 3
+Game ended at move: 2
+13 wins in 34 tries -- 38%, with 31 standard tries -- 42%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 9
+14 wins in 35 tries -- 40%, with 32 standard tries -- 44%.
+Computing for: 5
+Game ended at move: 51
+14 wins in 36 tries -- 39%, with 33 standard tries -- 42%.
+Game ended at move: 1
+14 wins in 37 tries -- 38%, with 33 standard tries -- 42%.
+Computing for: 8
+15 wins in 38 tries -- 39%, with 34 standard tries -- 44%.
+Game ended at move: 1
+15 wins in 39 tries -- 38%, with 34 standard tries -- 44%.
+Computing for: 3
+Computing for: 4
+Computing for: 5
+Computing for: 2
+Game ended at move: 53
+15 wins in 40 tries -- 38%, with 35 standard tries -- 43%.
+Computing for: 3
+Game ended at move: 2
+15 wins in 41 tries -- 37%, with 36 standard tries -- 42%.
+Game ended at move: 1
+15 wins in 42 tries -- 36%, with 36 standard tries -- 42%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+15 wins in 43 tries -- 35%, with 37 standard tries -- 41%.
+Game ended at move: 1
+15 wins in 44 tries -- 34%, with 37 standard tries -- 41%.
+16 wins in 45 tries -- 36%, with 38 standard tries -- 42%.
+17 wins in 46 tries -- 37%, with 39 standard tries -- 44%.
+18 wins in 47 tries -- 38%, with 40 standard tries -- 45%.
+Computing for: 3
+Computing for: 5
+Computing for: 8
+Computing for: 8
+19 wins in 48 tries -- 40%, with 41 standard tries -- 46%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+19 wins in 49 tries -- 39%, with 42 standard tries -- 45%.
+Computing for: 3
+Game ended at move: 2
+19 wins in 50 tries -- 38%, with 43 standard tries -- 44%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+Computing for: 13
+Computing for: 15
+Game ended at move: 19
+19 wins in 51 tries -- 37%, with 44 standard tries -- 43%.
+Computing for: 3
+Computing for: 4
+Computing for: 8
+Computing for: 10
+Computing for: 12
+Computing for: 17
+20 wins in 52 tries -- 38%, with 45 standard tries -- 44%.
+21 wins in 53 tries -- 40%, with 46 standard tries -- 46%.
+Computing for: 3
+Game ended at move: 2
+21 wins in 54 tries -- 39%, with 47 standard tries -- 45%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 9
+Computing for: 11
+Computing for: 0
+22 wins in 55 tries -- 40%, with 48 standard tries -- 46%.
+Computing for: 12
+Computing for: 3
+Game ended at move: 53
+22 wins in 56 tries -- 39%, with 49 standard tries -- 45%.
+Computing for: 3
+23 wins in 57 tries -- 40%, with 50 standard tries -- 46%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+24 wins in 58 tries -- 41%, with 51 standard tries -- 47%.
+25 wins in 59 tries -- 42%, with 52 standard tries -- 48%.
+26 wins in 60 tries -- 43%, with 53 standard tries -- 49%.
+27 wins in 61 tries -- 44%, with 54 standard tries -- 50%.
+Game ended at move: 1
+27 wins in 62 tries -- 44%, with 54 standard tries -- 50%.
+Computing for: 10
+28 wins in 63 tries -- 44%, with 55 standard tries -- 51%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+28 wins in 64 tries -- 44%, with 56 standard tries -- 50%.
+Computing for: 3
+Computing for: 16
+Computing for: 15
+Computing for: 13
+Computing for: 12
+Game ended at move: 30
+28 wins in 65 tries -- 43%, with 57 standard tries -- 49%.
+29 wins in 66 tries -- 44%, with 58 standard tries -- 50%.
+Computing for: 3
+Computing for: 4
+Computing for: 13
+Computing for: 3
+30 wins in 67 tries -- 45%, with 59 standard tries -- 51%.
+31 wins in 68 tries -- 46%, with 60 standard tries -- 52%.
+Computing for: 4
+32 wins in 69 tries -- 46%, with 61 standard tries -- 52%.
+Computing for: 9
+Computing for: 6
+Computing for: 8
+33 wins in 70 tries -- 47%, with 62 standard tries -- 53%.
+34 wins in 71 tries -- 48%, with 63 standard tries -- 54%.
+Computing for: 0
+Computing for: 5
+Computing for: 9
+Game ended at move: 3
+34 wins in 72 tries -- 47%, with 64 standard tries -- 53%.
+Computing for: 6
+Computing for: 8
+Computing for: 11
+Computing for: 10
+35 wins in 73 tries -- 48%, with 65 standard tries -- 54%.
+Computing for: 3
+Game ended at move: 2
+35 wins in 74 tries -- 47%, with 66 standard tries -- 53%.
+Game ended at move: 1
+35 wins in 75 tries -- 47%, with 66 standard tries -- 53%.
+Computing for: 7
+36 wins in 76 tries -- 47%, with 67 standard tries -- 54%.
+Game ended at move: 1
+36 wins in 77 tries -- 47%, with 67 standard tries -- 54%.
+37 wins in 78 tries -- 47%, with 68 standard tries -- 54%.
+38 wins in 79 tries -- 48%, with 69 standard tries -- 55%.
+Game ended at move: 1
+38 wins in 80 tries -- 48%, with 69 standard tries -- 55%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+39 wins in 81 tries -- 48%, with 70 standard tries -- 56%.
+Computing for: 6
+Computing for: 9
+Computing for: 12
+Computing for: 13
+Computing for: 13
+Computing for: 17
+Computing for: 16
+Computing for: 16
+Computing for: 16
+Game ended at move: 41
+39 wins in 82 tries -- 48%, with 71 standard tries -- 55%.
+Computing for: 8
+Computing for: 11
+Computing for: 10
+Computing for: 14
+Game ended at move: 16
+39 wins in 83 tries -- 47%, with 72 standard tries -- 54%.
+Computing for: 3
+Computing for: 4
+Computing for: 2
+Game ended at move: 54
+39 wins in 84 tries -- 46%, with 73 standard tries -- 53%.
+Computing for: 3
+Game ended at move: 2
+39 wins in 85 tries -- 46%, with 74 standard tries -- 53%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Game ended at move: 50
+39 wins in 86 tries -- 45%, with 75 standard tries -- 52%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+40 wins in 87 tries -- 46%, with 76 standard tries -- 53%.
+Computing for: 3
+Game ended at move: 2
+40 wins in 88 tries -- 45%, with 77 standard tries -- 52%.
+41 wins in 89 tries -- 46%, with 78 standard tries -- 53%.
+Computing for: 10
+Computing for: 10
+Computing for: 9
+Computing for: 8
+Computing for: 7
+42 wins in 90 tries -- 47%, with 79 standard tries -- 53%.
+Computing for: 3
+Game ended at move: 2
+42 wins in 91 tries -- 46%, with 80 standard tries -- 53%.
+Computing for: 8
+Computing for: 10
+43 wins in 92 tries -- 47%, with 81 standard tries -- 53%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+43 wins in 93 tries -- 46%, with 82 standard tries -- 52%.
+44 wins in 94 tries -- 47%, with 83 standard tries -- 53%.
+Computing for: 12
+Game ended at move: 45
+44 wins in 95 tries -- 46%, with 84 standard tries -- 52%.
+45 wins in 96 tries -- 47%, with 85 standard tries -- 53%.
+46 wins in 97 tries -- 47%, with 86 standard tries -- 53%.
+Computing for: 3
+Game ended at move: 2
+46 wins in 98 tries -- 47%, with 87 standard tries -- 53%.
+Computing for: 0
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+47 wins in 99 tries -- 47%, with 88 standard tries -- 53%.
+Computing for: 3
+Computing for: 4
+Computing for: 10
+Computing for: 12
+48 wins in 100 tries -- 48%, with 89 standard tries -- 54%.
+Game ended at move: 1
+48 wins in 101 tries -- 48%, with 89 standard tries -- 54%.
+Game ended at move: 1
+48 wins in 102 tries -- 47%, with 89 standard tries -- 54%.
+Game ended at move: 1
+48 wins in 103 tries -- 47%, with 89 standard tries -- 54%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+48 wins in 104 tries -- 46%, with 90 standard tries -- 53%.
+49 wins in 105 tries -- 47%, with 91 standard tries -- 54%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 10
+Computing for: 8
+Computing for: 17
+Computing for: 14
+50 wins in 106 tries -- 47%, with 92 standard tries -- 54%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+50 wins in 107 tries -- 47%, with 93 standard tries -- 54%.
+Computing for: 9
+Computing for: 11
+Computing for: 11
+Computing for: 15
+Computing for: 16
+Computing for: 16
+51 wins in 108 tries -- 47%, with 94 standard tries -- 54%.
+Computing for: 8
+Computing for: 3
+Computing for: 1
+52 wins in 109 tries -- 48%, with 95 standard tries -- 55%.
+53 wins in 110 tries -- 48%, with 96 standard tries -- 55%.
+Computing for: 3
+54 wins in 111 tries -- 49%, with 97 standard tries -- 56%.
+55 wins in 112 tries -- 49%, with 98 standard tries -- 56%.
+Computing for: 3
+Game ended at move: 2
+55 wins in 113 tries -- 49%, with 99 standard tries -- 56%.
+Computing for: 3
+Computing for: 4
+Computing for: 11
+Computing for: 12
+Computing for: 11
+Computing for: 2
+56 wins in 114 tries -- 49%, with 100 standard tries -- 56%.
+Computing for: 3
+Computing for: 4
+57 wins in 115 tries -- 50%, with 101 standard tries -- 56%.
+Computing for: 10
+58 wins in 116 tries -- 50%, with 102 standard tries -- 57%.
+Game ended at move: 1
+58 wins in 117 tries -- 50%, with 102 standard tries -- 57%.
+Game ended at move: 1
+58 wins in 118 tries -- 49%, with 102 standard tries -- 57%.
+59 wins in 119 tries -- 50%, with 103 standard tries -- 57%.
+Computing for: 3
+Game ended at move: 2
+59 wins in 120 tries -- 49%, with 104 standard tries -- 57%.
+Game ended at move: 1
+59 wins in 121 tries -- 49%, with 104 standard tries -- 57%.
+60 wins in 122 tries -- 49%, with 105 standard tries -- 57%.
+Computing for: 3
+Game ended at move: 2
+60 wins in 123 tries -- 49%, with 106 standard tries -- 57%.
+61 wins in 124 tries -- 49%, with 107 standard tries -- 57%.
+Computing for: 3
+Computing for: 4
+Computing for: 9
+Computing for: 12
+Computing for: 12
+Computing for: 8
+Computing for: 6
+62 wins in 125 tries -- 50%, with 108 standard tries -- 57%.
+Computing for: 9
+Computing for: 8
+Computing for: 11
+63 wins in 126 tries -- 50%, with 109 standard tries -- 58%.
+Computing for: 12
+Computing for: 16
+Computing for: 19
+Computing for: 18
+Computing for: 20
+Computing for: 15
+Computing for: 14
+Computing for: 15
+Computing for: 14
+Computing for: 10
+Computing for: 6
+Game ended at move: 52
+63 wins in 127 tries -- 50%, with 110 standard tries -- 57%.
+Computing for: 3
+Computing for: 1
+64 wins in 128 tries -- 50%, with 111 standard tries -- 58%.
+Computing for: 3
+Game ended at move: 2
+64 wins in 129 tries -- 50%, with 112 standard tries -- 57%.
+Computing for: 2
+65 wins in 130 tries -- 50%, with 113 standard tries -- 58%.
+66 wins in 131 tries -- 50%, with 114 standard tries -- 58%.
+Computing for: 3
+Computing for: 0
+67 wins in 132 tries -- 51%, with 115 standard tries -- 58%.
+68 wins in 133 tries -- 51%, with 116 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 3
+Game ended at move: 53
+68 wins in 134 tries -- 51%, with 117 standard tries -- 58%.
+Computing for: 12
+Computing for: 14
+Computing for: 16
+69 wins in 135 tries -- 51%, with 118 standard tries -- 58%.
+Computing for: 3
+Game ended at move: 2
+69 wins in 136 tries -- 51%, with 119 standard tries -- 58%.
+Computing for: 3
+Game ended at move: 2
+69 wins in 137 tries -- 50%, with 120 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+70 wins in 138 tries -- 51%, with 121 standard tries -- 58%.
+71 wins in 139 tries -- 51%, with 122 standard tries -- 58%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Computing for: 10
+Computing for: 10
+Computing for: 12
+Computing for: 14
+72 wins in 140 tries -- 51%, with 123 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+72 wins in 141 tries -- 51%, with 124 standard tries -- 58%.
+Computing for: 8
+Computing for: 10
+Computing for: 14
+Computing for: 14
+Computing for: 12
+Computing for: 11
+Computing for: 14
+Computing for: 13
+73 wins in 142 tries -- 51%, with 125 standard tries -- 58%.
+Computing for: 3
+Game ended at move: 2
+73 wins in 143 tries -- 51%, with 126 standard tries -- 58%.
+Computing for: 7
+Computing for: 8
+74 wins in 144 tries -- 51%, with 127 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+75 wins in 145 tries -- 52%, with 128 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+75 wins in 146 tries -- 51%, with 129 standard tries -- 58%.
+Computing for: 8
+Computing for: 10
+Game ended at move: 10
+75 wins in 147 tries -- 51%, with 130 standard tries -- 58%.
+Game ended at move: 1
+75 wins in 148 tries -- 51%, with 130 standard tries -- 58%.
+Computing for: 3
+Game ended at move: 2
+75 wins in 149 tries -- 50%, with 131 standard tries -- 57%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+76 wins in 150 tries -- 51%, with 132 standard tries -- 58%.
+Computing for: 11
+Computing for: 13
+Computing for: 18
+Computing for: 7
+Computing for: 6
+77 wins in 151 tries -- 51%, with 133 standard tries -- 58%.
+78 wins in 152 tries -- 51%, with 134 standard tries -- 58%.
+Computing for: 16
+Computing for: 18
+Computing for: 13
+Computing for: 11
+Computing for: 9
+Computing for: 7
+Game ended at move: 51
+78 wins in 153 tries -- 51%, with 135 standard tries -- 58%.
+79 wins in 154 tries -- 51%, with 136 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+80 wins in 155 tries -- 52%, with 137 standard tries -- 58%.
+Game ended at move: 1
+80 wins in 156 tries -- 51%, with 137 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 6
+Game ended at move: 6
+80 wins in 157 tries -- 51%, with 138 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 10
+Computing for: 12
+Computing for: 4
+Game ended at move: 51
+80 wins in 158 tries -- 51%, with 139 standard tries -- 58%.
+Computing for: 9
+81 wins in 159 tries -- 51%, with 140 standard tries -- 58%.
+Computing for: 8
+Computing for: 11
+82 wins in 160 tries -- 51%, with 141 standard tries -- 58%.
+Computing for: 9
+Computing for: 11
+Computing for: 14
+Computing for: 14
+Computing for: 13
+Computing for: 11
+Computing for: 10
+Computing for: 9
+Game ended at move: 51
+82 wins in 161 tries -- 51%, with 142 standard tries -- 58%.
+Computing for: 9
+Computing for: 11
+Computing for: 14
+Computing for: 16
+Computing for: 18
+83 wins in 162 tries -- 51%, with 143 standard tries -- 58%.
+84 wins in 163 tries -- 52%, with 144 standard tries -- 58%.
+85 wins in 164 tries -- 52%, with 145 standard tries -- 59%.
+Game ended at move: 1
+85 wins in 165 tries -- 52%, with 145 standard tries -- 59%.
+Computing for: 3
+Computing for: 6
+Computing for: 8
+Computing for: 13
+86 wins in 166 tries -- 52%, with 146 standard tries -- 59%.
+Computing for: 10
+Computing for: 11
+Computing for: 13
+Computing for: 15
+Computing for: 15
+Computing for: 8
+87 wins in 167 tries -- 52%, with 147 standard tries -- 59%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+87 wins in 168 tries -- 52%, with 148 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+88 wins in 169 tries -- 52%, with 149 standard tries -- 59%.
+Game ended at move: 1
+88 wins in 170 tries -- 52%, with 149 standard tries -- 59%.
+Computing for: 9
+Computing for: 9
+Computing for: 12
+89 wins in 171 tries -- 52%, with 150 standard tries -- 59%.
+Computing for: 8
+Computing for: 5
+Computing for: 2
+90 wins in 172 tries -- 52%, with 151 standard tries -- 60%.
+91 wins in 173 tries -- 53%, with 152 standard tries -- 60%.
+Computing for: 8
+Game ended at move: 8
+91 wins in 174 tries -- 52%, with 153 standard tries -- 59%.
+Game ended at move: 1
+91 wins in 175 tries -- 52%, with 153 standard tries -- 59%.
+Game ended at move: 1
+91 wins in 176 tries -- 52%, with 153 standard tries -- 59%.
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+92 wins in 177 tries -- 52%, with 154 standard tries -- 60%.
+Game ended at move: 1
+92 wins in 178 tries -- 52%, with 154 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+92 wins in 179 tries -- 51%, with 155 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+92 wins in 180 tries -- 51%, with 156 standard tries -- 59%.
+Computing for: 9
+93 wins in 181 tries -- 51%, with 157 standard tries -- 59%.
+Game ended at move: 1
+93 wins in 182 tries -- 51%, with 157 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+93 wins in 183 tries -- 51%, with 158 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 5
+94 wins in 184 tries -- 51%, with 159 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+94 wins in 185 tries -- 51%, with 160 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+94 wins in 186 tries -- 51%, with 161 standard tries -- 58%.
+95 wins in 187 tries -- 51%, with 162 standard tries -- 59%.
+96 wins in 188 tries -- 51%, with 163 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+97 wins in 189 tries -- 51%, with 164 standard tries -- 59%.
+Game ended at move: 1
+97 wins in 190 tries -- 51%, with 164 standard tries -- 59%.
+Computing for: 12
+Computing for: 14
+Computing for: 15
+Computing for: 17
+Computing for: 20
+98 wins in 191 tries -- 51%, with 165 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+98 wins in 192 tries -- 51%, with 166 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 14
+99 wins in 193 tries -- 51%, with 167 standard tries -- 59%.
+Computing for: 3
+100 wins in 194 tries -- 52%, with 168 standard tries -- 60%.
+Computing for: 10
+Computing for: 11
+101 wins in 195 tries -- 52%, with 169 standard tries -- 60%.
+Computing for: 13
+Computing for: 12
+Computing for: 11
+Computing for: 6
+Game ended at move: 52
+101 wins in 196 tries -- 52%, with 170 standard tries -- 59%.
+Game ended at move: 1
+101 wins in 197 tries -- 51%, with 170 standard tries -- 59%.
+Game ended at move: 1
+101 wins in 198 tries -- 51%, with 170 standard tries -- 59%.
+Game ended at move: 1
+101 wins in 199 tries -- 51%, with 170 standard tries -- 59%.
+102 wins in 200 tries -- 51%, with 171 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 15
+Computing for: 17
+Computing for: 16
+Computing for: 6
+103 wins in 201 tries -- 51%, with 172 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+103 wins in 202 tries -- 51%, with 173 standard tries -- 60%.
+Game ended at move: 1
+103 wins in 203 tries -- 51%, with 173 standard tries -- 60%.
+Game ended at move: 1
+103 wins in 204 tries -- 50%, with 173 standard tries -- 60%.
+104 wins in 205 tries -- 51%, with 174 standard tries -- 60%.
+Game ended at move: 1
+104 wins in 206 tries -- 50%, with 174 standard tries -- 60%.
+Game ended at move: 1
+104 wins in 207 tries -- 50%, with 174 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+104 wins in 208 tries -- 50%, with 175 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+105 wins in 209 tries -- 50%, with 176 standard tries -- 60%.
+Computing for: 9
+Computing for: 11
+Game ended at move: 12
+105 wins in 210 tries -- 50%, with 177 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+105 wins in 211 tries -- 50%, with 178 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+106 wins in 212 tries -- 50%, with 179 standard tries -- 59%.
+Game ended at move: 1
+106 wins in 213 tries -- 50%, with 179 standard tries -- 59%.
+Game ended at move: 1
+106 wins in 214 tries -- 50%, with 179 standard tries -- 59%.
+Computing for: 12
+Computing for: 14
+Computing for: 14
+Computing for: 13
+Computing for: 12
+107 wins in 215 tries -- 50%, with 180 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+107 wins in 216 tries -- 50%, with 181 standard tries -- 59%.
+Computing for: 6
+Computing for: 8
+108 wins in 217 tries -- 50%, with 182 standard tries -- 59%.
+Game ended at move: 1
+108 wins in 218 tries -- 50%, with 182 standard tries -- 59%.
+Computing for: 9
+109 wins in 219 tries -- 50%, with 183 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+110 wins in 220 tries -- 50%, with 184 standard tries -- 60%.
+Game ended at move: 1
+110 wins in 221 tries -- 50%, with 184 standard tries -- 60%.
+Computing for: 8
+111 wins in 222 tries -- 50%, with 185 standard tries -- 60%.
+Computing for: 4
+Computing for: 4
+Game ended at move: 53
+111 wins in 223 tries -- 50%, with 186 standard tries -- 60%.
+Game ended at move: 1
+111 wins in 224 tries -- 50%, with 186 standard tries -- 60%.
+112 wins in 225 tries -- 50%, with 187 standard tries -- 60%.
+Computing for: 8
+Game ended at move: 8
+112 wins in 226 tries -- 50%, with 188 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+112 wins in 227 tries -- 49%, with 189 standard tries -- 59%.
+Computing for: 8
+Computing for: 10
+Computing for: 13
+Game ended at move: 13
+112 wins in 228 tries -- 49%, with 190 standard tries -- 59%.
+Computing for: 6
+Computing for: 8
+Computing for: 11
+Computing for: 10
+113 wins in 229 tries -- 49%, with 191 standard tries -- 59%.
+Computing for: 11
+Computing for: 11
+114 wins in 230 tries -- 50%, with 192 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 52
+114 wins in 231 tries -- 49%, with 193 standard tries -- 59%.
+Computing for: 5
+Computing for: 8
+Game ended at move: 10
+114 wins in 232 tries -- 49%, with 194 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 9
+Computing for: 9
+Computing for: 3
+Game ended at move: 52
+114 wins in 233 tries -- 49%, with 195 standard tries -- 58%.
+Computing for: 9
+Game ended at move: 10
+114 wins in 234 tries -- 49%, with 196 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+115 wins in 235 tries -- 49%, with 197 standard tries -- 58%.
+Computing for: 9
+Computing for: 3
+116 wins in 236 tries -- 49%, with 198 standard tries -- 59%.
+117 wins in 237 tries -- 49%, with 199 standard tries -- 59%.
+118 wins in 238 tries -- 50%, with 200 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 7
+119 wins in 239 tries -- 50%, with 201 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+120 wins in 240 tries -- 50%, with 202 standard tries -- 59%.
+Game ended at move: 1
+120 wins in 241 tries -- 50%, with 202 standard tries -- 59%.
+121 wins in 242 tries -- 50%, with 203 standard tries -- 60%.
+Computing for: 14
+Computing for: 13
+Game ended at move: 47
+121 wins in 243 tries -- 50%, with 204 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+121 wins in 244 tries -- 50%, with 205 standard tries -- 59%.
+Computing for: 4
+122 wins in 245 tries -- 50%, with 206 standard tries -- 59%.
+Game ended at move: 1
+122 wins in 246 tries -- 50%, with 206 standard tries -- 59%.
+Computing for: 6
+Computing for: 8
+Computing for: 8
+123 wins in 247 tries -- 50%, with 207 standard tries -- 59%.
+Game ended at move: 1
+123 wins in 248 tries -- 50%, with 207 standard tries -- 59%.
+Game ended at move: 1
+123 wins in 249 tries -- 49%, with 207 standard tries -- 59%.
+124 wins in 250 tries -- 50%, with 208 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+124 wins in 251 tries -- 49%, with 209 standard tries -- 59%.
+Computing for: 13
+Computing for: 17
+Computing for: 19
+125 wins in 252 tries -- 50%, with 210 standard tries -- 60%.
+126 wins in 253 tries -- 50%, with 211 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+Computing for: 12
+127 wins in 254 tries -- 50%, with 212 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 9
+128 wins in 255 tries -- 50%, with 213 standard tries -- 60%.
+Computing for: 0
+129 wins in 256 tries -- 50%, with 214 standard tries -- 60%.
+Computing for: 10
+Computing for: 12
+Computing for: 15
+Computing for: 14
+Computing for: 16
+Computing for: 18
+Computing for: 18
+Computing for: 17
+Computing for: 16
+Computing for: 16
+Computing for: 12
+Computing for: 13
+Computing for: 13
+Computing for: 13
+Computing for: 13
+130 wins in 257 tries -- 51%, with 215 standard tries -- 60%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Game ended at move: 8
+130 wins in 258 tries -- 50%, with 216 standard tries -- 60%.
+Computing for: 8
+Computing for: 5
+Computing for: 4
+Game ended at move: 53
+130 wins in 259 tries -- 50%, with 217 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+130 wins in 260 tries -- 50%, with 218 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+130 wins in 261 tries -- 50%, with 219 standard tries -- 59%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Computing for: 12
+131 wins in 262 tries -- 50%, with 220 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 10
+Computing for: 12
+132 wins in 263 tries -- 50%, with 221 standard tries -- 60%.
+Computing for: 14
+Computing for: 15
+Computing for: 14
+Computing for: 6
+Game ended at move: 52
+132 wins in 264 tries -- 50%, with 222 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+132 wins in 265 tries -- 50%, with 223 standard tries -- 59%.
+133 wins in 266 tries -- 50%, with 224 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+134 wins in 267 tries -- 50%, with 225 standard tries -- 60%.
+Computing for: 13
+Computing for: 15
+135 wins in 268 tries -- 50%, with 226 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+135 wins in 269 tries -- 50%, with 227 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+135 wins in 270 tries -- 50%, with 228 standard tries -- 59%.
+Computing for: 6
+Computing for: 8
+Computing for: 11
+Computing for: 10
+136 wins in 271 tries -- 50%, with 229 standard tries -- 59%.
+Computing for: 8
+Computing for: 10
+137 wins in 272 tries -- 50%, with 230 standard tries -- 60%.
+Game ended at move: 1
+137 wins in 273 tries -- 50%, with 230 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+137 wins in 274 tries -- 50%, with 231 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+138 wins in 275 tries -- 50%, with 232 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 16
+139 wins in 276 tries -- 50%, with 233 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+140 wins in 277 tries -- 51%, with 234 standard tries -- 60%.
+Game ended at move: 1
+140 wins in 278 tries -- 50%, with 234 standard tries -- 60%.
+Computing for: 3
+Computing for: 2
+Game ended at move: 3
+140 wins in 279 tries -- 50%, with 235 standard tries -- 60%.
+Game ended at move: 1
+140 wins in 280 tries -- 50%, with 235 standard tries -- 60%.
+Game ended at move: 1
+140 wins in 281 tries -- 50%, with 235 standard tries -- 60%.
+141 wins in 282 tries -- 50%, with 236 standard tries -- 60%.
+Computing for: 8
+142 wins in 283 tries -- 50%, with 237 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+142 wins in 284 tries -- 50%, with 238 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+142 wins in 285 tries -- 50%, with 239 standard tries -- 59%.
+Computing for: 10
+Computing for: 12
+Game ended at move: 15
+142 wins in 286 tries -- 50%, with 240 standard tries -- 59%.
+Game ended at move: 1
+142 wins in 287 tries -- 49%, with 240 standard tries -- 59%.
+Computing for: 5
+Computing for: 9
+143 wins in 288 tries -- 50%, with 241 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+144 wins in 289 tries -- 50%, with 242 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+144 wins in 290 tries -- 50%, with 243 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+144 wins in 291 tries -- 49%, with 244 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+144 wins in 292 tries -- 49%, with 245 standard tries -- 59%.
+145 wins in 293 tries -- 49%, with 246 standard tries -- 59%.
+146 wins in 294 tries -- 50%, with 247 standard tries -- 59%.
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Game ended at move: 48
+146 wins in 295 tries -- 49%, with 248 standard tries -- 59%.
+147 wins in 296 tries -- 50%, with 249 standard tries -- 59%.
+148 wins in 297 tries -- 50%, with 250 standard tries -- 59%.
+Game ended at move: 1
+148 wins in 298 tries -- 50%, with 250 standard tries -- 59%.
+Computing for: 7
+149 wins in 299 tries -- 50%, with 251 standard tries -- 59%.
+Computing for: 15
+Computing for: 17
+Computing for: 16
+Computing for: 15
+Computing for: 15
+Computing for: 4
+Game ended at move: 53
+149 wins in 300 tries -- 50%, with 252 standard tries -- 59%.
+150 wins in 301 tries -- 50%, with 253 standard tries -- 59%.
+151 wins in 302 tries -- 50%, with 254 standard tries -- 59%.
+Game ended at move: 1
+151 wins in 303 tries -- 50%, with 254 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+151 wins in 304 tries -- 50%, with 255 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+152 wins in 305 tries -- 50%, with 256 standard tries -- 59%.
+Game ended at move: 1
+152 wins in 306 tries -- 50%, with 256 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 5
+Game ended at move: 52
+152 wins in 307 tries -- 50%, with 257 standard tries -- 59%.
+Game ended at move: 1
+152 wins in 308 tries -- 49%, with 257 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+152 wins in 309 tries -- 49%, with 258 standard tries -- 59%.
+Computing for: 3
+Computing for: 10
+Computing for: 9
+Computing for: 8
+Computing for: 8
+Computing for: 7
+Game ended at move: 52
+152 wins in 310 tries -- 49%, with 259 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+152 wins in 311 tries -- 49%, with 260 standard tries -- 58%.
+153 wins in 312 tries -- 49%, with 261 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Game ended at move: 5
+153 wins in 313 tries -- 49%, with 262 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Computing for: 6
+Computing for: 9
+Computing for: 5
+Game ended at move: 49
+153 wins in 314 tries -- 49%, with 263 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+154 wins in 315 tries -- 49%, with 264 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+154 wins in 316 tries -- 49%, with 265 standard tries -- 58%.
+Computing for: 10
+Computing for: 11
+Computing for: 14
+Computing for: 13
+Computing for: 14
+Computing for: 13
+155 wins in 317 tries -- 49%, with 266 standard tries -- 58%.
+Computing for: 3
+Game ended at move: 2
+155 wins in 318 tries -- 49%, with 267 standard tries -- 58%.
+Computing for: 9
+Computing for: 8
+Computing for: 7
+156 wins in 319 tries -- 49%, with 268 standard tries -- 58%.
+Computing for: 3
+Computing for: 7
+Game ended at move: 6
+156 wins in 320 tries -- 49%, with 269 standard tries -- 58%.
+Computing for: 3
+Game ended at move: 2
+156 wins in 321 tries -- 49%, with 270 standard tries -- 58%.
+Game ended at move: 1
+156 wins in 322 tries -- 48%, with 270 standard tries -- 58%.
+Game ended at move: 1
+156 wins in 323 tries -- 48%, with 270 standard tries -- 58%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+Computing for: 9
+Computing for: 10
+Computing for: 12
+Computing for: 15
+Computing for: 14
+Computing for: 12
+157 wins in 324 tries -- 48%, with 271 standard tries -- 58%.
+Computing for: 0
+158 wins in 325 tries -- 49%, with 272 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+158 wins in 326 tries -- 48%, with 273 standard tries -- 58%.
+159 wins in 327 tries -- 49%, with 274 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 2
+Game ended at move: 54
+159 wins in 328 tries -- 48%, with 275 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+160 wins in 329 tries -- 49%, with 276 standard tries -- 58%.
+Game ended at move: 1
+160 wins in 330 tries -- 48%, with 276 standard tries -- 58%.
+161 wins in 331 tries -- 49%, with 277 standard tries -- 58%.
+162 wins in 332 tries -- 49%, with 278 standard tries -- 58%.
+163 wins in 333 tries -- 49%, with 279 standard tries -- 58%.
+Computing for: 9
+Computing for: 3
+Game ended at move: 52
+163 wins in 334 tries -- 49%, with 280 standard tries -- 58%.
+Computing for: 12
+164 wins in 335 tries -- 49%, with 281 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 9
+Game ended at move: 7
+164 wins in 336 tries -- 49%, with 282 standard tries -- 58%.
+165 wins in 337 tries -- 49%, with 283 standard tries -- 58%.
+Computing for: 3
+Computing for: 4
+166 wins in 338 tries -- 49%, with 284 standard tries -- 58%.
+Computing for: 5
+167 wins in 339 tries -- 49%, with 285 standard tries -- 59%.
+168 wins in 340 tries -- 49%, with 286 standard tries -- 59%.
+169 wins in 341 tries -- 50%, with 287 standard tries -- 59%.
+170 wins in 342 tries -- 50%, with 288 standard tries -- 59%.
+Computing for: 10
+Computing for: 12
+Computing for: 15
+Computing for: 14
+Computing for: 16
+Computing for: 16
+Computing for: 17
+Computing for: 13
+Computing for: 12
+171 wins in 343 tries -- 50%, with 289 standard tries -- 59%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+171 wins in 344 tries -- 50%, with 290 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 9
+Game ended at move: 7
+171 wins in 345 tries -- 50%, with 291 standard tries -- 59%.
+172 wins in 346 tries -- 50%, with 292 standard tries -- 59%.
+Computing for: 7
+Game ended at move: 42
+172 wins in 347 tries -- 50%, with 293 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+172 wins in 348 tries -- 49%, with 294 standard tries -- 59%.
+173 wins in 349 tries -- 50%, with 295 standard tries -- 59%.
+174 wins in 350 tries -- 50%, with 296 standard tries -- 59%.
+175 wins in 351 tries -- 50%, with 297 standard tries -- 59%.
+Computing for: 8
+Computing for: 9
+Computing for: 12
+Computing for: 11
+Computing for: 15
+176 wins in 352 tries -- 50%, with 298 standard tries -- 59%.
+Game ended at move: 1
+176 wins in 353 tries -- 50%, with 298 standard tries -- 59%.
+177 wins in 354 tries -- 50%, with 299 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+177 wins in 355 tries -- 50%, with 300 standard tries -- 59%.
+178 wins in 356 tries -- 50%, with 301 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+178 wins in 357 tries -- 50%, with 302 standard tries -- 59%.
+179 wins in 358 tries -- 50%, with 303 standard tries -- 59%.
+Computing for: 11
+Computing for: 13
+Game ended at move: 17
+179 wins in 359 tries -- 50%, with 304 standard tries -- 59%.
+Game ended at move: 1
+179 wins in 360 tries -- 50%, with 304 standard tries -- 59%.
+Computing for: 3
+Computing for: 1
+180 wins in 361 tries -- 50%, with 305 standard tries -- 59%.
+Computing for: 6
+Computing for: 8
+Computing for: 11
+Computing for: 10
+181 wins in 362 tries -- 50%, with 306 standard tries -- 59%.
+Game ended at move: 1
+181 wins in 363 tries -- 50%, with 306 standard tries -- 59%.
+182 wins in 364 tries -- 50%, with 307 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+183 wins in 365 tries -- 50%, with 308 standard tries -- 59%.
+Computing for: 3
+Computing for: 7
+Game ended at move: 8
+183 wins in 366 tries -- 50%, with 309 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+183 wins in 367 tries -- 50%, with 310 standard tries -- 59%.
+184 wins in 368 tries -- 50%, with 311 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+184 wins in 369 tries -- 50%, with 312 standard tries -- 59%.
+185 wins in 370 tries -- 50%, with 313 standard tries -- 59%.
+Computing for: 8
+186 wins in 371 tries -- 50%, with 314 standard tries -- 59%.
+Computing for: 0
+Computing for: 8
+187 wins in 372 tries -- 50%, with 315 standard tries -- 59%.
+Computing for: 3
+Game ended at move: 2
+187 wins in 373 tries -- 50%, with 316 standard tries -- 59%.
+Game ended at move: 1
+187 wins in 374 tries -- 50%, with 316 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+Computing for: 11
+Computing for: 12
+Computing for: 13
+Computing for: 12
+Computing for: 11
+188 wins in 375 tries -- 50%, with 317 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+189 wins in 376 tries -- 50%, with 318 standard tries -- 59%.
+Computing for: 3
+Computing for: 4
+Computing for: 6
+190 wins in 377 tries -- 50%, with 319 standard tries -- 60%.
+Computing for: 6
+Computing for: 8
+Computing for: 13
+Computing for: 12
+191 wins in 378 tries -- 51%, with 320 standard tries -- 60%.
+192 wins in 379 tries -- 51%, with 321 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+Computing for: 14
+Computing for: 15
+Computing for: 17
+193 wins in 380 tries -- 51%, with 322 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Game ended at move: 5
+193 wins in 381 tries -- 51%, with 323 standard tries -- 60%.
+194 wins in 382 tries -- 51%, with 324 standard tries -- 60%.
+Computing for: 11
+Computing for: 13
+Computing for: 12
+Computing for: 14
+Computing for: 16
+Computing for: 16
+Computing for: 17
+Computing for: 7
+195 wins in 383 tries -- 51%, with 325 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+196 wins in 384 tries -- 51%, with 326 standard tries -- 60%.
+197 wins in 385 tries -- 51%, with 327 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+197 wins in 386 tries -- 51%, with 328 standard tries -- 60%.
+198 wins in 387 tries -- 51%, with 329 standard tries -- 60%.
+199 wins in 388 tries -- 51%, with 330 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+200 wins in 389 tries -- 51%, with 331 standard tries -- 60%.
+Game ended at move: 1
+200 wins in 390 tries -- 51%, with 331 standard tries -- 60%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 10
+Computing for: 12
+Computing for: 12
+Computing for: 11
+Computing for: 10
+201 wins in 391 tries -- 51%, with 332 standard tries -- 61%.
+Computing for: 5
+202 wins in 392 tries -- 52%, with 333 standard tries -- 61%.
+Computing for: 9
+Game ended at move: 10
+202 wins in 393 tries -- 51%, with 334 standard tries -- 60%.
+Computing for: 3
+Game ended at move: 2
+202 wins in 394 tries -- 51%, with 335 standard tries -- 60%.
+Computing for: 10
+203 wins in 395 tries -- 51%, with 336 standard tries -- 60%.
+Computing for: 10
+204 wins in 396 tries -- 52%, with 337 standard tries -- 61%.
+Game ended at move: 1
+204 wins in 397 tries -- 51%, with 337 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+Computing for: 13
+Computing for: 12
+Computing for: 14
+Computing for: 19
+Computing for: 19
+Computing for: 18
+Computing for: 15
+Computing for: 17
+Computing for: 21
+Computing for: 23
+Computing for: 22
+205 wins in 398 tries -- 52%, with 338 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+Computing for: 8
+Computing for: 9
+Computing for: 6
+206 wins in 399 tries -- 52%, with 339 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+207 wins in 400 tries -- 52%, with 340 standard tries -- 61%.
+Computing for: 7
+Computing for: 9
+Computing for: 7
+208 wins in 401 tries -- 52%, with 341 standard tries -- 61%.
+209 wins in 402 tries -- 52%, with 342 standard tries -- 61%.
+210 wins in 403 tries -- 52%, with 343 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+210 wins in 404 tries -- 52%, with 344 standard tries -- 61%.
+Computing for: 11
+Computing for: 13
+Computing for: 13
+Computing for: 17
+211 wins in 405 tries -- 52%, with 345 standard tries -- 61%.
+Game ended at move: 1
+211 wins in 406 tries -- 52%, with 345 standard tries -- 61%.
+Game ended at move: 1
+211 wins in 407 tries -- 52%, with 345 standard tries -- 61%.
+Game ended at move: 1
+211 wins in 408 tries -- 52%, with 345 standard tries -- 61%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Game ended at move: 8
+211 wins in 409 tries -- 52%, with 346 standard tries -- 61%.
+212 wins in 410 tries -- 52%, with 347 standard tries -- 61%.
+Computing for: 5
+Game ended at move: 7
+212 wins in 411 tries -- 52%, with 348 standard tries -- 61%.
+Computing for: 9
+213 wins in 412 tries -- 52%, with 349 standard tries -- 61%.
+Game ended at move: 1
+213 wins in 413 tries -- 52%, with 349 standard tries -- 61%.
+Computing for: 10
+Computing for: 12
+214 wins in 414 tries -- 52%, with 350 standard tries -- 61%.
+Computing for: 8
+215 wins in 415 tries -- 52%, with 351 standard tries -- 61%.
+Computing for: 3
+Game ended at move: 2
+215 wins in 416 tries -- 52%, with 352 standard tries -- 61%.
+216 wins in 417 tries -- 52%, with 353 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+217 wins in 418 tries -- 52%, with 354 standard tries -- 61%.
+Computing for: 5
+218 wins in 419 tries -- 52%, with 355 standard tries -- 61%.
+Computing for: 9
+Computing for: 9
+Computing for: 11
+219 wins in 420 tries -- 52%, with 356 standard tries -- 62%.
+Computing for: 3
+Computing for: 2
+Game ended at move: 53
+219 wins in 421 tries -- 52%, with 357 standard tries -- 61%.
+Computing for: 3
+Game ended at move: 2
+219 wins in 422 tries -- 52%, with 358 standard tries -- 61%.
+Computing for: 3
+Computing for: 3
+220 wins in 423 tries -- 52%, with 359 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 8
+Computing for: 10
+Computing for: 14
+Game ended at move: 10
+220 wins in 424 tries -- 52%, with 360 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+221 wins in 425 tries -- 52%, with 361 standard tries -- 61%.
+Computing for: 11
+Computing for: 11
+Computing for: 14
+Computing for: 13
+222 wins in 426 tries -- 52%, with 362 standard tries -- 61%.
+Computing for: 6
+Computing for: 7
+Computing for: 6
+223 wins in 427 tries -- 52%, with 363 standard tries -- 61%.
+Computing for: 10
+Computing for: 12
+Computing for: 14
+224 wins in 428 tries -- 52%, with 364 standard tries -- 62%.
+Game ended at move: 1
+224 wins in 429 tries -- 52%, with 364 standard tries -- 62%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+224 wins in 430 tries -- 52%, with 365 standard tries -- 61%.
+Computing for: 3
+Game ended at move: 2
+224 wins in 431 tries -- 52%, with 366 standard tries -- 61%.
+Computing for: 3
+Computing for: 4
+225 wins in 432 tries -- 52%, with 367 standard tries -- 61%.
+Computing for: 3
+Game ended at move: 2
+225 wins in 433 tries -- 52%, with 368 standard tries -- 61%.
+Computing for: 8
+226 wins in 434 tries -- 52%, with 369 standard tries -- 61%.
+Computing for: 3
+Game ended at move: 2
+226 wins in 435 tries -- 52%, with 370 standard tries -- 61%.
+Game ended at move: 1
+226 wins in 436 tries -- 52%, with 370 standard tries -- 61%.
+Computing for: 18
+Computing for: 18
+Computing for: 17
+Computing for: 16
+Computing for: 15
+Computing for: 14
+Computing for: 13
+Computing for: 13
+Computing for: 13
+Game ended at move: 47
+226 wins in 437 tries -- 52%, with 371 standard tries -- 61%.
+Computing for: 12
+Computing for: 13
+Computing for: 4
+227 wins in 438 tries -- 52%, with 372 standard tries -- 61%.
+228 wins in 439 tries -- 52%, with 373 standard tries -- 61%.
+229 wins in 440 tries -- 52%, with 374 standard tries -- 61%.
+Computing for: 3
+Game ended at move: 2
+229 wins in 441 tries -- 52%, with 375 standard tries -- 61%.
+Computing for: 8
+Computing for: 10
+230 wins in 442 tries -- 52%, with 376 standard tries -- 61%.
+Computing for: 8
+Computing for: 6
+Game ended at move: 9
+230 wins in 443 tries -- 52%, with 377 standard tries -- 61%.
+231 wins in 444 tries -- 52%, with 378 standard tries -- 61%.
+Computing for: 7
+Computing for: 10
+232 wins in 445 tries -- 52%, with 379 standard tries -- 61%.
+Game ended at move: 1
+232 wins in 446 tries -- 52%, with 379 standard tries -- 61%.
+Computing for: 16
+Computing for: 17
+Computing for: 19
+Computing for: 0
+233 wins in 447 tries -- 52%, with 380 standard tries -- 61%.
+234 wins in 448 tries -- 52%, with 381 standard tries -- 61%.
+Game ended at move: 1
+234 wins in 449 tries -- 52%, with 381 standard tries -- 61%.
+Computing for: 2
+Game ended at move: 54
+234 wins in 450 tries -- 52%, with 382 standard tries -- 61%.
+235 wins in 451 tries -- 52%, with 383 standard tries -- 61%.
+Computing for: 6
+Computing for: 8
+Game ended at move: 50
+235 wins in 452 tries -- 52%, with 384 standard tries -- 61%.
+Computing for: 7
+236 wins in 453 tries -- 52%, with 385 standard tries -- 61%.
+237 wins in 454 tries -- 52%, with 386 standard tries -- 61%.
+238 wins in 455 tries -- 52%, with 387 standard tries -- 61%.
+Computing for: 9
+Computing for: 11
+Computing for: 11
+Computing for: 13
+Computing for: 18
+Game ended at move: 17
+238 wins in 456 tries -- 52%, with 388 standard tries -- 61%.
+Game ended at move: 1
+238 wins in 457 tries -- 52%, with 388 standard tries -- 61%.
+Computing for: 8
+Computing for: 10
+Computing for: 15
+Computing for: 14
+Computing for: 11
+239 wins in 458 tries -- 52%, with 389 standard tries -- 61%.
+Computing for: 10
+Computing for: 12
+Computing for: 2
+240 wins in 459 tries -- 52%, with 390 standard tries -- 62%.
+Game ended at move: 1
+240 wins in 460 tries -- 52%, with 390 standard tries -- 62%.
+241 wins in 461 tries -- 52%, with 391 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+242 wins in 462 tries -- 52%, with 392 standard tries -- 62%.
+Computing for: 6
+Computing for: 7
+Computing for: 7
+Computing for: 9
+Game ended at move: 13
+242 wins in 463 tries -- 52%, with 393 standard tries -- 62%.
+Computing for: 11
+Computing for: 11
+243 wins in 464 tries -- 52%, with 394 standard tries -- 62%.
+Computing for: 6
+Computing for: 8
+Computing for: 8
+Game ended at move: 9
+243 wins in 465 tries -- 52%, with 395 standard tries -- 62%.
+Game ended at move: 1
+243 wins in 466 tries -- 52%, with 395 standard tries -- 62%.
+Computing for: 6
+Computing for: 8
+Computing for: 13
+244 wins in 467 tries -- 52%, with 396 standard tries -- 62%.
+245 wins in 468 tries -- 52%, with 397 standard tries -- 62%.
+Computing for: 3
+Computing for: 5
+Computing for: 8
+Computing for: 8
+Computing for: 10
+246 wins in 469 tries -- 52%, with 398 standard tries -- 62%.
+247 wins in 470 tries -- 53%, with 399 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 6
+Computing for: 2
+Game ended at move: 54
+247 wins in 471 tries -- 52%, with 400 standard tries -- 62%.
+Game ended at move: 1
+247 wins in 472 tries -- 52%, with 400 standard tries -- 62%.
+Computing for: 6
+248 wins in 473 tries -- 52%, with 401 standard tries -- 62%.
+Computing for: 6
+Computing for: 8
+Computing for: 3
+Computing for: 1
+249 wins in 474 tries -- 53%, with 402 standard tries -- 62%.
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Computing for: 12
+Game ended at move: 14
+249 wins in 475 tries -- 52%, with 403 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Game ended at move: 4
+249 wins in 476 tries -- 52%, with 404 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+250 wins in 477 tries -- 52%, with 405 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Game ended at move: 5
+250 wins in 478 tries -- 52%, with 406 standard tries -- 62%.
+Computing for: 8
+251 wins in 479 tries -- 52%, with 407 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+252 wins in 480 tries -- 53%, with 408 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+252 wins in 481 tries -- 52%, with 409 standard tries -- 62%.
+253 wins in 482 tries -- 52%, with 410 standard tries -- 62%.
+254 wins in 483 tries -- 53%, with 411 standard tries -- 62%.
+Game ended at move: 1
+254 wins in 484 tries -- 52%, with 411 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+255 wins in 485 tries -- 53%, with 412 standard tries -- 62%.
+Computing for: 9
+Computing for: 2
+Computing for: 2
+256 wins in 486 tries -- 53%, with 413 standard tries -- 62%.
+Computing for: 9
+Computing for: 10
+Computing for: 12
+Computing for: 15
+Computing for: 14
+Computing for: 9
+Computing for: 11
+257 wins in 487 tries -- 53%, with 414 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+257 wins in 488 tries -- 53%, with 415 standard tries -- 62%.
+258 wins in 489 tries -- 53%, with 416 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+258 wins in 490 tries -- 53%, with 417 standard tries -- 62%.
+Computing for: 11
+Computing for: 13
+Computing for: 10
+259 wins in 491 tries -- 53%, with 418 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+260 wins in 492 tries -- 53%, with 419 standard tries -- 62%.
+Computing for: 9
+261 wins in 493 tries -- 53%, with 420 standard tries -- 62%.
+Computing for: 0
+262 wins in 494 tries -- 53%, with 421 standard tries -- 62%.
+Computing for: 9
+263 wins in 495 tries -- 53%, with 422 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+263 wins in 496 tries -- 53%, with 423 standard tries -- 62%.
+Computing for: 9
+Computing for: 10
+Computing for: 13
+Computing for: 13
+264 wins in 497 tries -- 53%, with 424 standard tries -- 62%.
+Computing for: 7
+Computing for: 10
+265 wins in 498 tries -- 53%, with 425 standard tries -- 62%.
+Game ended at move: 1
+265 wins in 499 tries -- 53%, with 425 standard tries -- 62%.
+Computing for: 6
+Computing for: 2
+266 wins in 500 tries -- 53%, with 426 standard tries -- 62%.
+Computing for: 9
+Computing for: 8
+Computing for: 6
+Computing for: 8
+Game ended at move: 50
+266 wins in 501 tries -- 53%, with 427 standard tries -- 62%.
+Computing for: 3
+Computing for: 5
+Game ended at move: 5
+266 wins in 502 tries -- 53%, with 428 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+267 wins in 503 tries -- 53%, with 429 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+267 wins in 504 tries -- 53%, with 430 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+268 wins in 505 tries -- 53%, with 431 standard tries -- 62%.
+Game ended at move: 1
+268 wins in 506 tries -- 53%, with 431 standard tries -- 62%.
+Computing for: 7
+Computing for: 6
+Computing for: 6
+Game ended at move: 12
+268 wins in 507 tries -- 53%, with 432 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 10
+Game ended at move: 44
+268 wins in 508 tries -- 53%, with 433 standard tries -- 62%.
+Game ended at move: 1
+268 wins in 509 tries -- 53%, with 433 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+268 wins in 510 tries -- 53%, with 434 standard tries -- 62%.
+Computing for: 3
+269 wins in 511 tries -- 53%, with 435 standard tries -- 62%.
+Computing for: 10
+270 wins in 512 tries -- 53%, with 436 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 11
+Computing for: 15
+Game ended at move: 14
+270 wins in 513 tries -- 53%, with 437 standard tries -- 62%.
+Computing for: 10
+Computing for: 14
+Computing for: 17
+Computing for: 16
+Computing for: 19
+Computing for: 19
+Computing for: 19
+Computing for: 18
+Computing for: 11
+Computing for: 8
+Computing for: 7
+Computing for: 6
+Game ended at move: 50
+270 wins in 514 tries -- 53%, with 438 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+271 wins in 515 tries -- 53%, with 439 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+Computing for: 15
+Computing for: 11
+Computing for: 2
+Game ended at move: 54
+271 wins in 516 tries -- 53%, with 440 standard tries -- 62%.
+Game ended at move: 1
+271 wins in 517 tries -- 52%, with 440 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+271 wins in 518 tries -- 52%, with 441 standard tries -- 61%.
+Computing for: 7
+Computing for: 9
+Computing for: 8
+272 wins in 519 tries -- 52%, with 442 standard tries -- 62%.
+Computing for: 7
+Computing for: 10
+Computing for: 13
+Computing for: 12
+273 wins in 520 tries -- 53%, with 443 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+274 wins in 521 tries -- 53%, with 444 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 9
+Computing for: 11
+Computing for: 15
+Game ended at move: 41
+274 wins in 522 tries -- 52%, with 445 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+274 wins in 523 tries -- 52%, with 446 standard tries -- 61%.
+Computing for: 10
+Computing for: 0
+275 wins in 524 tries -- 52%, with 447 standard tries -- 62%.
+Computing for: 10
+276 wins in 525 tries -- 53%, with 448 standard tries -- 62%.
+277 wins in 526 tries -- 53%, with 449 standard tries -- 62%.
+278 wins in 527 tries -- 53%, with 450 standard tries -- 62%.
+Game ended at move: 1
+278 wins in 528 tries -- 53%, with 450 standard tries -- 62%.
+Computing for: 11
+Computing for: 14
+Computing for: 14
+Computing for: 15
+Computing for: 14
+Computing for: 10
+Computing for: 12
+279 wins in 529 tries -- 53%, with 451 standard tries -- 62%.
+Computing for: 5
+280 wins in 530 tries -- 53%, with 452 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+280 wins in 531 tries -- 53%, with 453 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+280 wins in 532 tries -- 53%, with 454 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+280 wins in 533 tries -- 53%, with 455 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+280 wins in 534 tries -- 52%, with 456 standard tries -- 61%.
+Game ended at move: 1
+280 wins in 535 tries -- 52%, with 456 standard tries -- 61%.
+Computing for: 8
+Computing for: 0
+281 wins in 536 tries -- 52%, with 457 standard tries -- 61%.
+Computing for: 3
+Computing for: 7
+282 wins in 537 tries -- 53%, with 458 standard tries -- 62%.
+283 wins in 538 tries -- 53%, with 459 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 11
+Computing for: 12
+Computing for: 3
+284 wins in 539 tries -- 53%, with 460 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Game ended at move: 5
+284 wins in 540 tries -- 53%, with 461 standard tries -- 62%.
+285 wins in 541 tries -- 53%, with 462 standard tries -- 62%.
+Computing for: 8
+Computing for: 10
+Game ended at move: 46
+285 wins in 542 tries -- 53%, with 463 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+286 wins in 543 tries -- 53%, with 464 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+286 wins in 544 tries -- 53%, with 465 standard tries -- 62%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Computing for: 11
+Computing for: 11
+Game ended at move: 10
+286 wins in 545 tries -- 52%, with 466 standard tries -- 61%.
+Game ended at move: 1
+286 wins in 546 tries -- 52%, with 466 standard tries -- 61%.
+Computing for: 6
+Computing for: 8
+Computing for: 11
+Computing for: 11
+Computing for: 13
+Computing for: 14
+Computing for: 14
+287 wins in 547 tries -- 52%, with 467 standard tries -- 61%.
+Computing for: 2
+Game ended at move: 54
+287 wins in 548 tries -- 52%, with 468 standard tries -- 61%.
+288 wins in 549 tries -- 52%, with 469 standard tries -- 61%.
+Computing for: 7
+289 wins in 550 tries -- 53%, with 470 standard tries -- 61%.
+290 wins in 551 tries -- 53%, with 471 standard tries -- 62%.
+291 wins in 552 tries -- 53%, with 472 standard tries -- 62%.
+Game ended at move: 1
+291 wins in 553 tries -- 53%, with 472 standard tries -- 62%.
+Computing for: 7
+Computing for: 9
+Computing for: 13
+Computing for: 12
+Computing for: 14
+Computing for: 16
+Computing for: 11
+Computing for: 7
+Computing for: 6
+Computing for: 5
+292 wins in 554 tries -- 53%, with 473 standard tries -- 62%.
+293 wins in 555 tries -- 53%, with 474 standard tries -- 62%.
+Game ended at move: 1
+293 wins in 556 tries -- 53%, with 474 standard tries -- 62%.
+Game ended at move: 1
+293 wins in 557 tries -- 53%, with 474 standard tries -- 62%.
+Game ended at move: 1
+293 wins in 558 tries -- 53%, with 474 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 8
+Computing for: 10
+Computing for: 10
+Computing for: 9
+Computing for: 8
+294 wins in 559 tries -- 53%, with 475 standard tries -- 62%.
+295 wins in 560 tries -- 53%, with 476 standard tries -- 62%.
+296 wins in 561 tries -- 53%, with 477 standard tries -- 62%.
+Game ended at move: 1
+296 wins in 562 tries -- 53%, with 477 standard tries -- 62%.
+297 wins in 563 tries -- 53%, with 478 standard tries -- 62%.
+298 wins in 564 tries -- 53%, with 479 standard tries -- 62%.
+299 wins in 565 tries -- 53%, with 480 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 54
+299 wins in 566 tries -- 53%, with 481 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+299 wins in 567 tries -- 53%, with 482 standard tries -- 62%.
+Game ended at move: 1
+299 wins in 568 tries -- 53%, with 482 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+300 wins in 569 tries -- 53%, with 483 standard tries -- 62%.
+Computing for: 12
+Computing for: 17
+301 wins in 570 tries -- 53%, with 484 standard tries -- 62%.
+Computing for: 4
+Computing for: 3
+Game ended at move: 54
+301 wins in 571 tries -- 53%, with 485 standard tries -- 62%.
+Game ended at move: 1
+301 wins in 572 tries -- 53%, with 485 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 6
+Game ended at move: 52
+301 wins in 573 tries -- 53%, with 486 standard tries -- 62%.
+Computing for: 11
+Computing for: 13
+Computing for: 17
+Computing for: 16
+Computing for: 18
+Computing for: 17
+Computing for: 16
+Computing for: 19
+Computing for: 19
+Computing for: 20
+Computing for: 22
+Computing for: 22
+Computing for: 22
+Computing for: 19
+Computing for: 14
+Game ended at move: 38
+301 wins in 574 tries -- 52%, with 487 standard tries -- 62%.
+Computing for: 8
+Computing for: 11
+Computing for: 10
+302 wins in 575 tries -- 53%, with 488 standard tries -- 62%.
+Computing for: 8
+Computing for: 10
+Computing for: 13
+Computing for: 14
+Computing for: 15
+Computing for: 16
+Computing for: 15
+Computing for: 8
+Computing for: 6
+303 wins in 576 tries -- 53%, with 489 standard tries -- 62%.
+304 wins in 577 tries -- 53%, with 490 standard tries -- 62%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+304 wins in 578 tries -- 53%, with 491 standard tries -- 62%.
+Computing for: 7
+Computing for: 9
+Game ended at move: 14
+304 wins in 579 tries -- 53%, with 492 standard tries -- 62%.
+Game ended at move: 1
+304 wins in 580 tries -- 52%, with 492 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+305 wins in 581 tries -- 52%, with 493 standard tries -- 62%.
+Game ended at move: 1
+305 wins in 582 tries -- 52%, with 493 standard tries -- 62%.
+306 wins in 583 tries -- 52%, with 494 standard tries -- 62%.
+Computing for: 14
+Computing for: 11
+307 wins in 584 tries -- 53%, with 495 standard tries -- 62%.
+Computing for: 0
+308 wins in 585 tries -- 53%, with 496 standard tries -- 62%.
+Game ended at move: 1
+308 wins in 586 tries -- 53%, with 496 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+308 wins in 587 tries -- 52%, with 497 standard tries -- 62%.
+309 wins in 588 tries -- 53%, with 498 standard tries -- 62%.
+Game ended at move: 1
+309 wins in 589 tries -- 52%, with 498 standard tries -- 62%.
+Computing for: 6
+Computing for: 9
+Computing for: 9
+310 wins in 590 tries -- 53%, with 499 standard tries -- 62%.
+Computing for: 13
+Computing for: 16
+Computing for: 15
+Computing for: 18
+Computing for: 17
+Computing for: 17
+Computing for: 12
+Computing for: 11
+Computing for: 12
+Computing for: 3
+Game ended at move: 53
+310 wins in 591 tries -- 52%, with 500 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+311 wins in 592 tries -- 53%, with 501 standard tries -- 62%.
+Computing for: 8
+Computing for: 4
+Computing for: 3
+312 wins in 593 tries -- 53%, with 502 standard tries -- 62%.
+Computing for: 9
+313 wins in 594 tries -- 53%, with 503 standard tries -- 62%.
+314 wins in 595 tries -- 53%, with 504 standard tries -- 62%.
+Computing for: 12
+315 wins in 596 tries -- 53%, with 505 standard tries -- 62%.
+316 wins in 597 tries -- 53%, with 506 standard tries -- 62%.
+317 wins in 598 tries -- 53%, with 507 standard tries -- 63%.
+318 wins in 599 tries -- 53%, with 508 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+318 wins in 600 tries -- 53%, with 509 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 2
+319 wins in 601 tries -- 53%, with 510 standard tries -- 63%.
+Game ended at move: 1
+319 wins in 602 tries -- 53%, with 510 standard tries -- 63%.
+320 wins in 603 tries -- 53%, with 511 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 4
+Computing for: 2
+321 wins in 604 tries -- 53%, with 512 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+321 wins in 605 tries -- 53%, with 513 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+321 wins in 606 tries -- 53%, with 514 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+322 wins in 607 tries -- 53%, with 515 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+322 wins in 608 tries -- 53%, with 516 standard tries -- 62%.
+323 wins in 609 tries -- 53%, with 517 standard tries -- 62%.
+324 wins in 610 tries -- 53%, with 518 standard tries -- 63%.
+Game ended at move: 1
+324 wins in 611 tries -- 53%, with 518 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+324 wins in 612 tries -- 53%, with 519 standard tries -- 62%.
+Computing for: 3
+Game ended at move: 2
+324 wins in 613 tries -- 53%, with 520 standard tries -- 62%.
+Computing for: 12
+Computing for: 13
+Computing for: 17
+Computing for: 19
+Computing for: 19
+Computing for: 18
+Computing for: 17
+Computing for: 13
+Computing for: 12
+Computing for: 5
+Game ended at move: 48
+324 wins in 614 tries -- 53%, with 521 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+325 wins in 615 tries -- 53%, with 522 standard tries -- 62%.
+Computing for: 8
+Computing for: 9
+Computing for: 10
+326 wins in 616 tries -- 53%, with 523 standard tries -- 62%.
+327 wins in 617 tries -- 53%, with 524 standard tries -- 62%.
+Game ended at move: 1
+327 wins in 618 tries -- 53%, with 524 standard tries -- 62%.
+Computing for: 3
+Computing for: 4
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+Computing for: 1
+328 wins in 619 tries -- 53%, with 525 standard tries -- 62%.
+Computing for: 9
+Computing for: 11
+329 wins in 620 tries -- 53%, with 526 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+330 wins in 621 tries -- 53%, with 527 standard tries -- 63%.
+Computing for: 7
+331 wins in 622 tries -- 53%, with 528 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 13
+Computing for: 14
+332 wins in 623 tries -- 53%, with 529 standard tries -- 63%.
+Computing for: 10
+333 wins in 624 tries -- 53%, with 530 standard tries -- 63%.
+Game ended at move: 1
+333 wins in 625 tries -- 53%, with 530 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+334 wins in 626 tries -- 53%, with 531 standard tries -- 63%.
+Game ended at move: 1
+334 wins in 627 tries -- 53%, with 531 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 11
+Computing for: 13
+Computing for: 17
+Computing for: 17
+Computing for: 11
+Computing for: 9
+Game ended at move: 48
+334 wins in 628 tries -- 53%, with 532 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 15
+Computing for: 14
+Computing for: 13
+335 wins in 629 tries -- 53%, with 533 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+335 wins in 630 tries -- 53%, with 534 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 52
+335 wins in 631 tries -- 53%, with 535 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+336 wins in 632 tries -- 53%, with 536 standard tries -- 63%.
+337 wins in 633 tries -- 53%, with 537 standard tries -- 63%.
+338 wins in 634 tries -- 53%, with 538 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+338 wins in 635 tries -- 53%, with 539 standard tries -- 63%.
+Computing for: 3
+Computing for: 7
+Computing for: 6
+Game ended at move: 9
+338 wins in 636 tries -- 53%, with 540 standard tries -- 63%.
+Computing for: 4
+339 wins in 637 tries -- 53%, with 541 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 52
+339 wins in 638 tries -- 53%, with 542 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+340 wins in 639 tries -- 53%, with 543 standard tries -- 63%.
+341 wins in 640 tries -- 53%, with 544 standard tries -- 63%.
+342 wins in 641 tries -- 53%, with 545 standard tries -- 63%.
+Computing for: 11
+Computing for: 13
+Computing for: 13
+Computing for: 13
+Computing for: 12
+343 wins in 642 tries -- 53%, with 546 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+343 wins in 643 tries -- 53%, with 547 standard tries -- 63%.
+344 wins in 644 tries -- 53%, with 548 standard tries -- 63%.
+345 wins in 645 tries -- 53%, with 549 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+346 wins in 646 tries -- 54%, with 550 standard tries -- 63%.
+347 wins in 647 tries -- 54%, with 551 standard tries -- 63%.
+Computing for: 7
+348 wins in 648 tries -- 54%, with 552 standard tries -- 63%.
+349 wins in 649 tries -- 54%, with 553 standard tries -- 63%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+350 wins in 650 tries -- 54%, with 554 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+351 wins in 651 tries -- 54%, with 555 standard tries -- 63%.
+352 wins in 652 tries -- 54%, with 556 standard tries -- 63%.
+Computing for: 3
+Computing for: 1
+353 wins in 653 tries -- 54%, with 557 standard tries -- 63%.
+Computing for: 8
+354 wins in 654 tries -- 54%, with 558 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+355 wins in 655 tries -- 54%, with 559 standard tries -- 64%.
+356 wins in 656 tries -- 54%, with 560 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+356 wins in 657 tries -- 54%, with 561 standard tries -- 63%.
+Game ended at move: 1
+356 wins in 658 tries -- 54%, with 561 standard tries -- 63%.
+357 wins in 659 tries -- 54%, with 562 standard tries -- 64%.
+358 wins in 660 tries -- 54%, with 563 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+359 wins in 661 tries -- 54%, with 564 standard tries -- 64%.
+Game ended at move: 1
+359 wins in 662 tries -- 54%, with 564 standard tries -- 64%.
+Game ended at move: 1
+359 wins in 663 tries -- 54%, with 564 standard tries -- 64%.
+360 wins in 664 tries -- 54%, with 565 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Computing for: 5
+Computing for: 6
+Computing for: 7
+Computing for: 8
+Game ended at move: 9
+360 wins in 665 tries -- 54%, with 566 standard tries -- 64%.
+Computing for: 6
+Computing for: 8
+Computing for: 11
+Computing for: 11
+Computing for: 13
+361 wins in 666 tries -- 54%, with 567 standard tries -- 64%.
+362 wins in 667 tries -- 54%, with 568 standard tries -- 64%.
+Game ended at move: 1
+362 wins in 668 tries -- 54%, with 568 standard tries -- 64%.
+Computing for: 10
+Computing for: 12
+Computing for: 16
+Computing for: 15
+Computing for: 17
+Computing for: 19
+Computing for: 8
+Game ended at move: 51
+362 wins in 669 tries -- 54%, with 569 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+362 wins in 670 tries -- 54%, with 570 standard tries -- 64%.
+Computing for: 5
+Computing for: 9
+363 wins in 671 tries -- 54%, with 571 standard tries -- 64%.
+Computing for: 4
+Game ended at move: 51
+363 wins in 672 tries -- 54%, with 572 standard tries -- 63%.
+364 wins in 673 tries -- 54%, with 573 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+365 wins in 674 tries -- 54%, with 574 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+365 wins in 675 tries -- 54%, with 575 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 17
+Computing for: 17
+Computing for: 14
+Computing for: 12
+Computing for: 11
+Computing for: 10
+Computing for: 9
+Computing for: 5
+Game ended at move: 52
+365 wins in 676 tries -- 54%, with 576 standard tries -- 63%.
+Computing for: 5
+366 wins in 677 tries -- 54%, with 577 standard tries -- 63%.
+Game ended at move: 1
+366 wins in 678 tries -- 54%, with 577 standard tries -- 63%.
+Computing for: 10
+Computing for: 12
+Computing for: 10
+Computing for: 9
+Computing for: 8
+Computing for: 7
+367 wins in 679 tries -- 54%, with 578 standard tries -- 63%.
+Computing for: 3
+Computing for: 2
+Computing for: 2
+368 wins in 680 tries -- 54%, with 579 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+368 wins in 681 tries -- 54%, with 580 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 9
+Computing for: 12
+Computing for: 14
+Computing for: 13
+Computing for: 12
+Computing for: 13
+Computing for: 15
+Computing for: 16
+369 wins in 682 tries -- 54%, with 581 standard tries -- 64%.
+Game ended at move: 1
+369 wins in 683 tries -- 54%, with 581 standard tries -- 64%.
+Computing for: 11
+Computing for: 13
+Game ended at move: 19
+369 wins in 684 tries -- 54%, with 582 standard tries -- 63%.
+Game ended at move: 1
+369 wins in 685 tries -- 54%, with 582 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+369 wins in 686 tries -- 54%, with 583 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+370 wins in 687 tries -- 54%, with 584 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+Game ended at move: 9
+370 wins in 688 tries -- 54%, with 585 standard tries -- 63%.
+Computing for: 0
+Game ended at move: 2
+370 wins in 689 tries -- 54%, with 586 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+370 wins in 690 tries -- 54%, with 587 standard tries -- 63%.
+371 wins in 691 tries -- 54%, with 588 standard tries -- 63%.
+Game ended at move: 1
+371 wins in 692 tries -- 54%, with 588 standard tries -- 63%.
+Game ended at move: 1
+371 wins in 693 tries -- 54%, with 588 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 4
+Game ended at move: 6
+371 wins in 694 tries -- 53%, with 589 standard tries -- 63%.
+372 wins in 695 tries -- 54%, with 590 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+372 wins in 696 tries -- 53%, with 591 standard tries -- 63%.
+373 wins in 697 tries -- 54%, with 592 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+374 wins in 698 tries -- 54%, with 593 standard tries -- 63%.
+Game ended at move: 1
+374 wins in 699 tries -- 54%, with 593 standard tries -- 63%.
+375 wins in 700 tries -- 54%, with 594 standard tries -- 63%.
+Computing for: 10
+Computing for: 12
+376 wins in 701 tries -- 54%, with 595 standard tries -- 63%.
+Computing for: 0
+377 wins in 702 tries -- 54%, with 596 standard tries -- 63%.
+378 wins in 703 tries -- 54%, with 597 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+378 wins in 704 tries -- 54%, with 598 standard tries -- 63%.
+Computing for: 9
+Computing for: 9
+379 wins in 705 tries -- 54%, with 599 standard tries -- 63%.
+Game ended at move: 1
+379 wins in 706 tries -- 54%, with 599 standard tries -- 63%.
+Game ended at move: 1
+379 wins in 707 tries -- 54%, with 599 standard tries -- 63%.
+Computing for: 8
+Computing for: 2
+380 wins in 708 tries -- 54%, with 600 standard tries -- 63%.
+381 wins in 709 tries -- 54%, with 601 standard tries -- 63%.
+Computing for: 3
+382 wins in 710 tries -- 54%, with 602 standard tries -- 63%.
+383 wins in 711 tries -- 54%, with 603 standard tries -- 64%.
+384 wins in 712 tries -- 54%, with 604 standard tries -- 64%.
+Computing for: 9
+Game ended at move: 14
+384 wins in 713 tries -- 54%, with 605 standard tries -- 63%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+385 wins in 714 tries -- 54%, with 606 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+386 wins in 715 tries -- 54%, with 607 standard tries -- 64%.
+Computing for: 5
+Computing for: 6
+Computing for: 9
+Computing for: 11
+Computing for: 4
+387 wins in 716 tries -- 54%, with 608 standard tries -- 64%.
+Computing for: 4
+388 wins in 717 tries -- 54%, with 609 standard tries -- 64%.
+Game ended at move: 1
+388 wins in 718 tries -- 54%, with 609 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+388 wins in 719 tries -- 54%, with 610 standard tries -- 64%.
+Game ended at move: 1
+388 wins in 720 tries -- 54%, with 610 standard tries -- 64%.
+Computing for: 6
+Computing for: 8
+Computing for: 11
+Computing for: 10
+389 wins in 721 tries -- 54%, with 611 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+389 wins in 722 tries -- 54%, with 612 standard tries -- 64%.
+Computing for: 7
+Computing for: 8
+Computing for: 10
+Computing for: 10
+Computing for: 14
+Computing for: 18
+Game ended at move: 21
+389 wins in 723 tries -- 54%, with 613 standard tries -- 63%.
+Computing for: 3
+Computing for: 2
+Game ended at move: 3
+389 wins in 724 tries -- 54%, with 614 standard tries -- 63%.
+390 wins in 725 tries -- 54%, with 615 standard tries -- 63%.
+Game ended at move: 1
+390 wins in 726 tries -- 54%, with 615 standard tries -- 63%.
+Computing for: 15
+391 wins in 727 tries -- 54%, with 616 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+391 wins in 728 tries -- 54%, with 617 standard tries -- 63%.
+Computing for: 3
+Computing for: 1
+392 wins in 729 tries -- 54%, with 618 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+392 wins in 730 tries -- 54%, with 619 standard tries -- 63%.
+Game ended at move: 1
+392 wins in 731 tries -- 54%, with 619 standard tries -- 63%.
+Computing for: 2
+393 wins in 732 tries -- 54%, with 620 standard tries -- 63%.
+Computing for: 9
+Computing for: 12
+Computing for: 12
+Computing for: 13
+Computing for: 15
+Computing for: 18
+Computing for: 17
+Computing for: 16
+394 wins in 733 tries -- 54%, with 621 standard tries -- 63%.
+Computing for: 9
+Computing for: 3
+Computing for: 1
+395 wins in 734 tries -- 54%, with 622 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+395 wins in 735 tries -- 54%, with 623 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+395 wins in 736 tries -- 54%, with 624 standard tries -- 63%.
+Computing for: 9
+Computing for: 12
+Game ended at move: 14
+395 wins in 737 tries -- 54%, with 625 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+395 wins in 738 tries -- 54%, with 626 standard tries -- 63%.
+396 wins in 739 tries -- 54%, with 627 standard tries -- 63%.
+397 wins in 740 tries -- 54%, with 628 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+397 wins in 741 tries -- 54%, with 629 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+397 wins in 742 tries -- 54%, with 630 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+397 wins in 743 tries -- 53%, with 631 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Game ended at move: 8
+397 wins in 744 tries -- 53%, with 632 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+397 wins in 745 tries -- 53%, with 633 standard tries -- 63%.
+Computing for: 13
+Computing for: 12
+398 wins in 746 tries -- 53%, with 634 standard tries -- 63%.
+Game ended at move: 1
+398 wins in 747 tries -- 53%, with 634 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+Computing for: 11
+Computing for: 11
+Computing for: 11
+Computing for: 3
+Game ended at move: 52
+398 wins in 748 tries -- 53%, with 635 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+399 wins in 749 tries -- 53%, with 636 standard tries -- 63%.
+400 wins in 750 tries -- 53%, with 637 standard tries -- 63%.
+401 wins in 751 tries -- 53%, with 638 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+402 wins in 752 tries -- 53%, with 639 standard tries -- 63%.
+403 wins in 753 tries -- 54%, with 640 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 4
+Computing for: 3
+404 wins in 754 tries -- 54%, with 641 standard tries -- 63%.
+Computing for: 2
+Game ended at move: 54
+404 wins in 755 tries -- 54%, with 642 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+404 wins in 756 tries -- 53%, with 643 standard tries -- 63%.
+Computing for: 5
+Computing for: 9
+405 wins in 757 tries -- 54%, with 644 standard tries -- 63%.
+Game ended at move: 1
+405 wins in 758 tries -- 53%, with 644 standard tries -- 63%.
+Computing for: 5
+Computing for: 6
+Game ended at move: 37
+405 wins in 759 tries -- 53%, with 645 standard tries -- 63%.
+Computing for: 8
+Computing for: 10
+Computing for: 12
+Computing for: 10
+Computing for: 9
+Computing for: 8
+Computing for: 7
+Computing for: 6
+406 wins in 760 tries -- 53%, with 646 standard tries -- 63%.
+Computing for: 5
+407 wins in 761 tries -- 53%, with 647 standard tries -- 63%.
+Computing for: 15
+Computing for: 17
+Computing for: 17
+Computing for: 17
+Computing for: 16
+Computing for: 13
+Computing for: 10
+Computing for: 8
+Computing for: 7
+Computing for: 6
+408 wins in 762 tries -- 54%, with 648 standard tries -- 63%.
+Computing for: 4
+409 wins in 763 tries -- 54%, with 649 standard tries -- 63%.
+Computing for: 2
+Computing for: 2
+410 wins in 764 tries -- 54%, with 650 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+411 wins in 765 tries -- 54%, with 651 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+411 wins in 766 tries -- 54%, with 652 standard tries -- 63%.
+412 wins in 767 tries -- 54%, with 653 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+413 wins in 768 tries -- 54%, with 654 standard tries -- 63%.
+Game ended at move: 1
+413 wins in 769 tries -- 54%, with 654 standard tries -- 63%.
+Computing for: 8
+Computing for: 11
+Computing for: 10
+414 wins in 770 tries -- 54%, with 655 standard tries -- 63%.
+Computing for: 9
+Computing for: 11
+Computing for: 13
+Computing for: 17
+Computing for: 17
+Computing for: 16
+Computing for: 8
+Computing for: 6
+Game ended at move: 52
+414 wins in 771 tries -- 54%, with 656 standard tries -- 63%.
+Computing for: 13
+Computing for: 12
+Computing for: 14
+415 wins in 772 tries -- 54%, with 657 standard tries -- 63%.
+Computing for: 8
+Game ended at move: 16
+415 wins in 773 tries -- 54%, with 658 standard tries -- 63%.
+Game ended at move: 1
+415 wins in 774 tries -- 54%, with 658 standard tries -- 63%.
+Game ended at move: 1
+415 wins in 775 tries -- 54%, with 658 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+415 wins in 776 tries -- 53%, with 659 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+415 wins in 777 tries -- 53%, with 660 standard tries -- 63%.
+Computing for: 4
+416 wins in 778 tries -- 53%, with 661 standard tries -- 63%.
+Computing for: 5
+Game ended at move: 52
+416 wins in 779 tries -- 53%, with 662 standard tries -- 63%.
+Computing for: 6
+Computing for: 8
+417 wins in 780 tries -- 53%, with 663 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+417 wins in 781 tries -- 53%, with 664 standard tries -- 63%.
+Computing for: 19
+Computing for: 16
+418 wins in 782 tries -- 53%, with 665 standard tries -- 63%.
+Computing for: 12
+Computing for: 14
+Computing for: 17
+Computing for: 16
+Computing for: 12
+419 wins in 783 tries -- 54%, with 666 standard tries -- 63%.
+420 wins in 784 tries -- 54%, with 667 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+420 wins in 785 tries -- 54%, with 668 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 8
+Computing for: 9
+421 wins in 786 tries -- 54%, with 669 standard tries -- 63%.
+Computing for: 8
+Computing for: 10
+422 wins in 787 tries -- 54%, with 670 standard tries -- 63%.
+Computing for: 7
+423 wins in 788 tries -- 54%, with 671 standard tries -- 63%.
+Computing for: 6
+Computing for: 8
+Game ended at move: 13
+423 wins in 789 tries -- 54%, with 672 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+423 wins in 790 tries -- 54%, with 673 standard tries -- 63%.
+Computing for: 10
+Computing for: 14
+Computing for: 17
+Computing for: 16
+Computing for: 17
+Computing for: 17
+Computing for: 11
+424 wins in 791 tries -- 54%, with 674 standard tries -- 63%.
+Game ended at move: 1
+424 wins in 792 tries -- 54%, with 674 standard tries -- 63%.
+Computing for: 12
+Computing for: 12
+Game ended at move: 41
+424 wins in 793 tries -- 53%, with 675 standard tries -- 63%.
+425 wins in 794 tries -- 54%, with 676 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+425 wins in 795 tries -- 53%, with 677 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 54
+425 wins in 796 tries -- 53%, with 678 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+425 wins in 797 tries -- 53%, with 679 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+425 wins in 798 tries -- 53%, with 680 standard tries -- 63%.
+Computing for: 4
+Computing for: 6
+Computing for: 11
+426 wins in 799 tries -- 53%, with 681 standard tries -- 63%.
+Computing for: 12
+Computing for: 14
+Computing for: 17
+Computing for: 16
+Computing for: 12
+427 wins in 800 tries -- 53%, with 682 standard tries -- 63%.
+Computing for: 8
+Game ended at move: 11
+427 wins in 801 tries -- 53%, with 683 standard tries -- 63%.
+428 wins in 802 tries -- 53%, with 684 standard tries -- 63%.
+Game ended at move: 1
+428 wins in 803 tries -- 53%, with 684 standard tries -- 63%.
+Game ended at move: 1
+428 wins in 804 tries -- 53%, with 684 standard tries -- 63%.
+429 wins in 805 tries -- 53%, with 685 standard tries -- 63%.
+430 wins in 806 tries -- 53%, with 686 standard tries -- 63%.
+Computing for: 5
+Computing for: 9
+Computing for: 8
+Computing for: 10
+Computing for: 11
+Computing for: 11
+Computing for: 14
+Computing for: 14
+Computing for: 15
+Computing for: 14
+Computing for: 18
+431 wins in 807 tries -- 53%, with 687 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Computing for: 6
+Computing for: 9
+Computing for: 14
+Computing for: 5
+432 wins in 808 tries -- 53%, with 688 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 11
+Computing for: 17
+Computing for: 16
+Computing for: 15
+Computing for: 14
+Computing for: 10
+Computing for: 2
+433 wins in 809 tries -- 54%, with 689 standard tries -- 63%.
+434 wins in 810 tries -- 54%, with 690 standard tries -- 63%.
+435 wins in 811 tries -- 54%, with 691 standard tries -- 63%.
+Game ended at move: 1
+435 wins in 812 tries -- 54%, with 691 standard tries -- 63%.
+Computing for: 8
+Computing for: 7
+Computing for: 9
+Game ended at move: 10
+435 wins in 813 tries -- 54%, with 692 standard tries -- 63%.
+436 wins in 814 tries -- 54%, with 693 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+437 wins in 815 tries -- 54%, with 694 standard tries -- 63%.
+Game ended at move: 1
+437 wins in 816 tries -- 54%, with 694 standard tries -- 63%.
+438 wins in 817 tries -- 54%, with 695 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 7
+438 wins in 818 tries -- 54%, with 696 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+439 wins in 819 tries -- 54%, with 697 standard tries -- 63%.
+440 wins in 820 tries -- 54%, with 698 standard tries -- 63%.
+Game ended at move: 1
+440 wins in 821 tries -- 54%, with 698 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+441 wins in 822 tries -- 54%, with 699 standard tries -- 63%.
+442 wins in 823 tries -- 54%, with 700 standard tries -- 63%.
+443 wins in 824 tries -- 54%, with 701 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+443 wins in 825 tries -- 54%, with 702 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+443 wins in 826 tries -- 54%, with 703 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Computing for: 6
+Computing for: 9
+Computing for: 14
+Computing for: 7
+444 wins in 827 tries -- 54%, with 704 standard tries -- 63%.
+Computing for: 3
+445 wins in 828 tries -- 54%, with 705 standard tries -- 63%.
+Computing for: 3
+Computing for: 5
+Computing for: 8
+Computing for: 8
+Computing for: 10
+Computing for: 13
+Computing for: 12
+Computing for: 2
+446 wins in 829 tries -- 54%, with 706 standard tries -- 63%.
+Computing for: 9
+Computing for: 12
+Computing for: 12
+447 wins in 830 tries -- 54%, with 707 standard tries -- 63%.
+Computing for: 9
+Computing for: 11
+448 wins in 831 tries -- 54%, with 708 standard tries -- 63%.
+Computing for: 5
+Computing for: 8
+Computing for: 10
+449 wins in 832 tries -- 54%, with 709 standard tries -- 63%.
+450 wins in 833 tries -- 54%, with 710 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+450 wins in 834 tries -- 54%, with 711 standard tries -- 63%.
+Computing for: 8
+Computing for: 10
+Computing for: 12
+Computing for: 7
+451 wins in 835 tries -- 54%, with 712 standard tries -- 63%.
+Computing for: 13
+Computing for: 12
+Computing for: 11
+Game ended at move: 46
+451 wins in 836 tries -- 54%, with 713 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 53
+451 wins in 837 tries -- 54%, with 714 standard tries -- 63%.
+452 wins in 838 tries -- 54%, with 715 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 15
+Computing for: 14
+453 wins in 839 tries -- 54%, with 716 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 12
+Computing for: 14
+454 wins in 840 tries -- 54%, with 717 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+454 wins in 841 tries -- 54%, with 718 standard tries -- 63%.
+455 wins in 842 tries -- 54%, with 719 standard tries -- 63%.
+Computing for: 6
+Computing for: 5
+Computing for: 8
+456 wins in 843 tries -- 54%, with 720 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 4
+Computing for: 4
+Game ended at move: 6
+456 wins in 844 tries -- 54%, with 721 standard tries -- 63%.
+Computing for: 9
+Computing for: 2
+Game ended at move: 52
+456 wins in 845 tries -- 54%, with 722 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+457 wins in 846 tries -- 54%, with 723 standard tries -- 63%.
+Computing for: 9
+Computing for: 12
+Computing for: 11
+Computing for: 15
+Computing for: 17
+458 wins in 847 tries -- 54%, with 724 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 4
+459 wins in 848 tries -- 54%, with 725 standard tries -- 63%.
+Computing for: 10
+Computing for: 9
+460 wins in 849 tries -- 54%, with 726 standard tries -- 63%.
+461 wins in 850 tries -- 54%, with 727 standard tries -- 63%.
+Computing for: 13
+462 wins in 851 tries -- 54%, with 728 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+462 wins in 852 tries -- 54%, with 729 standard tries -- 63%.
+Game ended at move: 1
+462 wins in 853 tries -- 54%, with 729 standard tries -- 63%.
+Game ended at move: 1
+462 wins in 854 tries -- 54%, with 729 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+463 wins in 855 tries -- 54%, with 730 standard tries -- 63%.
+Game ended at move: 1
+463 wins in 856 tries -- 54%, with 730 standard tries -- 63%.
+464 wins in 857 tries -- 54%, with 731 standard tries -- 63%.
+Game ended at move: 1
+464 wins in 858 tries -- 54%, with 731 standard tries -- 63%.
+Computing for: 8
+Computing for: 10
+Computing for: 14
+Computing for: 13
+Computing for: 15
+Computing for: 17
+Computing for: 19
+Computing for: 22
+Computing for: 20
+Computing for: 20
+Computing for: 20
+Computing for: 19
+Computing for: 11
+465 wins in 859 tries -- 54%, with 732 standard tries -- 64%.
+Computing for: 9
+Computing for: 14
+466 wins in 860 tries -- 54%, with 733 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 17
+Computing for: 9
+Computing for: 10
+467 wins in 861 tries -- 54%, with 734 standard tries -- 64%.
+Game ended at move: 1
+467 wins in 862 tries -- 54%, with 734 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+468 wins in 863 tries -- 54%, with 735 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+469 wins in 864 tries -- 54%, with 736 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+469 wins in 865 tries -- 54%, with 737 standard tries -- 64%.
+470 wins in 866 tries -- 54%, with 738 standard tries -- 64%.
+Computing for: 4
+Computing for: 6
+Game ended at move: 11
+470 wins in 867 tries -- 54%, with 739 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+470 wins in 868 tries -- 54%, with 740 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 10
+Game ended at move: 18
+470 wins in 869 tries -- 54%, with 741 standard tries -- 63%.
+Computing for: 6
+Computing for: 8
+Computing for: 9
+Game ended at move: 10
+470 wins in 870 tries -- 54%, with 742 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+471 wins in 871 tries -- 54%, with 743 standard tries -- 63%.
+472 wins in 872 tries -- 54%, with 744 standard tries -- 63%.
+Game ended at move: 1
+472 wins in 873 tries -- 54%, with 744 standard tries -- 63%.
+Computing for: 8
+Computing for: 7
+473 wins in 874 tries -- 54%, with 745 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 3
+474 wins in 875 tries -- 54%, with 746 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+474 wins in 876 tries -- 54%, with 747 standard tries -- 63%.
+Computing for: 9
+Computing for: 11
+Computing for: 14
+Computing for: 13
+Computing for: 13
+Computing for: 2
+Game ended at move: 54
+474 wins in 877 tries -- 54%, with 748 standard tries -- 63%.
+Computing for: 0
+475 wins in 878 tries -- 54%, with 749 standard tries -- 63%.
+476 wins in 879 tries -- 54%, with 750 standard tries -- 63%.
+Computing for: 3
+Computing for: 2
+Computing for: 8
+477 wins in 880 tries -- 54%, with 751 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 9
+Computing for: 12
+478 wins in 881 tries -- 54%, with 752 standard tries -- 64%.
+Computing for: 8
+Computing for: 10
+Computing for: 14
+Computing for: 13
+Computing for: 15
+Computing for: 14
+Computing for: 16
+Computing for: 16
+Computing for: 17
+Computing for: 17
+Computing for: 15
+Computing for: 18
+Computing for: 13
+Computing for: 12
+Computing for: 11
+Computing for: 9
+Computing for: 0
+479 wins in 882 tries -- 54%, with 753 standard tries -- 64%.
+Computing for: 5
+480 wins in 883 tries -- 54%, with 754 standard tries -- 64%.
+Game ended at move: 1
+480 wins in 884 tries -- 54%, with 754 standard tries -- 64%.
+Computing for: 6
+Computing for: 7
+Computing for: 6
+Computing for: 3
+Computing for: 0
+481 wins in 885 tries -- 54%, with 755 standard tries -- 64%.
+Computing for: 8
+482 wins in 886 tries -- 54%, with 756 standard tries -- 64%.
+483 wins in 887 tries -- 54%, with 757 standard tries -- 64%.
+484 wins in 888 tries -- 55%, with 758 standard tries -- 64%.
+Computing for: 12
+Computing for: 14
+Computing for: 17
+Computing for: 17
+Computing for: 19
+Computing for: 18
+485 wins in 889 tries -- 55%, with 759 standard tries -- 64%.
+486 wins in 890 tries -- 55%, with 760 standard tries -- 64%.
+Game ended at move: 1
+486 wins in 891 tries -- 55%, with 760 standard tries -- 64%.
+Computing for: 12
+Computing for: 14
+Computing for: 14
+Computing for: 16
+Computing for: 18
+Computing for: 18
+Computing for: 20
+Game ended at move: 26
+486 wins in 892 tries -- 54%, with 761 standard tries -- 64%.
+Computing for: 7
+Computing for: 6
+Computing for: 7
+Game ended at move: 47
+486 wins in 893 tries -- 54%, with 762 standard tries -- 64%.
+Computing for: 11
+Computing for: 2
+Game ended at move: 54
+486 wins in 894 tries -- 54%, with 763 standard tries -- 64%.
+Game ended at move: 1
+486 wins in 895 tries -- 54%, with 763 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+486 wins in 896 tries -- 54%, with 764 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+486 wins in 897 tries -- 54%, with 765 standard tries -- 64%.
+Game ended at move: 1
+486 wins in 898 tries -- 54%, with 765 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+486 wins in 899 tries -- 54%, with 766 standard tries -- 63%.
+Game ended at move: 1
+486 wins in 900 tries -- 54%, with 766 standard tries -- 63%.
+Computing for: 10
+Game ended at move: 16
+486 wins in 901 tries -- 54%, with 767 standard tries -- 63%.
+487 wins in 902 tries -- 54%, with 768 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+487 wins in 903 tries -- 54%, with 769 standard tries -- 63%.
+488 wins in 904 tries -- 54%, with 770 standard tries -- 63%.
+Game ended at move: 1
+488 wins in 905 tries -- 54%, with 770 standard tries -- 63%.
+Game ended at move: 1
+488 wins in 906 tries -- 54%, with 770 standard tries -- 63%.
+Game ended at move: 1
+488 wins in 907 tries -- 54%, with 770 standard tries -- 63%.
+Computing for: 6
+Game ended at move: 46
+488 wins in 908 tries -- 54%, with 771 standard tries -- 63%.
+489 wins in 909 tries -- 54%, with 772 standard tries -- 63%.
+Computing for: 3
+Computing for: 1
+490 wins in 910 tries -- 54%, with 773 standard tries -- 63%.
+Computing for: 10
+Computing for: 12
+Computing for: 11
+491 wins in 911 tries -- 54%, with 774 standard tries -- 63%.
+Computing for: 5
+Computing for: 2
+492 wins in 912 tries -- 54%, with 775 standard tries -- 63%.
+Computing for: 9
+493 wins in 913 tries -- 54%, with 776 standard tries -- 64%.
+Game ended at move: 1
+493 wins in 914 tries -- 54%, with 776 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 2
+Game ended at move: 54
+493 wins in 915 tries -- 54%, with 777 standard tries -- 63%.
+Computing for: 7
+Computing for: 9
+Computing for: 13
+Computing for: 15
+Computing for: 14
+Computing for: 10
+Game ended at move: 45
+493 wins in 916 tries -- 54%, with 778 standard tries -- 63%.
+494 wins in 917 tries -- 54%, with 779 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 4
+Computing for: 5
+Computing for: 6
+Computing for: 9
+Computing for: 14
+Computing for: 14
+Game ended at move: 12
+494 wins in 918 tries -- 54%, with 780 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+494 wins in 919 tries -- 54%, with 781 standard tries -- 63%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+494 wins in 920 tries -- 54%, with 782 standard tries -- 63%.
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 0
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+Computing for: 2
+495 wins in 921 tries -- 54%, with 783 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 3
+Game ended at move: 53
+495 wins in 922 tries -- 54%, with 784 standard tries -- 63%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+495 wins in 923 tries -- 54%, with 785 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 8
+Computing for: 9
+Computing for: 11
+Computing for: 13
+Computing for: 16
+Game ended at move: 17
+495 wins in 924 tries -- 54%, with 786 standard tries -- 63%.
+Computing for: 3
+Computing for: 1
+496 wins in 925 tries -- 54%, with 787 standard tries -- 63%.
+497 wins in 926 tries -- 54%, with 788 standard tries -- 63%.
+Computing for: 12
+Game ended at move: 21
+497 wins in 927 tries -- 54%, with 789 standard tries -- 63%.
+Computing for: 6
+Computing for: 7
+Computing for: 9
+Computing for: 8
+498 wins in 928 tries -- 54%, with 790 standard tries -- 63%.
+Computing for: 10
+Computing for: 10
+499 wins in 929 tries -- 54%, with 791 standard tries -- 63%.
+Computing for: 16
+Computing for: 17
+Computing for: 3
+500 wins in 930 tries -- 54%, with 792 standard tries -- 63%.
+Game ended at move: 1
+500 wins in 931 tries -- 54%, with 792 standard tries -- 63%.
+Computing for: 15
+Computing for: 14
+Game ended at move: 32
+500 wins in 932 tries -- 54%, with 793 standard tries -- 63%.
+Computing for: 10
+Computing for: 8
+Computing for: 9
+Computing for: 3
+501 wins in 933 tries -- 54%, with 794 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+502 wins in 934 tries -- 54%, with 795 standard tries -- 63%.
+Computing for: 10
+Computing for: 13
+Computing for: 12
+503 wins in 935 tries -- 54%, with 796 standard tries -- 63%.
+Computing for: 2
+504 wins in 936 tries -- 54%, with 797 standard tries -- 63%.
+Computing for: 3
+Game ended at move: 2
+504 wins in 937 tries -- 54%, with 798 standard tries -- 63%.
+Computing for: 3
+Computing for: 6
+Computing for: 9
+Computing for: 13
+Computing for: 13
+Computing for: 16
+Computing for: 13
+Computing for: 18
+Computing for: 17
+Computing for: 16
+Computing for: 14
+Computing for: 13
+Computing for: 10
+Computing for: 12
+Computing for: 15
+Computing for: 15
+Computing for: 14
+Computing for: 18
+Computing for: 18
+Computing for: 6
+505 wins in 938 tries -- 54%, with 799 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+506 wins in 939 tries -- 54%, with 800 standard tries -- 63%.
+Computing for: 0
+507 wins in 940 tries -- 54%, with 801 standard tries -- 63%.
+Computing for: 8
+Computing for: 7
+Computing for: 9
+Computing for: 18
+Computing for: 17
+508 wins in 941 tries -- 54%, with 802 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 11
+509 wins in 942 tries -- 54%, with 803 standard tries -- 63%.
+Computing for: 9
+Computing for: 5
+Game ended at move: 51
+509 wins in 943 tries -- 54%, with 804 standard tries -- 63%.
+Game ended at move: 1
+509 wins in 944 tries -- 54%, with 804 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+510 wins in 945 tries -- 54%, with 805 standard tries -- 63%.
+Computing for: 10
+Computing for: 12
+Computing for: 16
+Computing for: 15
+Computing for: 11
+Computing for: 8
+Computing for: 9
+511 wins in 946 tries -- 54%, with 806 standard tries -- 63%.
+Computing for: 8
+Computing for: 9
+512 wins in 947 tries -- 54%, with 807 standard tries -- 63%.
+513 wins in 948 tries -- 54%, with 808 standard tries -- 63%.
+Computing for: 5
+Computing for: 9
+Game ended at move: 6
+513 wins in 949 tries -- 54%, with 809 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+513 wins in 950 tries -- 54%, with 810 standard tries -- 63%.
+Computing for: 2
+514 wins in 951 tries -- 54%, with 811 standard tries -- 63%.
+Game ended at move: 1
+514 wins in 952 tries -- 54%, with 811 standard tries -- 63%.
+Game ended at move: 1
+514 wins in 953 tries -- 54%, with 811 standard tries -- 63%.
+515 wins in 954 tries -- 54%, with 812 standard tries -- 63%.
+Game ended at move: 1
+515 wins in 955 tries -- 54%, with 812 standard tries -- 63%.
+516 wins in 956 tries -- 54%, with 813 standard tries -- 63%.
+Computing for: 9
+Computing for: 10
+Computing for: 12
+Game ended at move: 43
+516 wins in 957 tries -- 54%, with 814 standard tries -- 63%.
+Computing for: 8
+517 wins in 958 tries -- 54%, with 815 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 15
+Computing for: 15
+Computing for: 15
+518 wins in 959 tries -- 54%, with 816 standard tries -- 63%.
+Computing for: 10
+Computing for: 12
+Computing for: 15
+Computing for: 14
+519 wins in 960 tries -- 54%, with 817 standard tries -- 64%.
+Game ended at move: 1
+519 wins in 961 tries -- 54%, with 817 standard tries -- 64%.
+Game ended at move: 1
+519 wins in 962 tries -- 54%, with 817 standard tries -- 64%.
+Computing for: 6
+520 wins in 963 tries -- 54%, with 818 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+521 wins in 964 tries -- 54%, with 819 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+521 wins in 965 tries -- 54%, with 820 standard tries -- 64%.
+Game ended at move: 1
+521 wins in 966 tries -- 54%, with 820 standard tries -- 64%.
+Computing for: 10
+Computing for: 12
+Computing for: 12
+Computing for: 14
+Computing for: 19
+Computing for: 21
+Computing for: 21
+Computing for: 19
+Computing for: 8
+Computing for: 7
+Computing for: 7
+Computing for: 6
+522 wins in 967 tries -- 54%, with 821 standard tries -- 64%.
+Computing for: 10
+523 wins in 968 tries -- 54%, with 822 standard tries -- 64%.
+Game ended at move: 1
+523 wins in 969 tries -- 54%, with 822 standard tries -- 64%.
+Computing for: 7
+Game ended at move: 43
+523 wins in 970 tries -- 54%, with 823 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+523 wins in 971 tries -- 54%, with 824 standard tries -- 63%.
+Computing for: 3
+Computing for: 4
+Computing for: 8
+Computing for: 10
+Computing for: 9
+Computing for: 11
+Game ended at move: 14
+523 wins in 972 tries -- 54%, with 825 standard tries -- 63%.
+524 wins in 973 tries -- 54%, with 826 standard tries -- 63%.
+Computing for: 8
+525 wins in 974 tries -- 54%, with 827 standard tries -- 63%.
+526 wins in 975 tries -- 54%, with 828 standard tries -- 64%.
+Computing for: 12
+Computing for: 15
+Computing for: 15
+527 wins in 976 tries -- 54%, with 829 standard tries -- 64%.
+Game ended at move: 1
+527 wins in 977 tries -- 54%, with 829 standard tries -- 64%.
+Computing for: 9
+Computing for: 9
+Game ended at move: 12
+527 wins in 978 tries -- 54%, with 830 standard tries -- 63%.
+528 wins in 979 tries -- 54%, with 831 standard tries -- 64%.
+529 wins in 980 tries -- 54%, with 832 standard tries -- 64%.
+530 wins in 981 tries -- 54%, with 833 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+Computing for: 11
+Computing for: 13
+Computing for: 14
+Computing for: 15
+Computing for: 2
+531 wins in 982 tries -- 54%, with 834 standard tries -- 64%.
+Game ended at move: 1
+531 wins in 983 tries -- 54%, with 834 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+532 wins in 984 tries -- 54%, with 835 standard tries -- 64%.
+Game ended at move: 1
+532 wins in 985 tries -- 54%, with 835 standard tries -- 64%.
+533 wins in 986 tries -- 54%, with 836 standard tries -- 64%.
+Computing for: 3
+534 wins in 987 tries -- 54%, with 837 standard tries -- 64%.
+Game ended at move: 1
+534 wins in 988 tries -- 54%, with 837 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 2
+535 wins in 989 tries -- 54%, with 838 standard tries -- 64%.
+Computing for: 5
+Computing for: 8
+Computing for: 7
+Computing for: 7
+Computing for: 7
+Computing for: 3
+Game ended at move: 52
+535 wins in 990 tries -- 54%, with 839 standard tries -- 64%.
+536 wins in 991 tries -- 54%, with 840 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+537 wins in 992 tries -- 54%, with 841 standard tries -- 64%.
+Computing for: 3
+Game ended at move: 2
+537 wins in 993 tries -- 54%, with 842 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 12
+Computing for: 12
+Computing for: 20
+Computing for: 19
+Computing for: 6
+Game ended at move: 52
+537 wins in 994 tries -- 54%, with 843 standard tries -- 64%.
+538 wins in 995 tries -- 54%, with 844 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+539 wins in 996 tries -- 54%, with 845 standard tries -- 64%.
+Computing for: 0
+Game ended at move: 2
+539 wins in 997 tries -- 54%, with 846 standard tries -- 64%.
+Computing for: 8
+Computing for: 10
+Computing for: 13
+Game ended at move: 13
+539 wins in 998 tries -- 54%, with 847 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Computing for: 7
+Computing for: 8
+Computing for: 9
+Computing for: 12
+Computing for: 10
+Computing for: 12
+540 wins in 999 tries -- 54%, with 848 standard tries -- 64%.
+Computing for: 3
+Computing for: 4
+Game ended at move: 3
+540 wins in 1000 tries -- 54%, with 849 standard tries -- 64%.

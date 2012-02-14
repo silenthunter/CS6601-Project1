@@ -170,6 +170,10 @@ public class PGMS extends Applet {
       }
       if (m.won()) wins++;	// Record results
       if (m.probed()) probed++;
+      if(!m.won())
+      {
+      	System.out.println("Game ended at move: " + ((MineMap)m).probedNum);
+      }
       System.out.print(wins
 		       + " wins in "
 		       + n

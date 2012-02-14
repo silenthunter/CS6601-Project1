@@ -1,0 +1,1680 @@
+Playing 1000 beginner games using strategy sp.SinglePointStrategy
+Game ended at move: 30
+0 wins in 1 tries -- 0%, with 1 standard tries -- 0%.
+1 wins in 2 tries -- 50%, with 2 standard tries -- 50%.
+Game ended at move: 2
+1 wins in 3 tries -- 33%, with 3 standard tries -- 33%.
+2 wins in 4 tries -- 50%, with 4 standard tries -- 50%.
+3 wins in 5 tries -- 60%, with 5 standard tries -- 60%.
+Game ended at move: 13
+3 wins in 6 tries -- 50%, with 6 standard tries -- 50%.
+Game ended at move: 7
+3 wins in 7 tries -- 43%, with 7 standard tries -- 43%.
+Game ended at move: 49
+3 wins in 8 tries -- 38%, with 8 standard tries -- 38%.
+Game ended at move: 5
+3 wins in 9 tries -- 33%, with 9 standard tries -- 33%.
+Game ended at move: 38
+3 wins in 10 tries -- 30%, with 10 standard tries -- 30%.
+4 wins in 11 tries -- 36%, with 11 standard tries -- 36%.
+Game ended at move: 2
+4 wins in 12 tries -- 33%, with 12 standard tries -- 33%.
+Game ended at move: 1
+4 wins in 13 tries -- 31%, with 12 standard tries -- 33%.
+Game ended at move: 2
+4 wins in 14 tries -- 29%, with 13 standard tries -- 31%.
+5 wins in 15 tries -- 33%, with 14 standard tries -- 36%.
+6 wins in 16 tries -- 38%, with 15 standard tries -- 40%.
+Game ended at move: 45
+6 wins in 17 tries -- 35%, with 16 standard tries -- 38%.
+Game ended at move: 1
+6 wins in 18 tries -- 33%, with 16 standard tries -- 38%.
+Game ended at move: 5
+6 wins in 19 tries -- 32%, with 17 standard tries -- 35%.
+Game ended at move: 1
+6 wins in 20 tries -- 30%, with 17 standard tries -- 35%.
+Game ended at move: 4
+6 wins in 21 tries -- 29%, with 18 standard tries -- 33%.
+7 wins in 22 tries -- 32%, with 19 standard tries -- 37%.
+Game ended at move: 19
+7 wins in 23 tries -- 30%, with 20 standard tries -- 35%.
+Game ended at move: 1
+7 wins in 24 tries -- 29%, with 20 standard tries -- 35%.
+Game ended at move: 52
+7 wins in 25 tries -- 28%, with 21 standard tries -- 33%.
+Game ended at move: 3
+7 wins in 26 tries -- 27%, with 22 standard tries -- 32%.
+Game ended at move: 25
+7 wins in 27 tries -- 26%, with 23 standard tries -- 30%.
+Game ended at move: 10
+7 wins in 28 tries -- 25%, with 24 standard tries -- 29%.
+8 wins in 29 tries -- 28%, with 25 standard tries -- 32%.
+9 wins in 30 tries -- 30%, with 26 standard tries -- 35%.
+Game ended at move: 1
+9 wins in 31 tries -- 29%, with 26 standard tries -- 35%.
+Game ended at move: 15
+9 wins in 32 tries -- 28%, with 27 standard tries -- 33%.
+Game ended at move: 45
+9 wins in 33 tries -- 27%, with 28 standard tries -- 32%.
+Game ended at move: 52
+9 wins in 34 tries -- 26%, with 29 standard tries -- 31%.
+Game ended at move: 2
+9 wins in 35 tries -- 26%, with 30 standard tries -- 30%.
+10 wins in 36 tries -- 28%, with 31 standard tries -- 32%.
+Game ended at move: 2
+10 wins in 37 tries -- 27%, with 32 standard tries -- 31%.
+11 wins in 38 tries -- 29%, with 33 standard tries -- 33%.
+Game ended at move: 50
+11 wins in 39 tries -- 28%, with 34 standard tries -- 32%.
+12 wins in 40 tries -- 30%, with 35 standard tries -- 34%.
+Game ended at move: 52
+12 wins in 41 tries -- 29%, with 36 standard tries -- 33%.
+Game ended at move: 5
+12 wins in 42 tries -- 29%, with 37 standard tries -- 32%.
+Game ended at move: 4
+12 wins in 43 tries -- 28%, with 38 standard tries -- 32%.
+Game ended at move: 48
+12 wins in 44 tries -- 27%, with 39 standard tries -- 31%.
+Game ended at move: 34
+12 wins in 45 tries -- 27%, with 40 standard tries -- 30%.
+Game ended at move: 2
+12 wins in 46 tries -- 26%, with 41 standard tries -- 29%.
+Game ended at move: 3
+12 wins in 47 tries -- 26%, with 42 standard tries -- 29%.
+13 wins in 48 tries -- 27%, with 43 standard tries -- 30%.
+14 wins in 49 tries -- 29%, with 44 standard tries -- 32%.
+Game ended at move: 3
+14 wins in 50 tries -- 28%, with 45 standard tries -- 31%.
+15 wins in 51 tries -- 29%, with 46 standard tries -- 33%.
+16 wins in 52 tries -- 31%, with 47 standard tries -- 34%.
+17 wins in 53 tries -- 32%, with 48 standard tries -- 35%.
+Game ended at move: 1
+17 wins in 54 tries -- 31%, with 48 standard tries -- 35%.
+18 wins in 55 tries -- 33%, with 49 standard tries -- 37%.
+Game ended at move: 16
+18 wins in 56 tries -- 32%, with 50 standard tries -- 36%.
+Game ended at move: 11
+18 wins in 57 tries -- 32%, with 51 standard tries -- 35%.
+Game ended at move: 14
+18 wins in 58 tries -- 31%, with 52 standard tries -- 35%.
+19 wins in 59 tries -- 32%, with 53 standard tries -- 36%.
+Game ended at move: 31
+19 wins in 60 tries -- 32%, with 54 standard tries -- 35%.
+20 wins in 61 tries -- 33%, with 55 standard tries -- 36%.
+21 wins in 62 tries -- 34%, with 56 standard tries -- 38%.
+Game ended at move: 24
+21 wins in 63 tries -- 33%, with 57 standard tries -- 37%.
+Game ended at move: 2
+21 wins in 64 tries -- 33%, with 58 standard tries -- 36%.
+22 wins in 65 tries -- 34%, with 59 standard tries -- 37%.
+23 wins in 66 tries -- 35%, with 60 standard tries -- 38%.
+Game ended at move: 16
+23 wins in 67 tries -- 34%, with 61 standard tries -- 38%.
+24 wins in 68 tries -- 35%, with 62 standard tries -- 39%.
+Game ended at move: 51
+24 wins in 69 tries -- 35%, with 63 standard tries -- 38%.
+25 wins in 70 tries -- 36%, with 64 standard tries -- 39%.
+Game ended at move: 1
+25 wins in 71 tries -- 35%, with 64 standard tries -- 39%.
+Game ended at move: 1
+25 wins in 72 tries -- 35%, with 64 standard tries -- 39%.
+Game ended at move: 1
+25 wins in 73 tries -- 34%, with 64 standard tries -- 39%.
+Game ended at move: 12
+25 wins in 74 tries -- 34%, with 65 standard tries -- 38%.
+Game ended at move: 1
+25 wins in 75 tries -- 33%, with 65 standard tries -- 38%.
+Game ended at move: 9
+25 wins in 76 tries -- 33%, with 66 standard tries -- 38%.
+26 wins in 77 tries -- 34%, with 67 standard tries -- 39%.
+27 wins in 78 tries -- 35%, with 68 standard tries -- 40%.
+28 wins in 79 tries -- 35%, with 69 standard tries -- 41%.
+Game ended at move: 2
+28 wins in 80 tries -- 35%, with 70 standard tries -- 40%.
+Game ended at move: 1
+28 wins in 81 tries -- 35%, with 70 standard tries -- 40%.
+29 wins in 82 tries -- 35%, with 71 standard tries -- 41%.
+30 wins in 83 tries -- 36%, with 72 standard tries -- 42%.
+Game ended at move: 2
+30 wins in 84 tries -- 36%, with 73 standard tries -- 41%.
+Game ended at move: 3
+30 wins in 85 tries -- 35%, with 74 standard tries -- 41%.
+31 wins in 86 tries -- 36%, with 75 standard tries -- 41%.
+Game ended at move: 26
+31 wins in 87 tries -- 36%, with 76 standard tries -- 41%.
+32 wins in 88 tries -- 36%, with 77 standard tries -- 42%.
+Game ended at move: 53
+32 wins in 89 tries -- 36%, with 78 standard tries -- 41%.
+Game ended at move: 4
+32 wins in 90 tries -- 36%, with 79 standard tries -- 41%.
+Game ended at move: 2
+32 wins in 91 tries -- 35%, with 80 standard tries -- 40%.
+Game ended at move: 42
+32 wins in 92 tries -- 35%, with 81 standard tries -- 40%.
+33 wins in 93 tries -- 35%, with 82 standard tries -- 40%.
+Game ended at move: 2
+33 wins in 94 tries -- 35%, with 83 standard tries -- 40%.
+34 wins in 95 tries -- 36%, with 84 standard tries -- 40%.
+Game ended at move: 2
+34 wins in 96 tries -- 35%, with 85 standard tries -- 40%.
+35 wins in 97 tries -- 36%, with 86 standard tries -- 41%.
+36 wins in 98 tries -- 37%, with 87 standard tries -- 41%.
+Game ended at move: 37
+36 wins in 99 tries -- 36%, with 88 standard tries -- 41%.
+Game ended at move: 1
+36 wins in 100 tries -- 36%, with 88 standard tries -- 41%.
+Game ended at move: 1
+36 wins in 101 tries -- 36%, with 88 standard tries -- 41%.
+Game ended at move: 3
+36 wins in 102 tries -- 35%, with 89 standard tries -- 40%.
+37 wins in 103 tries -- 36%, with 90 standard tries -- 41%.
+Game ended at move: 1
+37 wins in 104 tries -- 36%, with 90 standard tries -- 41%.
+38 wins in 105 tries -- 36%, with 91 standard tries -- 42%.
+Game ended at move: 5
+38 wins in 106 tries -- 36%, with 92 standard tries -- 41%.
+Game ended at move: 2
+38 wins in 107 tries -- 36%, with 93 standard tries -- 41%.
+Game ended at move: 1
+38 wins in 108 tries -- 35%, with 93 standard tries -- 41%.
+Game ended at move: 43
+38 wins in 109 tries -- 35%, with 94 standard tries -- 40%.
+Game ended at move: 19
+38 wins in 110 tries -- 35%, with 95 standard tries -- 40%.
+Game ended at move: 42
+38 wins in 111 tries -- 34%, with 96 standard tries -- 40%.
+Game ended at move: 11
+38 wins in 112 tries -- 34%, with 97 standard tries -- 39%.
+Game ended at move: 49
+38 wins in 113 tries -- 34%, with 98 standard tries -- 39%.
+Game ended at move: 7
+38 wins in 114 tries -- 33%, with 99 standard tries -- 38%.
+Game ended at move: 5
+38 wins in 115 tries -- 33%, with 100 standard tries -- 38%.
+Game ended at move: 2
+38 wins in 116 tries -- 33%, with 101 standard tries -- 38%.
+Game ended at move: 47
+38 wins in 117 tries -- 32%, with 102 standard tries -- 37%.
+Game ended at move: 1
+38 wins in 118 tries -- 32%, with 102 standard tries -- 37%.
+Game ended at move: 5
+38 wins in 119 tries -- 32%, with 103 standard tries -- 37%.
+Game ended at move: 20
+38 wins in 120 tries -- 32%, with 104 standard tries -- 37%.
+39 wins in 121 tries -- 32%, with 105 standard tries -- 37%.
+40 wins in 122 tries -- 33%, with 106 standard tries -- 38%.
+Game ended at move: 6
+40 wins in 123 tries -- 33%, with 107 standard tries -- 37%.
+Game ended at move: 26
+40 wins in 124 tries -- 32%, with 108 standard tries -- 37%.
+Game ended at move: 53
+40 wins in 125 tries -- 32%, with 109 standard tries -- 37%.
+Game ended at move: 46
+40 wins in 126 tries -- 32%, with 110 standard tries -- 36%.
+41 wins in 127 tries -- 32%, with 111 standard tries -- 37%.
+Game ended at move: 2
+41 wins in 128 tries -- 32%, with 112 standard tries -- 37%.
+Game ended at move: 2
+41 wins in 129 tries -- 32%, with 113 standard tries -- 36%.
+Game ended at move: 1
+41 wins in 130 tries -- 32%, with 113 standard tries -- 36%.
+Game ended at move: 14
+41 wins in 131 tries -- 31%, with 114 standard tries -- 36%.
+Game ended at move: 43
+41 wins in 132 tries -- 31%, with 115 standard tries -- 36%.
+Game ended at move: 4
+41 wins in 133 tries -- 31%, with 116 standard tries -- 35%.
+42 wins in 134 tries -- 31%, with 117 standard tries -- 36%.
+43 wins in 135 tries -- 32%, with 118 standard tries -- 36%.
+Game ended at move: 1
+43 wins in 136 tries -- 32%, with 118 standard tries -- 36%.
+44 wins in 137 tries -- 32%, with 119 standard tries -- 37%.
+Game ended at move: 47
+44 wins in 138 tries -- 32%, with 120 standard tries -- 37%.
+Game ended at move: 49
+44 wins in 139 tries -- 32%, with 121 standard tries -- 36%.
+Game ended at move: 1
+44 wins in 140 tries -- 31%, with 121 standard tries -- 36%.
+Game ended at move: 1
+44 wins in 141 tries -- 31%, with 121 standard tries -- 36%.
+Game ended at move: 15
+44 wins in 142 tries -- 31%, with 122 standard tries -- 36%.
+Game ended at move: 33
+44 wins in 143 tries -- 31%, with 123 standard tries -- 36%.
+Game ended at move: 3
+44 wins in 144 tries -- 31%, with 124 standard tries -- 35%.
+45 wins in 145 tries -- 31%, with 125 standard tries -- 36%.
+Game ended at move: 43
+45 wins in 146 tries -- 31%, with 126 standard tries -- 36%.
+46 wins in 147 tries -- 31%, with 127 standard tries -- 36%.
+Game ended at move: 1
+46 wins in 148 tries -- 31%, with 127 standard tries -- 36%.
+47 wins in 149 tries -- 32%, with 128 standard tries -- 37%.
+48 wins in 150 tries -- 32%, with 129 standard tries -- 37%.
+49 wins in 151 tries -- 32%, with 130 standard tries -- 38%.
+Game ended at move: 1
+49 wins in 152 tries -- 32%, with 130 standard tries -- 38%.
+Game ended at move: 3
+49 wins in 153 tries -- 32%, with 131 standard tries -- 37%.
+Game ended at move: 19
+49 wins in 154 tries -- 32%, with 132 standard tries -- 37%.
+Game ended at move: 1
+49 wins in 155 tries -- 32%, with 132 standard tries -- 37%.
+50 wins in 156 tries -- 32%, with 133 standard tries -- 38%.
+51 wins in 157 tries -- 32%, with 134 standard tries -- 38%.
+Game ended at move: 4
+51 wins in 158 tries -- 32%, with 135 standard tries -- 38%.
+52 wins in 159 tries -- 33%, with 136 standard tries -- 38%.
+53 wins in 160 tries -- 33%, with 137 standard tries -- 39%.
+54 wins in 161 tries -- 34%, with 138 standard tries -- 39%.
+55 wins in 162 tries -- 34%, with 139 standard tries -- 40%.
+56 wins in 163 tries -- 34%, with 140 standard tries -- 40%.
+57 wins in 164 tries -- 35%, with 141 standard tries -- 40%.
+Game ended at move: 1
+57 wins in 165 tries -- 35%, with 141 standard tries -- 40%.
+58 wins in 166 tries -- 35%, with 142 standard tries -- 41%.
+Game ended at move: 38
+58 wins in 167 tries -- 35%, with 143 standard tries -- 41%.
+Game ended at move: 3
+58 wins in 168 tries -- 35%, with 144 standard tries -- 40%.
+Game ended at move: 8
+58 wins in 169 tries -- 34%, with 145 standard tries -- 40%.
+59 wins in 170 tries -- 35%, with 146 standard tries -- 40%.
+Game ended at move: 1
+59 wins in 171 tries -- 35%, with 146 standard tries -- 40%.
+60 wins in 172 tries -- 35%, with 147 standard tries -- 41%.
+Game ended at move: 53
+60 wins in 173 tries -- 35%, with 148 standard tries -- 41%.
+Game ended at move: 5
+60 wins in 174 tries -- 34%, with 149 standard tries -- 40%.
+61 wins in 175 tries -- 35%, with 150 standard tries -- 41%.
+62 wins in 176 tries -- 35%, with 151 standard tries -- 41%.
+Game ended at move: 22
+62 wins in 177 tries -- 35%, with 152 standard tries -- 41%.
+63 wins in 178 tries -- 35%, with 153 standard tries -- 41%.
+Game ended at move: 2
+63 wins in 179 tries -- 35%, with 154 standard tries -- 41%.
+Game ended at move: 53
+63 wins in 180 tries -- 35%, with 155 standard tries -- 41%.
+Game ended at move: 43
+63 wins in 181 tries -- 35%, with 156 standard tries -- 40%.
+Game ended at move: 36
+63 wins in 182 tries -- 35%, with 157 standard tries -- 40%.
+64 wins in 183 tries -- 35%, with 158 standard tries -- 41%.
+65 wins in 184 tries -- 35%, with 159 standard tries -- 41%.
+Game ended at move: 41
+65 wins in 185 tries -- 35%, with 160 standard tries -- 41%.
+66 wins in 186 tries -- 35%, with 161 standard tries -- 41%.
+67 wins in 187 tries -- 36%, with 162 standard tries -- 41%.
+Game ended at move: 47
+67 wins in 188 tries -- 36%, with 163 standard tries -- 41%.
+68 wins in 189 tries -- 36%, with 164 standard tries -- 41%.
+Game ended at move: 2
+68 wins in 190 tries -- 36%, with 165 standard tries -- 41%.
+Game ended at move: 3
+68 wins in 191 tries -- 36%, with 166 standard tries -- 41%.
+Game ended at move: 1
+68 wins in 192 tries -- 35%, with 166 standard tries -- 41%.
+Game ended at move: 2
+68 wins in 193 tries -- 35%, with 167 standard tries -- 41%.
+Game ended at move: 1
+68 wins in 194 tries -- 35%, with 167 standard tries -- 41%.
+Game ended at move: 22
+68 wins in 195 tries -- 35%, with 168 standard tries -- 40%.
+Game ended at move: 5
+68 wins in 196 tries -- 35%, with 169 standard tries -- 40%.
+Game ended at move: 3
+68 wins in 197 tries -- 35%, with 170 standard tries -- 40%.
+69 wins in 198 tries -- 35%, with 171 standard tries -- 40%.
+70 wins in 199 tries -- 35%, with 172 standard tries -- 41%.
+Game ended at move: 39
+70 wins in 200 tries -- 35%, with 173 standard tries -- 40%.
+Game ended at move: 1
+70 wins in 201 tries -- 35%, with 173 standard tries -- 40%.
+71 wins in 202 tries -- 35%, with 174 standard tries -- 41%.
+Game ended at move: 5
+71 wins in 203 tries -- 35%, with 175 standard tries -- 41%.
+72 wins in 204 tries -- 35%, with 176 standard tries -- 41%.
+Game ended at move: 53
+72 wins in 205 tries -- 35%, with 177 standard tries -- 41%.
+Game ended at move: 2
+72 wins in 206 tries -- 35%, with 178 standard tries -- 40%.
+Game ended at move: 52
+72 wins in 207 tries -- 35%, with 179 standard tries -- 40%.
+Game ended at move: 45
+72 wins in 208 tries -- 35%, with 180 standard tries -- 40%.
+73 wins in 209 tries -- 35%, with 181 standard tries -- 40%.
+Game ended at move: 54
+73 wins in 210 tries -- 35%, with 182 standard tries -- 40%.
+Game ended at move: 2
+73 wins in 211 tries -- 35%, with 183 standard tries -- 40%.
+74 wins in 212 tries -- 35%, with 184 standard tries -- 40%.
+75 wins in 213 tries -- 35%, with 185 standard tries -- 41%.
+76 wins in 214 tries -- 36%, with 186 standard tries -- 41%.
+77 wins in 215 tries -- 36%, with 187 standard tries -- 41%.
+Game ended at move: 3
+77 wins in 216 tries -- 36%, with 188 standard tries -- 41%.
+78 wins in 217 tries -- 36%, with 189 standard tries -- 41%.
+79 wins in 218 tries -- 36%, with 190 standard tries -- 42%.
+Game ended at move: 2
+79 wins in 219 tries -- 36%, with 191 standard tries -- 41%.
+Game ended at move: 1
+79 wins in 220 tries -- 36%, with 191 standard tries -- 41%.
+Game ended at move: 50
+79 wins in 221 tries -- 36%, with 192 standard tries -- 41%.
+80 wins in 222 tries -- 36%, with 193 standard tries -- 41%.
+Game ended at move: 46
+80 wins in 223 tries -- 36%, with 194 standard tries -- 41%.
+Game ended at move: 1
+80 wins in 224 tries -- 36%, with 194 standard tries -- 41%.
+Game ended at move: 1
+80 wins in 225 tries -- 36%, with 194 standard tries -- 41%.
+81 wins in 226 tries -- 36%, with 195 standard tries -- 42%.
+82 wins in 227 tries -- 36%, with 196 standard tries -- 42%.
+83 wins in 228 tries -- 36%, with 197 standard tries -- 42%.
+Game ended at move: 19
+83 wins in 229 tries -- 36%, with 198 standard tries -- 42%.
+Game ended at move: 17
+83 wins in 230 tries -- 36%, with 199 standard tries -- 42%.
+Game ended at move: 4
+83 wins in 231 tries -- 36%, with 200 standard tries -- 42%.
+Game ended at move: 2
+83 wins in 232 tries -- 36%, with 201 standard tries -- 41%.
+84 wins in 233 tries -- 36%, with 202 standard tries -- 42%.
+Game ended at move: 2
+84 wins in 234 tries -- 36%, with 203 standard tries -- 41%.
+Game ended at move: 40
+84 wins in 235 tries -- 36%, with 204 standard tries -- 41%.
+Game ended at move: 2
+84 wins in 236 tries -- 36%, with 205 standard tries -- 41%.
+Game ended at move: 2
+84 wins in 237 tries -- 35%, with 206 standard tries -- 41%.
+Game ended at move: 53
+84 wins in 238 tries -- 35%, with 207 standard tries -- 41%.
+Game ended at move: 13
+84 wins in 239 tries -- 35%, with 208 standard tries -- 40%.
+85 wins in 240 tries -- 35%, with 209 standard tries -- 41%.
+Game ended at move: 12
+85 wins in 241 tries -- 35%, with 210 standard tries -- 40%.
+Game ended at move: 25
+85 wins in 242 tries -- 35%, with 211 standard tries -- 40%.
+Game ended at move: 1
+85 wins in 243 tries -- 35%, with 211 standard tries -- 40%.
+Game ended at move: 29
+85 wins in 244 tries -- 35%, with 212 standard tries -- 40%.
+Game ended at move: 41
+85 wins in 245 tries -- 35%, with 213 standard tries -- 40%.
+Game ended at move: 2
+85 wins in 246 tries -- 35%, with 214 standard tries -- 40%.
+Game ended at move: 40
+85 wins in 247 tries -- 34%, with 215 standard tries -- 40%.
+Game ended at move: 4
+85 wins in 248 tries -- 34%, with 216 standard tries -- 39%.
+Game ended at move: 38
+85 wins in 249 tries -- 34%, with 217 standard tries -- 39%.
+Game ended at move: 1
+85 wins in 250 tries -- 34%, with 217 standard tries -- 39%.
+Game ended at move: 4
+85 wins in 251 tries -- 34%, with 218 standard tries -- 39%.
+86 wins in 252 tries -- 34%, with 219 standard tries -- 39%.
+Game ended at move: 3
+86 wins in 253 tries -- 34%, with 220 standard tries -- 39%.
+Game ended at move: 1
+86 wins in 254 tries -- 34%, with 220 standard tries -- 39%.
+Game ended at move: 5
+86 wins in 255 tries -- 34%, with 221 standard tries -- 39%.
+Game ended at move: 53
+86 wins in 256 tries -- 34%, with 222 standard tries -- 39%.
+Game ended at move: 35
+86 wins in 257 tries -- 33%, with 223 standard tries -- 39%.
+Game ended at move: 2
+86 wins in 258 tries -- 33%, with 224 standard tries -- 38%.
+87 wins in 259 tries -- 34%, with 225 standard tries -- 39%.
+88 wins in 260 tries -- 34%, with 226 standard tries -- 39%.
+Game ended at move: 1
+88 wins in 261 tries -- 34%, with 226 standard tries -- 39%.
+Game ended at move: 3
+88 wins in 262 tries -- 34%, with 227 standard tries -- 39%.
+Game ended at move: 6
+88 wins in 263 tries -- 33%, with 228 standard tries -- 39%.
+Game ended at move: 1
+88 wins in 264 tries -- 33%, with 228 standard tries -- 39%.
+89 wins in 265 tries -- 34%, with 229 standard tries -- 39%.
+Game ended at move: 1
+89 wins in 266 tries -- 33%, with 229 standard tries -- 39%.
+Game ended at move: 3
+89 wins in 267 tries -- 33%, with 230 standard tries -- 39%.
+90 wins in 268 tries -- 34%, with 231 standard tries -- 39%.
+Game ended at move: 1
+90 wins in 269 tries -- 33%, with 231 standard tries -- 39%.
+Game ended at move: 3
+90 wins in 270 tries -- 33%, with 232 standard tries -- 39%.
+Game ended at move: 53
+90 wins in 271 tries -- 33%, with 233 standard tries -- 39%.
+91 wins in 272 tries -- 33%, with 234 standard tries -- 39%.
+Game ended at move: 1
+91 wins in 273 tries -- 33%, with 234 standard tries -- 39%.
+92 wins in 274 tries -- 34%, with 235 standard tries -- 39%.
+93 wins in 275 tries -- 34%, with 236 standard tries -- 39%.
+94 wins in 276 tries -- 34%, with 237 standard tries -- 40%.
+Game ended at move: 37
+94 wins in 277 tries -- 34%, with 238 standard tries -- 39%.
+95 wins in 278 tries -- 34%, with 239 standard tries -- 40%.
+96 wins in 279 tries -- 34%, with 240 standard tries -- 40%.
+97 wins in 280 tries -- 35%, with 241 standard tries -- 40%.
+Game ended at move: 3
+97 wins in 281 tries -- 35%, with 242 standard tries -- 40%.
+98 wins in 282 tries -- 35%, with 243 standard tries -- 40%.
+Game ended at move: 49
+98 wins in 283 tries -- 35%, with 244 standard tries -- 40%.
+Game ended at move: 1
+98 wins in 284 tries -- 35%, with 244 standard tries -- 40%.
+99 wins in 285 tries -- 35%, with 245 standard tries -- 40%.
+100 wins in 286 tries -- 35%, with 246 standard tries -- 41%.
+101 wins in 287 tries -- 35%, with 247 standard tries -- 41%.
+Game ended at move: 3
+101 wins in 288 tries -- 35%, with 248 standard tries -- 41%.
+102 wins in 289 tries -- 35%, with 249 standard tries -- 41%.
+Game ended at move: 48
+102 wins in 290 tries -- 35%, with 250 standard tries -- 41%.
+Game ended at move: 23
+102 wins in 291 tries -- 35%, with 251 standard tries -- 41%.
+103 wins in 292 tries -- 35%, with 252 standard tries -- 41%.
+Game ended at move: 2
+103 wins in 293 tries -- 35%, with 253 standard tries -- 41%.
+Game ended at move: 2
+103 wins in 294 tries -- 35%, with 254 standard tries -- 41%.
+104 wins in 295 tries -- 35%, with 255 standard tries -- 41%.
+Game ended at move: 1
+104 wins in 296 tries -- 35%, with 255 standard tries -- 41%.
+Game ended at move: 5
+104 wins in 297 tries -- 35%, with 256 standard tries -- 41%.
+Game ended at move: 1
+104 wins in 298 tries -- 35%, with 256 standard tries -- 41%.
+Game ended at move: 1
+104 wins in 299 tries -- 35%, with 256 standard tries -- 41%.
+Game ended at move: 1
+104 wins in 300 tries -- 35%, with 256 standard tries -- 41%.
+Game ended at move: 1
+104 wins in 301 tries -- 35%, with 256 standard tries -- 41%.
+Game ended at move: 19
+104 wins in 302 tries -- 34%, with 257 standard tries -- 40%.
+Game ended at move: 33
+104 wins in 303 tries -- 34%, with 258 standard tries -- 40%.
+Game ended at move: 1
+104 wins in 304 tries -- 34%, with 258 standard tries -- 40%.
+Game ended at move: 1
+104 wins in 305 tries -- 34%, with 258 standard tries -- 40%.
+Game ended at move: 53
+104 wins in 306 tries -- 34%, with 259 standard tries -- 40%.
+Game ended at move: 6
+104 wins in 307 tries -- 34%, with 260 standard tries -- 40%.
+Game ended at move: 1
+104 wins in 308 tries -- 34%, with 260 standard tries -- 40%.
+105 wins in 309 tries -- 34%, with 261 standard tries -- 40%.
+106 wins in 310 tries -- 34%, with 262 standard tries -- 40%.
+Game ended at move: 2
+106 wins in 311 tries -- 34%, with 263 standard tries -- 40%.
+Game ended at move: 2
+106 wins in 312 tries -- 34%, with 264 standard tries -- 40%.
+Game ended at move: 42
+106 wins in 313 tries -- 34%, with 265 standard tries -- 40%.
+107 wins in 314 tries -- 34%, with 266 standard tries -- 40%.
+Game ended at move: 2
+107 wins in 315 tries -- 34%, with 267 standard tries -- 40%.
+108 wins in 316 tries -- 34%, with 268 standard tries -- 40%.
+Game ended at move: 49
+108 wins in 317 tries -- 34%, with 269 standard tries -- 40%.
+109 wins in 318 tries -- 34%, with 270 standard tries -- 40%.
+Game ended at move: 48
+109 wins in 319 tries -- 34%, with 271 standard tries -- 40%.
+Game ended at move: 8
+109 wins in 320 tries -- 34%, with 272 standard tries -- 40%.
+110 wins in 321 tries -- 34%, with 273 standard tries -- 40%.
+Game ended at move: 1
+110 wins in 322 tries -- 34%, with 273 standard tries -- 40%.
+Game ended at move: 3
+110 wins in 323 tries -- 34%, with 274 standard tries -- 40%.
+111 wins in 324 tries -- 34%, with 275 standard tries -- 40%.
+Game ended at move: 18
+111 wins in 325 tries -- 34%, with 276 standard tries -- 40%.
+Game ended at move: 1
+111 wins in 326 tries -- 34%, with 276 standard tries -- 40%.
+112 wins in 327 tries -- 34%, with 277 standard tries -- 40%.
+113 wins in 328 tries -- 34%, with 278 standard tries -- 41%.
+114 wins in 329 tries -- 35%, with 279 standard tries -- 41%.
+115 wins in 330 tries -- 35%, with 280 standard tries -- 41%.
+Game ended at move: 1
+115 wins in 331 tries -- 35%, with 280 standard tries -- 41%.
+Game ended at move: 31
+115 wins in 332 tries -- 35%, with 281 standard tries -- 41%.
+Game ended at move: 49
+115 wins in 333 tries -- 35%, with 282 standard tries -- 41%.
+116 wins in 334 tries -- 35%, with 283 standard tries -- 41%.
+Game ended at move: 2
+116 wins in 335 tries -- 35%, with 284 standard tries -- 41%.
+117 wins in 336 tries -- 35%, with 285 standard tries -- 41%.
+Game ended at move: 23
+117 wins in 337 tries -- 35%, with 286 standard tries -- 41%.
+Game ended at move: 2
+117 wins in 338 tries -- 35%, with 287 standard tries -- 41%.
+Game ended at move: 2
+117 wins in 339 tries -- 35%, with 288 standard tries -- 41%.
+Game ended at move: 7
+117 wins in 340 tries -- 34%, with 289 standard tries -- 40%.
+Game ended at move: 16
+117 wins in 341 tries -- 34%, with 290 standard tries -- 40%.
+118 wins in 342 tries -- 35%, with 291 standard tries -- 41%.
+Game ended at move: 1
+118 wins in 343 tries -- 34%, with 291 standard tries -- 41%.
+Game ended at move: 1
+118 wins in 344 tries -- 34%, with 291 standard tries -- 41%.
+Game ended at move: 1
+118 wins in 345 tries -- 34%, with 291 standard tries -- 41%.
+Game ended at move: 29
+118 wins in 346 tries -- 34%, with 292 standard tries -- 40%.
+Game ended at move: 40
+118 wins in 347 tries -- 34%, with 293 standard tries -- 40%.
+Game ended at move: 7
+118 wins in 348 tries -- 34%, with 294 standard tries -- 40%.
+Game ended at move: 2
+118 wins in 349 tries -- 34%, with 295 standard tries -- 40%.
+Game ended at move: 1
+118 wins in 350 tries -- 34%, with 295 standard tries -- 40%.
+Game ended at move: 1
+118 wins in 351 tries -- 34%, with 295 standard tries -- 40%.
+Game ended at move: 1
+118 wins in 352 tries -- 34%, with 295 standard tries -- 40%.
+Game ended at move: 5
+118 wins in 353 tries -- 33%, with 296 standard tries -- 40%.
+Game ended at move: 1
+118 wins in 354 tries -- 33%, with 296 standard tries -- 40%.
+119 wins in 355 tries -- 34%, with 297 standard tries -- 40%.
+120 wins in 356 tries -- 34%, with 298 standard tries -- 40%.
+Game ended at move: 1
+120 wins in 357 tries -- 34%, with 298 standard tries -- 40%.
+Game ended at move: 4
+120 wins in 358 tries -- 34%, with 299 standard tries -- 40%.
+Game ended at move: 3
+120 wins in 359 tries -- 33%, with 300 standard tries -- 40%.
+121 wins in 360 tries -- 34%, with 301 standard tries -- 40%.
+Game ended at move: 49
+121 wins in 361 tries -- 34%, with 302 standard tries -- 40%.
+Game ended at move: 37
+121 wins in 362 tries -- 33%, with 303 standard tries -- 40%.
+Game ended at move: 24
+121 wins in 363 tries -- 33%, with 304 standard tries -- 40%.
+Game ended at move: 1
+121 wins in 364 tries -- 33%, with 304 standard tries -- 40%.
+122 wins in 365 tries -- 33%, with 305 standard tries -- 40%.
+Game ended at move: 53
+122 wins in 366 tries -- 33%, with 306 standard tries -- 40%.
+Game ended at move: 1
+122 wins in 367 tries -- 33%, with 306 standard tries -- 40%.
+Game ended at move: 54
+122 wins in 368 tries -- 33%, with 307 standard tries -- 40%.
+Game ended at move: 34
+122 wins in 369 tries -- 33%, with 308 standard tries -- 40%.
+Game ended at move: 29
+122 wins in 370 tries -- 33%, with 309 standard tries -- 39%.
+Game ended at move: 47
+122 wins in 371 tries -- 33%, with 310 standard tries -- 39%.
+123 wins in 372 tries -- 33%, with 311 standard tries -- 40%.
+Game ended at move: 2
+123 wins in 373 tries -- 33%, with 312 standard tries -- 39%.
+Game ended at move: 2
+123 wins in 374 tries -- 33%, with 313 standard tries -- 39%.
+124 wins in 375 tries -- 33%, with 314 standard tries -- 39%.
+Game ended at move: 31
+124 wins in 376 tries -- 33%, with 315 standard tries -- 39%.
+125 wins in 377 tries -- 33%, with 316 standard tries -- 40%.
+126 wins in 378 tries -- 33%, with 317 standard tries -- 40%.
+Game ended at move: 20
+126 wins in 379 tries -- 33%, with 318 standard tries -- 40%.
+127 wins in 380 tries -- 33%, with 319 standard tries -- 40%.
+Game ended at move: 1
+127 wins in 381 tries -- 33%, with 319 standard tries -- 40%.
+Game ended at move: 36
+127 wins in 382 tries -- 33%, with 320 standard tries -- 40%.
+Game ended at move: 44
+127 wins in 383 tries -- 33%, with 321 standard tries -- 40%.
+Game ended at move: 49
+127 wins in 384 tries -- 33%, with 322 standard tries -- 39%.
+Game ended at move: 1
+127 wins in 385 tries -- 33%, with 322 standard tries -- 39%.
+Game ended at move: 2
+127 wins in 386 tries -- 33%, with 323 standard tries -- 39%.
+Game ended at move: 2
+127 wins in 387 tries -- 33%, with 324 standard tries -- 39%.
+Game ended at move: 1
+127 wins in 388 tries -- 33%, with 324 standard tries -- 39%.
+Game ended at move: 1
+127 wins in 389 tries -- 33%, with 324 standard tries -- 39%.
+Game ended at move: 2
+127 wins in 390 tries -- 33%, with 325 standard tries -- 39%.
+Game ended at move: 4
+127 wins in 391 tries -- 32%, with 326 standard tries -- 39%.
+Game ended at move: 50
+127 wins in 392 tries -- 32%, with 327 standard tries -- 39%.
+Game ended at move: 34
+127 wins in 393 tries -- 32%, with 328 standard tries -- 39%.
+Game ended at move: 3
+127 wins in 394 tries -- 32%, with 329 standard tries -- 39%.
+Game ended at move: 1
+127 wins in 395 tries -- 32%, with 329 standard tries -- 39%.
+Game ended at move: 6
+127 wins in 396 tries -- 32%, with 330 standard tries -- 38%.
+Game ended at move: 46
+127 wins in 397 tries -- 32%, with 331 standard tries -- 38%.
+Game ended at move: 3
+127 wins in 398 tries -- 32%, with 332 standard tries -- 38%.
+Game ended at move: 53
+127 wins in 399 tries -- 32%, with 333 standard tries -- 38%.
+128 wins in 400 tries -- 32%, with 334 standard tries -- 38%.
+129 wins in 401 tries -- 32%, with 335 standard tries -- 39%.
+130 wins in 402 tries -- 32%, with 336 standard tries -- 39%.
+131 wins in 403 tries -- 33%, with 337 standard tries -- 39%.
+Game ended at move: 2
+131 wins in 404 tries -- 32%, with 338 standard tries -- 39%.
+Game ended at move: 3
+131 wins in 405 tries -- 32%, with 339 standard tries -- 39%.
+Game ended at move: 52
+131 wins in 406 tries -- 32%, with 340 standard tries -- 39%.
+Game ended at move: 7
+131 wins in 407 tries -- 32%, with 341 standard tries -- 38%.
+Game ended at move: 1
+131 wins in 408 tries -- 32%, with 341 standard tries -- 38%.
+132 wins in 409 tries -- 32%, with 342 standard tries -- 39%.
+Game ended at move: 50
+132 wins in 410 tries -- 32%, with 343 standard tries -- 38%.
+Game ended at move: 4
+132 wins in 411 tries -- 32%, with 344 standard tries -- 38%.
+133 wins in 412 tries -- 32%, with 345 standard tries -- 39%.
+Game ended at move: 2
+133 wins in 413 tries -- 32%, with 346 standard tries -- 38%.
+Game ended at move: 43
+133 wins in 414 tries -- 32%, with 347 standard tries -- 38%.
+Game ended at move: 30
+133 wins in 415 tries -- 32%, with 348 standard tries -- 38%.
+Game ended at move: 2
+133 wins in 416 tries -- 32%, with 349 standard tries -- 38%.
+Game ended at move: 1
+133 wins in 417 tries -- 32%, with 349 standard tries -- 38%.
+134 wins in 418 tries -- 32%, with 350 standard tries -- 38%.
+Game ended at move: 32
+134 wins in 419 tries -- 32%, with 351 standard tries -- 38%.
+135 wins in 420 tries -- 32%, with 352 standard tries -- 38%.
+Game ended at move: 3
+135 wins in 421 tries -- 32%, with 353 standard tries -- 38%.
+Game ended at move: 43
+135 wins in 422 tries -- 32%, with 354 standard tries -- 38%.
+Game ended at move: 34
+135 wins in 423 tries -- 32%, with 355 standard tries -- 38%.
+Game ended at move: 49
+135 wins in 424 tries -- 32%, with 356 standard tries -- 38%.
+Game ended at move: 7
+135 wins in 425 tries -- 32%, with 357 standard tries -- 38%.
+Game ended at move: 4
+135 wins in 426 tries -- 32%, with 358 standard tries -- 38%.
+136 wins in 427 tries -- 32%, with 359 standard tries -- 38%.
+Game ended at move: 13
+136 wins in 428 tries -- 32%, with 360 standard tries -- 38%.
+Game ended at move: 1
+136 wins in 429 tries -- 32%, with 360 standard tries -- 38%.
+Game ended at move: 1
+136 wins in 430 tries -- 32%, with 360 standard tries -- 38%.
+137 wins in 431 tries -- 32%, with 361 standard tries -- 38%.
+Game ended at move: 3
+137 wins in 432 tries -- 32%, with 362 standard tries -- 38%.
+138 wins in 433 tries -- 32%, with 363 standard tries -- 38%.
+139 wins in 434 tries -- 32%, with 364 standard tries -- 38%.
+140 wins in 435 tries -- 32%, with 365 standard tries -- 38%.
+141 wins in 436 tries -- 32%, with 366 standard tries -- 39%.
+Game ended at move: 2
+141 wins in 437 tries -- 32%, with 367 standard tries -- 38%.
+142 wins in 438 tries -- 32%, with 368 standard tries -- 39%.
+Game ended at move: 1
+142 wins in 439 tries -- 32%, with 368 standard tries -- 39%.
+143 wins in 440 tries -- 33%, with 369 standard tries -- 39%.
+Game ended at move: 31
+143 wins in 441 tries -- 32%, with 370 standard tries -- 39%.
+144 wins in 442 tries -- 33%, with 371 standard tries -- 39%.
+145 wins in 443 tries -- 33%, with 372 standard tries -- 39%.
+Game ended at move: 53
+145 wins in 444 tries -- 33%, with 373 standard tries -- 39%.
+146 wins in 445 tries -- 33%, with 374 standard tries -- 39%.
+147 wins in 446 tries -- 33%, with 375 standard tries -- 39%.
+Game ended at move: 2
+147 wins in 447 tries -- 33%, with 376 standard tries -- 39%.
+Game ended at move: 36
+147 wins in 448 tries -- 33%, with 377 standard tries -- 39%.
+Game ended at move: 48
+147 wins in 449 tries -- 33%, with 378 standard tries -- 39%.
+148 wins in 450 tries -- 33%, with 379 standard tries -- 39%.
+Game ended at move: 48
+148 wins in 451 tries -- 33%, with 380 standard tries -- 39%.
+Game ended at move: 1
+148 wins in 452 tries -- 33%, with 380 standard tries -- 39%.
+149 wins in 453 tries -- 33%, with 381 standard tries -- 39%.
+Game ended at move: 54
+149 wins in 454 tries -- 33%, with 382 standard tries -- 39%.
+Game ended at move: 1
+149 wins in 455 tries -- 33%, with 382 standard tries -- 39%.
+150 wins in 456 tries -- 33%, with 383 standard tries -- 39%.
+151 wins in 457 tries -- 33%, with 384 standard tries -- 39%.
+152 wins in 458 tries -- 33%, with 385 standard tries -- 39%.
+153 wins in 459 tries -- 33%, with 386 standard tries -- 40%.
+Game ended at move: 1
+153 wins in 460 tries -- 33%, with 386 standard tries -- 40%.
+Game ended at move: 2
+153 wins in 461 tries -- 33%, with 387 standard tries -- 40%.
+Game ended at move: 1
+153 wins in 462 tries -- 33%, with 387 standard tries -- 40%.
+Game ended at move: 1
+153 wins in 463 tries -- 33%, with 387 standard tries -- 40%.
+Game ended at move: 29
+153 wins in 464 tries -- 33%, with 388 standard tries -- 39%.
+154 wins in 465 tries -- 33%, with 389 standard tries -- 40%.
+Game ended at move: 10
+154 wins in 466 tries -- 33%, with 390 standard tries -- 39%.
+Game ended at move: 33
+154 wins in 467 tries -- 33%, with 391 standard tries -- 39%.
+Game ended at move: 1
+154 wins in 468 tries -- 33%, with 391 standard tries -- 39%.
+Game ended at move: 28
+154 wins in 469 tries -- 33%, with 392 standard tries -- 39%.
+Game ended at move: 1
+154 wins in 470 tries -- 33%, with 392 standard tries -- 39%.
+155 wins in 471 tries -- 33%, with 393 standard tries -- 39%.
+Game ended at move: 1
+155 wins in 472 tries -- 33%, with 393 standard tries -- 39%.
+156 wins in 473 tries -- 33%, with 394 standard tries -- 40%.
+157 wins in 474 tries -- 33%, with 395 standard tries -- 40%.
+Game ended at move: 4
+157 wins in 475 tries -- 33%, with 396 standard tries -- 40%.
+Game ended at move: 2
+157 wins in 476 tries -- 33%, with 397 standard tries -- 40%.
+Game ended at move: 1
+157 wins in 477 tries -- 33%, with 397 standard tries -- 40%.
+158 wins in 478 tries -- 33%, with 398 standard tries -- 40%.
+159 wins in 479 tries -- 33%, with 399 standard tries -- 40%.
+160 wins in 480 tries -- 33%, with 400 standard tries -- 40%.
+Game ended at move: 3
+160 wins in 481 tries -- 33%, with 401 standard tries -- 40%.
+Game ended at move: 5
+160 wins in 482 tries -- 33%, with 402 standard tries -- 40%.
+Game ended at move: 1
+160 wins in 483 tries -- 33%, with 402 standard tries -- 40%.
+161 wins in 484 tries -- 33%, with 403 standard tries -- 40%.
+Game ended at move: 11
+161 wins in 485 tries -- 33%, with 404 standard tries -- 40%.
+162 wins in 486 tries -- 33%, with 405 standard tries -- 40%.
+Game ended at move: 2
+162 wins in 487 tries -- 33%, with 406 standard tries -- 40%.
+Game ended at move: 24
+162 wins in 488 tries -- 33%, with 407 standard tries -- 40%.
+Game ended at move: 5
+162 wins in 489 tries -- 33%, with 408 standard tries -- 40%.
+163 wins in 490 tries -- 33%, with 409 standard tries -- 40%.
+Game ended at move: 1
+163 wins in 491 tries -- 33%, with 409 standard tries -- 40%.
+Game ended at move: 4
+163 wins in 492 tries -- 33%, with 410 standard tries -- 40%.
+Game ended at move: 1
+163 wins in 493 tries -- 33%, with 410 standard tries -- 40%.
+164 wins in 494 tries -- 33%, with 411 standard tries -- 40%.
+Game ended at move: 2
+164 wins in 495 tries -- 33%, with 412 standard tries -- 40%.
+Game ended at move: 1
+164 wins in 496 tries -- 33%, with 412 standard tries -- 40%.
+Game ended at move: 29
+164 wins in 497 tries -- 33%, with 413 standard tries -- 40%.
+Game ended at move: 44
+164 wins in 498 tries -- 33%, with 414 standard tries -- 40%.
+Game ended at move: 3
+164 wins in 499 tries -- 33%, with 415 standard tries -- 40%.
+Game ended at move: 1
+164 wins in 500 tries -- 33%, with 415 standard tries -- 40%.
+Game ended at move: 23
+164 wins in 501 tries -- 33%, with 416 standard tries -- 39%.
+165 wins in 502 tries -- 33%, with 417 standard tries -- 40%.
+Game ended at move: 11
+165 wins in 503 tries -- 33%, with 418 standard tries -- 39%.
+Game ended at move: 48
+165 wins in 504 tries -- 33%, with 419 standard tries -- 39%.
+166 wins in 505 tries -- 33%, with 420 standard tries -- 40%.
+Game ended at move: 39
+166 wins in 506 tries -- 33%, with 421 standard tries -- 39%.
+Game ended at move: 1
+166 wins in 507 tries -- 33%, with 421 standard tries -- 39%.
+Game ended at move: 53
+166 wins in 508 tries -- 33%, with 422 standard tries -- 39%.
+Game ended at move: 1
+166 wins in 509 tries -- 33%, with 422 standard tries -- 39%.
+167 wins in 510 tries -- 33%, with 423 standard tries -- 39%.
+168 wins in 511 tries -- 33%, with 424 standard tries -- 40%.
+169 wins in 512 tries -- 33%, with 425 standard tries -- 40%.
+Game ended at move: 24
+169 wins in 513 tries -- 33%, with 426 standard tries -- 40%.
+Game ended at move: 54
+169 wins in 514 tries -- 33%, with 427 standard tries -- 40%.
+170 wins in 515 tries -- 33%, with 428 standard tries -- 40%.
+Game ended at move: 4
+170 wins in 516 tries -- 33%, with 429 standard tries -- 40%.
+Game ended at move: 53
+170 wins in 517 tries -- 33%, with 430 standard tries -- 40%.
+Game ended at move: 27
+170 wins in 518 tries -- 33%, with 431 standard tries -- 39%.
+Game ended at move: 49
+170 wins in 519 tries -- 33%, with 432 standard tries -- 39%.
+Game ended at move: 1
+170 wins in 520 tries -- 33%, with 432 standard tries -- 39%.
+171 wins in 521 tries -- 33%, with 433 standard tries -- 39%.
+Game ended at move: 3
+171 wins in 522 tries -- 33%, with 434 standard tries -- 39%.
+172 wins in 523 tries -- 33%, with 435 standard tries -- 40%.
+173 wins in 524 tries -- 33%, with 436 standard tries -- 40%.
+Game ended at move: 1
+173 wins in 525 tries -- 33%, with 436 standard tries -- 40%.
+Game ended at move: 23
+173 wins in 526 tries -- 33%, with 437 standard tries -- 40%.
+Game ended at move: 3
+173 wins in 527 tries -- 33%, with 438 standard tries -- 39%.
+174 wins in 528 tries -- 33%, with 439 standard tries -- 40%.
+Game ended at move: 2
+174 wins in 529 tries -- 33%, with 440 standard tries -- 40%.
+Game ended at move: 11
+174 wins in 530 tries -- 33%, with 441 standard tries -- 39%.
+Game ended at move: 26
+174 wins in 531 tries -- 33%, with 442 standard tries -- 39%.
+175 wins in 532 tries -- 33%, with 443 standard tries -- 40%.
+Game ended at move: 50
+175 wins in 533 tries -- 33%, with 444 standard tries -- 39%.
+176 wins in 534 tries -- 33%, with 445 standard tries -- 40%.
+177 wins in 535 tries -- 33%, with 446 standard tries -- 40%.
+Game ended at move: 46
+177 wins in 536 tries -- 33%, with 447 standard tries -- 40%.
+Game ended at move: 1
+177 wins in 537 tries -- 33%, with 447 standard tries -- 40%.
+Game ended at move: 17
+177 wins in 538 tries -- 33%, with 448 standard tries -- 40%.
+Game ended at move: 1
+177 wins in 539 tries -- 33%, with 448 standard tries -- 40%.
+178 wins in 540 tries -- 33%, with 449 standard tries -- 40%.
+179 wins in 541 tries -- 33%, with 450 standard tries -- 40%.
+180 wins in 542 tries -- 33%, with 451 standard tries -- 40%.
+Game ended at move: 40
+180 wins in 543 tries -- 33%, with 452 standard tries -- 40%.
+Game ended at move: 1
+180 wins in 544 tries -- 33%, with 452 standard tries -- 40%.
+Game ended at move: 53
+180 wins in 545 tries -- 33%, with 453 standard tries -- 40%.
+Game ended at move: 11
+180 wins in 546 tries -- 33%, with 454 standard tries -- 40%.
+181 wins in 547 tries -- 33%, with 455 standard tries -- 40%.
+182 wins in 548 tries -- 33%, with 456 standard tries -- 40%.
+Game ended at move: 53
+182 wins in 549 tries -- 33%, with 457 standard tries -- 40%.
+Game ended at move: 53
+182 wins in 550 tries -- 33%, with 458 standard tries -- 40%.
+183 wins in 551 tries -- 33%, with 459 standard tries -- 40%.
+184 wins in 552 tries -- 33%, with 460 standard tries -- 40%.
+185 wins in 553 tries -- 33%, with 461 standard tries -- 40%.
+Game ended at move: 19
+185 wins in 554 tries -- 33%, with 462 standard tries -- 40%.
+Game ended at move: 1
+185 wins in 555 tries -- 33%, with 462 standard tries -- 40%.
+Game ended at move: 1
+185 wins in 556 tries -- 33%, with 462 standard tries -- 40%.
+Game ended at move: 3
+185 wins in 557 tries -- 33%, with 463 standard tries -- 40%.
+186 wins in 558 tries -- 33%, with 464 standard tries -- 40%.
+Game ended at move: 49
+186 wins in 559 tries -- 33%, with 465 standard tries -- 40%.
+Game ended at move: 1
+186 wins in 560 tries -- 33%, with 465 standard tries -- 40%.
+Game ended at move: 11
+186 wins in 561 tries -- 33%, with 466 standard tries -- 40%.
+Game ended at move: 8
+186 wins in 562 tries -- 33%, with 467 standard tries -- 40%.
+Game ended at move: 50
+186 wins in 563 tries -- 33%, with 468 standard tries -- 40%.
+Game ended at move: 3
+186 wins in 564 tries -- 33%, with 469 standard tries -- 40%.
+187 wins in 565 tries -- 33%, with 470 standard tries -- 40%.
+Game ended at move: 54
+187 wins in 566 tries -- 33%, with 471 standard tries -- 40%.
+Game ended at move: 2
+187 wins in 567 tries -- 33%, with 472 standard tries -- 40%.
+Game ended at move: 14
+187 wins in 568 tries -- 33%, with 473 standard tries -- 40%.
+188 wins in 569 tries -- 33%, with 474 standard tries -- 40%.
+189 wins in 570 tries -- 33%, with 475 standard tries -- 40%.
+Game ended at move: 37
+189 wins in 571 tries -- 33%, with 476 standard tries -- 40%.
+Game ended at move: 15
+189 wins in 572 tries -- 33%, with 477 standard tries -- 40%.
+190 wins in 573 tries -- 33%, with 478 standard tries -- 40%.
+191 wins in 574 tries -- 33%, with 479 standard tries -- 40%.
+Game ended at move: 1
+191 wins in 575 tries -- 33%, with 479 standard tries -- 40%.
+Game ended at move: 15
+191 wins in 576 tries -- 33%, with 480 standard tries -- 40%.
+Game ended at move: 2
+191 wins in 577 tries -- 33%, with 481 standard tries -- 40%.
+Game ended at move: 52
+191 wins in 578 tries -- 33%, with 482 standard tries -- 40%.
+Game ended at move: 47
+191 wins in 579 tries -- 33%, with 483 standard tries -- 40%.
+Game ended at move: 2
+191 wins in 580 tries -- 33%, with 484 standard tries -- 39%.
+192 wins in 581 tries -- 33%, with 485 standard tries -- 40%.
+193 wins in 582 tries -- 33%, with 486 standard tries -- 40%.
+Game ended at move: 18
+193 wins in 583 tries -- 33%, with 487 standard tries -- 40%.
+194 wins in 584 tries -- 33%, with 488 standard tries -- 40%.
+195 wins in 585 tries -- 33%, with 489 standard tries -- 40%.
+196 wins in 586 tries -- 33%, with 490 standard tries -- 40%.
+Game ended at move: 2
+196 wins in 587 tries -- 33%, with 491 standard tries -- 40%.
+Game ended at move: 1
+196 wins in 588 tries -- 33%, with 491 standard tries -- 40%.
+197 wins in 589 tries -- 33%, with 492 standard tries -- 40%.
+Game ended at move: 3
+197 wins in 590 tries -- 33%, with 493 standard tries -- 40%.
+198 wins in 591 tries -- 34%, with 494 standard tries -- 40%.
+Game ended at move: 1
+198 wins in 592 tries -- 33%, with 494 standard tries -- 40%.
+Game ended at move: 22
+198 wins in 593 tries -- 33%, with 495 standard tries -- 40%.
+199 wins in 594 tries -- 34%, with 496 standard tries -- 40%.
+Game ended at move: 45
+199 wins in 595 tries -- 33%, with 497 standard tries -- 40%.
+Game ended at move: 4
+199 wins in 596 tries -- 33%, with 498 standard tries -- 40%.
+200 wins in 597 tries -- 34%, with 499 standard tries -- 40%.
+201 wins in 598 tries -- 34%, with 500 standard tries -- 40%.
+202 wins in 599 tries -- 34%, with 501 standard tries -- 40%.
+Game ended at move: 1
+202 wins in 600 tries -- 34%, with 501 standard tries -- 40%.
+Game ended at move: 1
+202 wins in 601 tries -- 34%, with 501 standard tries -- 40%.
+203 wins in 602 tries -- 34%, with 502 standard tries -- 40%.
+Game ended at move: 10
+203 wins in 603 tries -- 34%, with 503 standard tries -- 40%.
+204 wins in 604 tries -- 34%, with 504 standard tries -- 40%.
+Game ended at move: 23
+204 wins in 605 tries -- 34%, with 505 standard tries -- 40%.
+Game ended at move: 54
+204 wins in 606 tries -- 34%, with 506 standard tries -- 40%.
+Game ended at move: 26
+204 wins in 607 tries -- 34%, with 507 standard tries -- 40%.
+205 wins in 608 tries -- 34%, with 508 standard tries -- 40%.
+206 wins in 609 tries -- 34%, with 509 standard tries -- 40%.
+Game ended at move: 2
+206 wins in 610 tries -- 34%, with 510 standard tries -- 40%.
+Game ended at move: 1
+206 wins in 611 tries -- 34%, with 510 standard tries -- 40%.
+Game ended at move: 45
+206 wins in 612 tries -- 34%, with 511 standard tries -- 40%.
+Game ended at move: 1
+206 wins in 613 tries -- 34%, with 511 standard tries -- 40%.
+207 wins in 614 tries -- 34%, with 512 standard tries -- 40%.
+Game ended at move: 54
+207 wins in 615 tries -- 34%, with 513 standard tries -- 40%.
+Game ended at move: 54
+207 wins in 616 tries -- 34%, with 514 standard tries -- 40%.
+208 wins in 617 tries -- 34%, with 515 standard tries -- 40%.
+Game ended at move: 2
+208 wins in 618 tries -- 34%, with 516 standard tries -- 40%.
+Game ended at move: 20
+208 wins in 619 tries -- 34%, with 517 standard tries -- 40%.
+209 wins in 620 tries -- 34%, with 518 standard tries -- 40%.
+Game ended at move: 18
+209 wins in 621 tries -- 34%, with 519 standard tries -- 40%.
+210 wins in 622 tries -- 34%, with 520 standard tries -- 40%.
+Game ended at move: 19
+210 wins in 623 tries -- 34%, with 521 standard tries -- 40%.
+Game ended at move: 1
+210 wins in 624 tries -- 34%, with 521 standard tries -- 40%.
+Game ended at move: 1
+210 wins in 625 tries -- 34%, with 521 standard tries -- 40%.
+Game ended at move: 2
+210 wins in 626 tries -- 34%, with 522 standard tries -- 40%.
+Game ended at move: 51
+210 wins in 627 tries -- 33%, with 523 standard tries -- 40%.
+Game ended at move: 21
+210 wins in 628 tries -- 33%, with 524 standard tries -- 40%.
+211 wins in 629 tries -- 34%, with 525 standard tries -- 40%.
+212 wins in 630 tries -- 34%, with 526 standard tries -- 40%.
+Game ended at move: 2
+212 wins in 631 tries -- 34%, with 527 standard tries -- 40%.
+Game ended at move: 49
+212 wins in 632 tries -- 34%, with 528 standard tries -- 40%.
+213 wins in 633 tries -- 34%, with 529 standard tries -- 40%.
+Game ended at move: 1
+213 wins in 634 tries -- 34%, with 529 standard tries -- 40%.
+Game ended at move: 54
+213 wins in 635 tries -- 34%, with 530 standard tries -- 40%.
+Game ended at move: 41
+213 wins in 636 tries -- 33%, with 531 standard tries -- 40%.
+Game ended at move: 53
+213 wins in 637 tries -- 33%, with 532 standard tries -- 40%.
+214 wins in 638 tries -- 34%, with 533 standard tries -- 40%.
+Game ended at move: 51
+214 wins in 639 tries -- 33%, with 534 standard tries -- 40%.
+Game ended at move: 2
+214 wins in 640 tries -- 33%, with 535 standard tries -- 40%.
+215 wins in 641 tries -- 34%, with 536 standard tries -- 40%.
+216 wins in 642 tries -- 34%, with 537 standard tries -- 40%.
+217 wins in 643 tries -- 34%, with 538 standard tries -- 40%.
+Game ended at move: 26
+217 wins in 644 tries -- 34%, with 539 standard tries -- 40%.
+Game ended at move: 5
+217 wins in 645 tries -- 34%, with 540 standard tries -- 40%.
+Game ended at move: 53
+217 wins in 646 tries -- 34%, with 541 standard tries -- 40%.
+Game ended at move: 26
+217 wins in 647 tries -- 34%, with 542 standard tries -- 40%.
+Game ended at move: 22
+217 wins in 648 tries -- 33%, with 543 standard tries -- 40%.
+218 wins in 649 tries -- 34%, with 544 standard tries -- 40%.
+Game ended at move: 53
+218 wins in 650 tries -- 34%, with 545 standard tries -- 40%.
+Game ended at move: 2
+218 wins in 651 tries -- 33%, with 546 standard tries -- 40%.
+Game ended at move: 5
+218 wins in 652 tries -- 33%, with 547 standard tries -- 40%.
+219 wins in 653 tries -- 34%, with 548 standard tries -- 40%.
+Game ended at move: 1
+219 wins in 654 tries -- 33%, with 548 standard tries -- 40%.
+Game ended at move: 38
+219 wins in 655 tries -- 33%, with 549 standard tries -- 40%.
+Game ended at move: 1
+219 wins in 656 tries -- 33%, with 549 standard tries -- 40%.
+Game ended at move: 4
+219 wins in 657 tries -- 33%, with 550 standard tries -- 40%.
+Game ended at move: 45
+219 wins in 658 tries -- 33%, with 551 standard tries -- 40%.
+220 wins in 659 tries -- 33%, with 552 standard tries -- 40%.
+Game ended at move: 2
+220 wins in 660 tries -- 33%, with 553 standard tries -- 40%.
+Game ended at move: 1
+220 wins in 661 tries -- 33%, with 553 standard tries -- 40%.
+221 wins in 662 tries -- 33%, with 554 standard tries -- 40%.
+222 wins in 663 tries -- 33%, with 555 standard tries -- 40%.
+Game ended at move: 3
+222 wins in 664 tries -- 33%, with 556 standard tries -- 40%.
+Game ended at move: 41
+222 wins in 665 tries -- 33%, with 557 standard tries -- 40%.
+Game ended at move: 40
+222 wins in 666 tries -- 33%, with 558 standard tries -- 40%.
+Game ended at move: 38
+222 wins in 667 tries -- 33%, with 559 standard tries -- 40%.
+Game ended at move: 16
+222 wins in 668 tries -- 33%, with 560 standard tries -- 40%.
+Game ended at move: 1
+222 wins in 669 tries -- 33%, with 560 standard tries -- 40%.
+Game ended at move: 5
+222 wins in 670 tries -- 33%, with 561 standard tries -- 40%.
+Game ended at move: 1
+222 wins in 671 tries -- 33%, with 561 standard tries -- 40%.
+Game ended at move: 3
+222 wins in 672 tries -- 33%, with 562 standard tries -- 40%.
+223 wins in 673 tries -- 33%, with 563 standard tries -- 40%.
+Game ended at move: 1
+223 wins in 674 tries -- 33%, with 563 standard tries -- 40%.
+Game ended at move: 50
+223 wins in 675 tries -- 33%, with 564 standard tries -- 40%.
+Game ended at move: 12
+223 wins in 676 tries -- 33%, with 565 standard tries -- 39%.
+224 wins in 677 tries -- 33%, with 566 standard tries -- 40%.
+Game ended at move: 46
+224 wins in 678 tries -- 33%, with 567 standard tries -- 40%.
+Game ended at move: 48
+224 wins in 679 tries -- 33%, with 568 standard tries -- 39%.
+225 wins in 680 tries -- 33%, with 569 standard tries -- 40%.
+Game ended at move: 1
+225 wins in 681 tries -- 33%, with 569 standard tries -- 40%.
+Game ended at move: 53
+225 wins in 682 tries -- 33%, with 570 standard tries -- 39%.
+226 wins in 683 tries -- 33%, with 571 standard tries -- 40%.
+Game ended at move: 45
+226 wins in 684 tries -- 33%, with 572 standard tries -- 40%.
+Game ended at move: 2
+226 wins in 685 tries -- 33%, with 573 standard tries -- 39%.
+227 wins in 686 tries -- 33%, with 574 standard tries -- 40%.
+Game ended at move: 3
+227 wins in 687 tries -- 33%, with 575 standard tries -- 39%.
+Game ended at move: 2
+227 wins in 688 tries -- 33%, with 576 standard tries -- 39%.
+228 wins in 689 tries -- 33%, with 577 standard tries -- 40%.
+Game ended at move: 39
+228 wins in 690 tries -- 33%, with 578 standard tries -- 39%.
+229 wins in 691 tries -- 33%, with 579 standard tries -- 40%.
+230 wins in 692 tries -- 33%, with 580 standard tries -- 40%.
+Game ended at move: 54
+230 wins in 693 tries -- 33%, with 581 standard tries -- 40%.
+Game ended at move: 1
+230 wins in 694 tries -- 33%, with 581 standard tries -- 40%.
+Game ended at move: 1
+230 wins in 695 tries -- 33%, with 581 standard tries -- 40%.
+Game ended at move: 1
+230 wins in 696 tries -- 33%, with 581 standard tries -- 40%.
+Game ended at move: 3
+230 wins in 697 tries -- 33%, with 582 standard tries -- 40%.
+Game ended at move: 4
+230 wins in 698 tries -- 33%, with 583 standard tries -- 39%.
+231 wins in 699 tries -- 33%, with 584 standard tries -- 40%.
+Game ended at move: 52
+231 wins in 700 tries -- 33%, with 585 standard tries -- 39%.
+Game ended at move: 1
+231 wins in 701 tries -- 33%, with 585 standard tries -- 39%.
+Game ended at move: 53
+231 wins in 702 tries -- 33%, with 586 standard tries -- 39%.
+232 wins in 703 tries -- 33%, with 587 standard tries -- 40%.
+Game ended at move: 52
+232 wins in 704 tries -- 33%, with 588 standard tries -- 39%.
+Game ended at move: 14
+232 wins in 705 tries -- 33%, with 589 standard tries -- 39%.
+Game ended at move: 3
+232 wins in 706 tries -- 33%, with 590 standard tries -- 39%.
+233 wins in 707 tries -- 33%, with 591 standard tries -- 39%.
+Game ended at move: 4
+233 wins in 708 tries -- 33%, with 592 standard tries -- 39%.
+Game ended at move: 40
+233 wins in 709 tries -- 33%, with 593 standard tries -- 39%.
+Game ended at move: 54
+233 wins in 710 tries -- 33%, with 594 standard tries -- 39%.
+Game ended at move: 6
+233 wins in 711 tries -- 33%, with 595 standard tries -- 39%.
+Game ended at move: 37
+233 wins in 712 tries -- 33%, with 596 standard tries -- 39%.
+Game ended at move: 10
+233 wins in 713 tries -- 33%, with 597 standard tries -- 39%.
+Game ended at move: 1
+233 wins in 714 tries -- 33%, with 597 standard tries -- 39%.
+234 wins in 715 tries -- 33%, with 598 standard tries -- 39%.
+235 wins in 716 tries -- 33%, with 599 standard tries -- 39%.
+236 wins in 717 tries -- 33%, with 600 standard tries -- 39%.
+237 wins in 718 tries -- 33%, with 601 standard tries -- 39%.
+Game ended at move: 2
+237 wins in 719 tries -- 33%, with 602 standard tries -- 39%.
+238 wins in 720 tries -- 33%, with 603 standard tries -- 39%.
+239 wins in 721 tries -- 33%, with 604 standard tries -- 40%.
+Game ended at move: 1
+239 wins in 722 tries -- 33%, with 604 standard tries -- 40%.
+Game ended at move: 50
+239 wins in 723 tries -- 33%, with 605 standard tries -- 40%.
+Game ended at move: 12
+239 wins in 724 tries -- 33%, with 606 standard tries -- 39%.
+Game ended at move: 34
+239 wins in 725 tries -- 33%, with 607 standard tries -- 39%.
+240 wins in 726 tries -- 33%, with 608 standard tries -- 39%.
+Game ended at move: 8
+240 wins in 727 tries -- 33%, with 609 standard tries -- 39%.
+241 wins in 728 tries -- 33%, with 610 standard tries -- 40%.
+242 wins in 729 tries -- 33%, with 611 standard tries -- 40%.
+Game ended at move: 6
+242 wins in 730 tries -- 33%, with 612 standard tries -- 40%.
+Game ended at move: 3
+242 wins in 731 tries -- 33%, with 613 standard tries -- 39%.
+243 wins in 732 tries -- 33%, with 614 standard tries -- 40%.
+Game ended at move: 44
+243 wins in 733 tries -- 33%, with 615 standard tries -- 40%.
+Game ended at move: 51
+243 wins in 734 tries -- 33%, with 616 standard tries -- 39%.
+Game ended at move: 1
+243 wins in 735 tries -- 33%, with 616 standard tries -- 39%.
+244 wins in 736 tries -- 33%, with 617 standard tries -- 40%.
+245 wins in 737 tries -- 33%, with 618 standard tries -- 40%.
+Game ended at move: 27
+245 wins in 738 tries -- 33%, with 619 standard tries -- 40%.
+246 wins in 739 tries -- 33%, with 620 standard tries -- 40%.
+Game ended at move: 2
+246 wins in 740 tries -- 33%, with 621 standard tries -- 40%.
+Game ended at move: 1
+246 wins in 741 tries -- 33%, with 621 standard tries -- 40%.
+Game ended at move: 2
+246 wins in 742 tries -- 33%, with 622 standard tries -- 40%.
+Game ended at move: 11
+246 wins in 743 tries -- 33%, with 623 standard tries -- 39%.
+Game ended at move: 46
+246 wins in 744 tries -- 33%, with 624 standard tries -- 39%.
+Game ended at move: 1
+246 wins in 745 tries -- 33%, with 624 standard tries -- 39%.
+Game ended at move: 46
+246 wins in 746 tries -- 33%, with 625 standard tries -- 39%.
+Game ended at move: 44
+246 wins in 747 tries -- 33%, with 626 standard tries -- 39%.
+Game ended at move: 3
+246 wins in 748 tries -- 33%, with 627 standard tries -- 39%.
+247 wins in 749 tries -- 33%, with 628 standard tries -- 39%.
+Game ended at move: 31
+247 wins in 750 tries -- 33%, with 629 standard tries -- 39%.
+Game ended at move: 51
+247 wins in 751 tries -- 33%, with 630 standard tries -- 39%.
+248 wins in 752 tries -- 33%, with 631 standard tries -- 39%.
+249 wins in 753 tries -- 33%, with 632 standard tries -- 39%.
+Game ended at move: 1
+249 wins in 754 tries -- 33%, with 632 standard tries -- 39%.
+Game ended at move: 2
+249 wins in 755 tries -- 33%, with 633 standard tries -- 39%.
+Game ended at move: 3
+249 wins in 756 tries -- 33%, with 634 standard tries -- 39%.
+Game ended at move: 35
+249 wins in 757 tries -- 33%, with 635 standard tries -- 39%.
+Game ended at move: 38
+249 wins in 758 tries -- 33%, with 636 standard tries -- 39%.
+Game ended at move: 2
+249 wins in 759 tries -- 33%, with 637 standard tries -- 39%.
+250 wins in 760 tries -- 33%, with 638 standard tries -- 39%.
+251 wins in 761 tries -- 33%, with 639 standard tries -- 39%.
+Game ended at move: 39
+251 wins in 762 tries -- 33%, with 640 standard tries -- 39%.
+Game ended at move: 26
+251 wins in 763 tries -- 33%, with 641 standard tries -- 39%.
+Game ended at move: 2
+251 wins in 764 tries -- 33%, with 642 standard tries -- 39%.
+252 wins in 765 tries -- 33%, with 643 standard tries -- 39%.
+Game ended at move: 42
+252 wins in 766 tries -- 33%, with 644 standard tries -- 39%.
+253 wins in 767 tries -- 33%, with 645 standard tries -- 39%.
+Game ended at move: 52
+253 wins in 768 tries -- 33%, with 646 standard tries -- 39%.
+Game ended at move: 1
+253 wins in 769 tries -- 33%, with 646 standard tries -- 39%.
+Game ended at move: 10
+253 wins in 770 tries -- 33%, with 647 standard tries -- 39%.
+254 wins in 771 tries -- 33%, with 648 standard tries -- 39%.
+Game ended at move: 21
+254 wins in 772 tries -- 33%, with 649 standard tries -- 39%.
+Game ended at move: 5
+254 wins in 773 tries -- 33%, with 650 standard tries -- 39%.
+Game ended at move: 4
+254 wins in 774 tries -- 33%, with 651 standard tries -- 39%.
+Game ended at move: 1
+254 wins in 775 tries -- 33%, with 651 standard tries -- 39%.
+255 wins in 776 tries -- 33%, with 652 standard tries -- 39%.
+256 wins in 777 tries -- 33%, with 653 standard tries -- 39%.
+Game ended at move: 2
+256 wins in 778 tries -- 33%, with 654 standard tries -- 39%.
+257 wins in 779 tries -- 33%, with 655 standard tries -- 39%.
+Game ended at move: 52
+257 wins in 780 tries -- 33%, with 656 standard tries -- 39%.
+Game ended at move: 20
+257 wins in 781 tries -- 33%, with 657 standard tries -- 39%.
+258 wins in 782 tries -- 33%, with 658 standard tries -- 39%.
+Game ended at move: 24
+258 wins in 783 tries -- 33%, with 659 standard tries -- 39%.
+Game ended at move: 1
+258 wins in 784 tries -- 33%, with 659 standard tries -- 39%.
+Game ended at move: 2
+258 wins in 785 tries -- 33%, with 660 standard tries -- 39%.
+259 wins in 786 tries -- 33%, with 661 standard tries -- 39%.
+Game ended at move: 45
+259 wins in 787 tries -- 33%, with 662 standard tries -- 39%.
+Game ended at move: 2
+259 wins in 788 tries -- 33%, with 663 standard tries -- 39%.
+Game ended at move: 8
+259 wins in 789 tries -- 33%, with 664 standard tries -- 39%.
+Game ended at move: 25
+259 wins in 790 tries -- 33%, with 665 standard tries -- 39%.
+Game ended at move: 1
+259 wins in 791 tries -- 33%, with 665 standard tries -- 39%.
+Game ended at move: 1
+259 wins in 792 tries -- 33%, with 665 standard tries -- 39%.
+260 wins in 793 tries -- 33%, with 666 standard tries -- 39%.
+Game ended at move: 5
+260 wins in 794 tries -- 33%, with 667 standard tries -- 39%.
+261 wins in 795 tries -- 33%, with 668 standard tries -- 39%.
+Game ended at move: 2
+261 wins in 796 tries -- 33%, with 669 standard tries -- 39%.
+Game ended at move: 22
+261 wins in 797 tries -- 33%, with 670 standard tries -- 39%.
+Game ended at move: 2
+261 wins in 798 tries -- 33%, with 671 standard tries -- 39%.
+262 wins in 799 tries -- 33%, with 672 standard tries -- 39%.
+Game ended at move: 2
+262 wins in 800 tries -- 33%, with 673 standard tries -- 39%.
+263 wins in 801 tries -- 33%, with 674 standard tries -- 39%.
+Game ended at move: 54
+263 wins in 802 tries -- 33%, with 675 standard tries -- 39%.
+264 wins in 803 tries -- 33%, with 676 standard tries -- 39%.
+Game ended at move: 51
+264 wins in 804 tries -- 33%, with 677 standard tries -- 39%.
+265 wins in 805 tries -- 33%, with 678 standard tries -- 39%.
+266 wins in 806 tries -- 33%, with 679 standard tries -- 39%.
+267 wins in 807 tries -- 33%, with 680 standard tries -- 39%.
+Game ended at move: 43
+267 wins in 808 tries -- 33%, with 681 standard tries -- 39%.
+268 wins in 809 tries -- 33%, with 682 standard tries -- 39%.
+Game ended at move: 14
+268 wins in 810 tries -- 33%, with 683 standard tries -- 39%.
+Game ended at move: 3
+268 wins in 811 tries -- 33%, with 684 standard tries -- 39%.
+269 wins in 812 tries -- 33%, with 685 standard tries -- 39%.
+Game ended at move: 1
+269 wins in 813 tries -- 33%, with 685 standard tries -- 39%.
+Game ended at move: 2
+269 wins in 814 tries -- 33%, with 686 standard tries -- 39%.
+Game ended at move: 1
+269 wins in 815 tries -- 33%, with 686 standard tries -- 39%.
+Game ended at move: 1
+269 wins in 816 tries -- 33%, with 686 standard tries -- 39%.
+Game ended at move: 9
+269 wins in 817 tries -- 33%, with 687 standard tries -- 39%.
+Game ended at move: 15
+269 wins in 818 tries -- 33%, with 688 standard tries -- 39%.
+Game ended at move: 5
+269 wins in 819 tries -- 33%, with 689 standard tries -- 39%.
+Game ended at move: 51
+269 wins in 820 tries -- 33%, with 690 standard tries -- 39%.
+Game ended at move: 2
+269 wins in 821 tries -- 33%, with 691 standard tries -- 39%.
+Game ended at move: 1
+269 wins in 822 tries -- 33%, with 691 standard tries -- 39%.
+Game ended at move: 6
+269 wins in 823 tries -- 33%, with 692 standard tries -- 39%.
+Game ended at move: 7
+269 wins in 824 tries -- 33%, with 693 standard tries -- 39%.
+Game ended at move: 43
+269 wins in 825 tries -- 33%, with 694 standard tries -- 39%.
+Game ended at move: 1
+269 wins in 826 tries -- 33%, with 694 standard tries -- 39%.
+Game ended at move: 16
+269 wins in 827 tries -- 33%, with 695 standard tries -- 39%.
+Game ended at move: 1
+269 wins in 828 tries -- 32%, with 695 standard tries -- 39%.
+Game ended at move: 2
+269 wins in 829 tries -- 32%, with 696 standard tries -- 39%.
+Game ended at move: 9
+269 wins in 830 tries -- 32%, with 697 standard tries -- 39%.
+Game ended at move: 6
+269 wins in 831 tries -- 32%, with 698 standard tries -- 39%.
+Game ended at move: 17
+269 wins in 832 tries -- 32%, with 699 standard tries -- 38%.
+Game ended at move: 5
+269 wins in 833 tries -- 32%, with 700 standard tries -- 38%.
+Game ended at move: 13
+269 wins in 834 tries -- 32%, with 701 standard tries -- 38%.
+Game ended at move: 14
+269 wins in 835 tries -- 32%, with 702 standard tries -- 38%.
+270 wins in 836 tries -- 32%, with 703 standard tries -- 38%.
+Game ended at move: 50
+270 wins in 837 tries -- 32%, with 704 standard tries -- 38%.
+271 wins in 838 tries -- 32%, with 705 standard tries -- 38%.
+Game ended at move: 3
+271 wins in 839 tries -- 32%, with 706 standard tries -- 38%.
+Game ended at move: 9
+271 wins in 840 tries -- 32%, with 707 standard tries -- 38%.
+272 wins in 841 tries -- 32%, with 708 standard tries -- 38%.
+Game ended at move: 5
+272 wins in 842 tries -- 32%, with 709 standard tries -- 38%.
+273 wins in 843 tries -- 32%, with 710 standard tries -- 38%.
+274 wins in 844 tries -- 32%, with 711 standard tries -- 39%.
+Game ended at move: 53
+274 wins in 845 tries -- 32%, with 712 standard tries -- 38%.
+Game ended at move: 24
+274 wins in 846 tries -- 32%, with 713 standard tries -- 38%.
+Game ended at move: 52
+274 wins in 847 tries -- 32%, with 714 standard tries -- 38%.
+Game ended at move: 1
+274 wins in 848 tries -- 32%, with 714 standard tries -- 38%.
+275 wins in 849 tries -- 32%, with 715 standard tries -- 38%.
+Game ended at move: 34
+275 wins in 850 tries -- 32%, with 716 standard tries -- 38%.
+276 wins in 851 tries -- 32%, with 717 standard tries -- 38%.
+Game ended at move: 42
+276 wins in 852 tries -- 32%, with 718 standard tries -- 38%.
+Game ended at move: 3
+276 wins in 853 tries -- 32%, with 719 standard tries -- 38%.
+Game ended at move: 2
+276 wins in 854 tries -- 32%, with 720 standard tries -- 38%.
+Game ended at move: 1
+276 wins in 855 tries -- 32%, with 720 standard tries -- 38%.
+277 wins in 856 tries -- 32%, with 721 standard tries -- 38%.
+Game ended at move: 1
+277 wins in 857 tries -- 32%, with 721 standard tries -- 38%.
+Game ended at move: 44
+277 wins in 858 tries -- 32%, with 722 standard tries -- 38%.
+Game ended at move: 3
+277 wins in 859 tries -- 32%, with 723 standard tries -- 38%.
+Game ended at move: 13
+277 wins in 860 tries -- 32%, with 724 standard tries -- 38%.
+Game ended at move: 4
+277 wins in 861 tries -- 32%, with 725 standard tries -- 38%.
+Game ended at move: 4
+277 wins in 862 tries -- 32%, with 726 standard tries -- 38%.
+Game ended at move: 1
+277 wins in 863 tries -- 32%, with 726 standard tries -- 38%.
+Game ended at move: 2
+277 wins in 864 tries -- 32%, with 727 standard tries -- 38%.
+278 wins in 865 tries -- 32%, with 728 standard tries -- 38%.
+Game ended at move: 1
+278 wins in 866 tries -- 32%, with 728 standard tries -- 38%.
+Game ended at move: 1
+278 wins in 867 tries -- 32%, with 728 standard tries -- 38%.
+Game ended at move: 2
+278 wins in 868 tries -- 32%, with 729 standard tries -- 38%.
+Game ended at move: 48
+278 wins in 869 tries -- 32%, with 730 standard tries -- 38%.
+279 wins in 870 tries -- 32%, with 731 standard tries -- 38%.
+280 wins in 871 tries -- 32%, with 732 standard tries -- 38%.
+Game ended at move: 43
+280 wins in 872 tries -- 32%, with 733 standard tries -- 38%.
+Game ended at move: 7
+280 wins in 873 tries -- 32%, with 734 standard tries -- 38%.
+Game ended at move: 1
+280 wins in 874 tries -- 32%, with 734 standard tries -- 38%.
+Game ended at move: 52
+280 wins in 875 tries -- 32%, with 735 standard tries -- 38%.
+281 wins in 876 tries -- 32%, with 736 standard tries -- 38%.
+Game ended at move: 1
+281 wins in 877 tries -- 32%, with 736 standard tries -- 38%.
+282 wins in 878 tries -- 32%, with 737 standard tries -- 38%.
+283 wins in 879 tries -- 32%, with 738 standard tries -- 38%.
+Game ended at move: 37
+283 wins in 880 tries -- 32%, with 739 standard tries -- 38%.
+284 wins in 881 tries -- 32%, with 740 standard tries -- 38%.
+285 wins in 882 tries -- 32%, with 741 standard tries -- 38%.
+Game ended at move: 2
+285 wins in 883 tries -- 32%, with 742 standard tries -- 38%.
+Game ended at move: 1
+285 wins in 884 tries -- 32%, with 742 standard tries -- 38%.
+Game ended at move: 3
+285 wins in 885 tries -- 32%, with 743 standard tries -- 38%.
+Game ended at move: 7
+285 wins in 886 tries -- 32%, with 744 standard tries -- 38%.
+286 wins in 887 tries -- 32%, with 745 standard tries -- 38%.
+Game ended at move: 1
+286 wins in 888 tries -- 32%, with 745 standard tries -- 38%.
+287 wins in 889 tries -- 32%, with 746 standard tries -- 38%.
+Game ended at move: 3
+287 wins in 890 tries -- 32%, with 747 standard tries -- 38%.
+Game ended at move: 17
+287 wins in 891 tries -- 32%, with 748 standard tries -- 38%.
+Game ended at move: 47
+287 wins in 892 tries -- 32%, with 749 standard tries -- 38%.
+288 wins in 893 tries -- 32%, with 750 standard tries -- 38%.
+Game ended at move: 49
+288 wins in 894 tries -- 32%, with 751 standard tries -- 38%.
+289 wins in 895 tries -- 32%, with 752 standard tries -- 38%.
+Game ended at move: 1
+289 wins in 896 tries -- 32%, with 752 standard tries -- 38%.
+290 wins in 897 tries -- 32%, with 753 standard tries -- 39%.
+Game ended at move: 54
+290 wins in 898 tries -- 32%, with 754 standard tries -- 38%.
+291 wins in 899 tries -- 32%, with 755 standard tries -- 39%.
+292 wins in 900 tries -- 32%, with 756 standard tries -- 39%.
+Game ended at move: 1
+292 wins in 901 tries -- 32%, with 756 standard tries -- 39%.
+Game ended at move: 4
+292 wins in 902 tries -- 32%, with 757 standard tries -- 39%.
+293 wins in 903 tries -- 32%, with 758 standard tries -- 39%.
+Game ended at move: 3
+293 wins in 904 tries -- 32%, with 759 standard tries -- 39%.
+Game ended at move: 1
+293 wins in 905 tries -- 32%, with 759 standard tries -- 39%.
+Game ended at move: 2
+293 wins in 906 tries -- 32%, with 760 standard tries -- 39%.
+Game ended at move: 1
+293 wins in 907 tries -- 32%, with 760 standard tries -- 39%.
+Game ended at move: 1
+293 wins in 908 tries -- 32%, with 760 standard tries -- 39%.
+Game ended at move: 2
+293 wins in 909 tries -- 32%, with 761 standard tries -- 39%.
+Game ended at move: 47
+293 wins in 910 tries -- 32%, with 762 standard tries -- 38%.
+Game ended at move: 54
+293 wins in 911 tries -- 32%, with 763 standard tries -- 38%.
+Game ended at move: 17
+293 wins in 912 tries -- 32%, with 764 standard tries -- 38%.
+294 wins in 913 tries -- 32%, with 765 standard tries -- 38%.
+Game ended at move: 1
+294 wins in 914 tries -- 32%, with 765 standard tries -- 38%.
+Game ended at move: 1
+294 wins in 915 tries -- 32%, with 765 standard tries -- 38%.
+Game ended at move: 45
+294 wins in 916 tries -- 32%, with 766 standard tries -- 38%.
+Game ended at move: 9
+294 wins in 917 tries -- 32%, with 767 standard tries -- 38%.
+295 wins in 918 tries -- 32%, with 768 standard tries -- 38%.
+Game ended at move: 4
+295 wins in 919 tries -- 32%, with 769 standard tries -- 38%.
+Game ended at move: 52
+295 wins in 920 tries -- 32%, with 770 standard tries -- 38%.
+Game ended at move: 1
+295 wins in 921 tries -- 32%, with 770 standard tries -- 38%.
+296 wins in 922 tries -- 32%, with 771 standard tries -- 38%.
+297 wins in 923 tries -- 32%, with 772 standard tries -- 38%.
+298 wins in 924 tries -- 32%, with 773 standard tries -- 39%.
+Game ended at move: 5
+298 wins in 925 tries -- 32%, with 774 standard tries -- 39%.
+Game ended at move: 3
+298 wins in 926 tries -- 32%, with 775 standard tries -- 38%.
+299 wins in 927 tries -- 32%, with 776 standard tries -- 39%.
+300 wins in 928 tries -- 32%, with 777 standard tries -- 39%.
+Game ended at move: 2
+300 wins in 929 tries -- 32%, with 778 standard tries -- 39%.
+Game ended at move: 2
+300 wins in 930 tries -- 32%, with 779 standard tries -- 39%.
+301 wins in 931 tries -- 32%, with 780 standard tries -- 39%.
+Game ended at move: 48
+301 wins in 932 tries -- 32%, with 781 standard tries -- 39%.
+Game ended at move: 14
+301 wins in 933 tries -- 32%, with 782 standard tries -- 38%.
+Game ended at move: 14
+301 wins in 934 tries -- 32%, with 783 standard tries -- 38%.
+Game ended at move: 30
+301 wins in 935 tries -- 32%, with 784 standard tries -- 38%.
+Game ended at move: 2
+301 wins in 936 tries -- 32%, with 785 standard tries -- 38%.
+Game ended at move: 2
+301 wins in 937 tries -- 32%, with 786 standard tries -- 38%.
+Game ended at move: 3
+301 wins in 938 tries -- 32%, with 787 standard tries -- 38%.
+Game ended at move: 3
+301 wins in 939 tries -- 32%, with 788 standard tries -- 38%.
+Game ended at move: 1
+301 wins in 940 tries -- 32%, with 788 standard tries -- 38%.
+Game ended at move: 4
+301 wins in 941 tries -- 32%, with 789 standard tries -- 38%.
+Game ended at move: 1
+301 wins in 942 tries -- 32%, with 789 standard tries -- 38%.
+Game ended at move: 1
+301 wins in 943 tries -- 32%, with 789 standard tries -- 38%.
+Game ended at move: 53
+301 wins in 944 tries -- 32%, with 790 standard tries -- 38%.
+Game ended at move: 2
+301 wins in 945 tries -- 32%, with 791 standard tries -- 38%.
+Game ended at move: 52
+301 wins in 946 tries -- 32%, with 792 standard tries -- 38%.
+Game ended at move: 4
+301 wins in 947 tries -- 32%, with 793 standard tries -- 38%.
+Game ended at move: 1
+301 wins in 948 tries -- 32%, with 793 standard tries -- 38%.
+Game ended at move: 10
+301 wins in 949 tries -- 32%, with 794 standard tries -- 38%.
+Game ended at move: 46
+301 wins in 950 tries -- 32%, with 795 standard tries -- 38%.
+Game ended at move: 1
+301 wins in 951 tries -- 32%, with 795 standard tries -- 38%.
+Game ended at move: 47
+301 wins in 952 tries -- 32%, with 796 standard tries -- 38%.
+302 wins in 953 tries -- 32%, with 797 standard tries -- 38%.
+Game ended at move: 2
+302 wins in 954 tries -- 32%, with 798 standard tries -- 38%.
+Game ended at move: 5
+302 wins in 955 tries -- 32%, with 799 standard tries -- 38%.
+303 wins in 956 tries -- 32%, with 800 standard tries -- 38%.
+Game ended at move: 1
+303 wins in 957 tries -- 32%, with 800 standard tries -- 38%.
+Game ended at move: 1
+303 wins in 958 tries -- 32%, with 800 standard tries -- 38%.
+Game ended at move: 2
+303 wins in 959 tries -- 32%, with 801 standard tries -- 38%.
+304 wins in 960 tries -- 32%, with 802 standard tries -- 38%.
+305 wins in 961 tries -- 32%, with 803 standard tries -- 38%.
+Game ended at move: 54
+305 wins in 962 tries -- 32%, with 804 standard tries -- 38%.
+Game ended at move: 11
+305 wins in 963 tries -- 32%, with 805 standard tries -- 38%.
+Game ended at move: 1
+305 wins in 964 tries -- 32%, with 805 standard tries -- 38%.
+306 wins in 965 tries -- 32%, with 806 standard tries -- 38%.
+307 wins in 966 tries -- 32%, with 807 standard tries -- 38%.
+308 wins in 967 tries -- 32%, with 808 standard tries -- 38%.
+Game ended at move: 2
+308 wins in 968 tries -- 32%, with 809 standard tries -- 38%.
+Game ended at move: 33
+308 wins in 969 tries -- 32%, with 810 standard tries -- 38%.
+Game ended at move: 51
+308 wins in 970 tries -- 32%, with 811 standard tries -- 38%.
+Game ended at move: 12
+308 wins in 971 tries -- 32%, with 812 standard tries -- 38%.
+Game ended at move: 51
+308 wins in 972 tries -- 32%, with 813 standard tries -- 38%.
+Game ended at move: 2
+308 wins in 973 tries -- 32%, with 814 standard tries -- 38%.
+309 wins in 974 tries -- 32%, with 815 standard tries -- 38%.
+Game ended at move: 14
+309 wins in 975 tries -- 32%, with 816 standard tries -- 38%.
+Game ended at move: 3
+309 wins in 976 tries -- 32%, with 817 standard tries -- 38%.
+310 wins in 977 tries -- 32%, with 818 standard tries -- 38%.
+311 wins in 978 tries -- 32%, with 819 standard tries -- 38%.
+312 wins in 979 tries -- 32%, with 820 standard tries -- 38%.
+Game ended at move: 3
+312 wins in 980 tries -- 32%, with 821 standard tries -- 38%.
+313 wins in 981 tries -- 32%, with 822 standard tries -- 38%.
+Game ended at move: 2
+313 wins in 982 tries -- 32%, with 823 standard tries -- 38%.
+314 wins in 983 tries -- 32%, with 824 standard tries -- 38%.
+Game ended at move: 53
+314 wins in 984 tries -- 32%, with 825 standard tries -- 38%.
+Game ended at move: 1
+314 wins in 985 tries -- 32%, with 825 standard tries -- 38%.
+Game ended at move: 37
+314 wins in 986 tries -- 32%, with 826 standard tries -- 38%.
+Game ended at move: 17
+314 wins in 987 tries -- 32%, with 827 standard tries -- 38%.
+315 wins in 988 tries -- 32%, with 828 standard tries -- 38%.
+Game ended at move: 2
+315 wins in 989 tries -- 32%, with 829 standard tries -- 38%.
+316 wins in 990 tries -- 32%, with 830 standard tries -- 38%.
+Game ended at move: 16
+316 wins in 991 tries -- 32%, with 831 standard tries -- 38%.
+Game ended at move: 10
+316 wins in 992 tries -- 32%, with 832 standard tries -- 38%.
+317 wins in 993 tries -- 32%, with 833 standard tries -- 38%.
+Game ended at move: 53
+317 wins in 994 tries -- 32%, with 834 standard tries -- 38%.
+Game ended at move: 7
+317 wins in 995 tries -- 32%, with 835 standard tries -- 38%.
+318 wins in 996 tries -- 32%, with 836 standard tries -- 38%.
+Game ended at move: 43
+318 wins in 997 tries -- 32%, with 837 standard tries -- 38%.
+319 wins in 998 tries -- 32%, with 838 standard tries -- 38%.
+320 wins in 999 tries -- 32%, with 839 standard tries -- 38%.
+321 wins in 1000 tries -- 32%, with 840 standard tries -- 38%.

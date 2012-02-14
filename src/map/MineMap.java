@@ -49,6 +49,7 @@ public class MineMap implements Map {
    * mark_map[y][x] == true implies unprobed_map[y][x] == true
    */
   boolean unprobed_map[][];
+  public int probedNum = 0;
 
   private MineMap() { }
 
@@ -173,6 +174,7 @@ public class MineMap implements Map {
       return OUT_OF_BOUNDS;
     else if (mark_map[y][x])
       return MARKED;
+    if(unprobed_map[y][x]) probedNum++;
     unprobed_map[y][x] = false;
     if (mine_map[y][x] < 0)
       finished = true;
